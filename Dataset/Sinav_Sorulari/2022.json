@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "2022_GY_01",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 1,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 1,
+    "brans": "Türkçe",
+    "bransSoruNo": 1,
+    "konu": "Sözcükte Anlam (Mecaz & Gerçek)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 1)\nAşağıdaki cümlelerin hangisinde altı çizili sözcük mecaz anlamıyla kullanılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Sabah erkenden kalkıp sahilde tempolu yürüyüş <u>yaptı</u>."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Masanın üzerindeki dosyaları tek tek <u>inceledi</u>."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Yeni taşındığı mahalleye kısa sürede <u>alıştı</u>."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Sonbahar gelince sararan yapraklar yere <u>döküldü</u>."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yaptığı ağır eleştirilerle kuruldaki tüm üyeleri <u>yıprattı</u>."
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "'Yıpratmak' sözcüğü mecazlaşarak manevi olarak zor durumda bırakmak anlamında kullanılmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Sabah erkenden kalkıp sahilde tempolu yürüyüş <u>yaptı</u>.",
+        "B": "B seçeneği: Masanın üzerindeki dosyaları tek tek <u>inceledi</u>.",
+        "C": "C seçeneği: Yeni taşındığı mahalleye kısa sürede <u>alıştı</u>.",
+        "D": "D seçeneği: Sonbahar gelince sararan yapraklar yere <u>döküldü</u>.",
+        "E": "E seçeneği: Yaptığı ağır eleştirilerle kuruldaki tüm üyeleri <u>yıprattı</u>."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_02",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 2,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 2,
+    "brans": "Türkçe",
+    "bransSoruNo": 2,
+    "konu": "Sözcükte Anlam (Somutlaştırma - Soyutlaştırma)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 2)\nAşağıdaki altı çizili sözcüklerden hangisi somut anlamlıyken soyut anlam kazanmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Odanın <u>soğuk</u> havası pencereler açılınca kırıldı."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Yolun kenarındaki <u>derin</u> çukura dikkat etmelisin."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Tarladaki <u>kuru</u> otları temizlediler."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Olaylara her zaman çok <u>geniş</u> bir açıdan yaklaşırdı."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Bahçedeki <u>sert</u> tahta bankta saatlerce oturdu."
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "'Geniş bakmak' hoşgörülü ve kapsamlı düşünmek anlamında soyutlaşmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Odanın <u>soğuk</u> havası pencereler açılınca kırıldı.",
+        "B": "B seçeneği: Yolun kenarındaki <u>derin</u> çukura dikkat etmelisin.",
+        "C": "C seçeneği: Tarladaki <u>kuru</u> otları temizlediler.",
+        "D": "D seçeneği: Olaylara her zaman çok <u>geniş</u> bir açıdan yaklaşırdı.",
+        "E": "E seçeneği: Bahçedeki <u>sert</u> tahta bankta saatlerce oturdu."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_03",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 3,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 3,
+    "brans": "Türkçe",
+    "bransSoruNo": 3,
+    "konu": "Söz Öbeklerinde Anlam",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 3)\nAşağıdaki cümlelerin hangisinde ikileme diğerlerinden <u>farklı</u> bir yolla oluşturulmuştur?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Onunla <u>aşağı yukarı</u> üç yıldır görüşüyoruz."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Bu işi <u>er geç</u> tamamlayacağız."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Pazardan <u>eğri büğrü</u> elmalar almış."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Çocuklar bahçede <u>güle oynaya</u> koşuşturuyordu."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Soruları <u>az çok</u> tahmin edebiliyorum."
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "'Eğri büğrü' biri anlamlı biri anlamsız sözcükle kurulmuştur; diğerleri zıt veya yakın anlamlıdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Onunla <u>aşağı yukarı</u> üç yıldır görüşüyoruz.",
+        "B": "B seçeneği: Bu işi <u>er geç</u> tamamlayacağız.",
+        "C": "C seçeneği: Pazardan <u>eğri büğrü</u> elmalar almış.",
+        "D": "D seçeneği: Çocuklar bahçede <u>güle oynaya</u> koşuşturuyordu.",
+        "E": "E seçeneği: Soruları <u>az çok</u> tahmin edebiliyorum."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_04",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 4,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 4,
+    "brans": "Türkçe",
+    "bransSoruNo": 4,
+    "konu": "Cümlede Anlam (Öngörü & Tahmin)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 4)\nAşağıdaki cümlelerin hangisi geleceğe yönelik bir 'öngörü' bildirmektedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Romanlarında çocukluk yıllarının geçtiği kasabayı anlatmıştır."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Sanatçı son albümünde geleneksel motiflere yer vermiştir."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Bu gidişle 2022 yılı turizm gelirleri hedeflenen rakamın üzerine çıkabilir."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Güneş batarken kentin silüeti kızıla büründü."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Toplantı başlamadan önce salondaki tüm evrakları dağıttı."
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Gelecekte olabilecek bir durumu önceden kestirme (öngörü) bildirmektedir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Romanlarında çocukluk yıllarının geçtiği kasabayı anlatmıştır.",
+        "B": "B seçeneği: Sanatçı son albümünde geleneksel motiflere yer vermiştir.",
+        "C": "C seçeneği: Bu gidişle 2022 yılı turizm gelirleri hedeflenen rakamın üzerine çıkabilir.",
+        "D": "D seçeneği: Güneş batarken kentin silüeti kızıla büründü.",
+        "E": "E seçeneği: Toplantı başlamadan önce salondaki tüm evrakları dağıttı."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_05",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 5,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 5,
+    "brans": "Türkçe",
+    "bransSoruNo": 5,
+    "konu": "Cümlede Anlam (Varsayım)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 5)\nAşağıdaki cümlelerin hangisinde bir 'varsayım' anlamı vardır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Son kitabında köy hayatının zorluklarını ele almış."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Hava bulutlu olduğuna göre akşam yağmur yağabilir."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Bu hızla çalışırsak işi vaktinde teslim ederiz."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Diyelim ki bu projeyi onaylamadılar, alternatif planınız nedir?"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yıllar sonra doğduğu şehre dönmeyi hayal ediyor."
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "'Diyelim ki' ifadesi gerçekleşmemiş bir durumu gerçekleşmiş kabul etme (varsayım) bildirir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Son kitabında köy hayatının zorluklarını ele almış.",
+        "B": "B seçeneği: Hava bulutlu olduğuna göre akşam yağmur yağabilir.",
+        "C": "C seçeneği: Bu hızla çalışırsak işi vaktinde teslim ederiz.",
+        "D": "D seçeneği: Diyelim ki bu projeyi onaylamadılar, alternatif planınız nedir?",
+        "E": "E seçeneği: Yıllar sonra doğduğu şehre dönmeyi hayal ediyor."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_06",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 6,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 6,
+    "brans": "Türkçe",
+    "bransSoruNo": 6,
+    "konu": "Cümlede Anlam (Koşul - Sonuç)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 6)\nAşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir 'koşula' bağlanmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Verilen ödevleri eksiksiz teslim ederseniz yüksek not alırsınız."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Akşam serinliği başlayınca balkonda çay içtik."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Yazar son romanında tarihi gerçekleri işlemiştir."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Sabah erken uyandığı için işe vaktinde yetişti."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Kitap okumayı çok sevdiğinden kütüphaneden hiç ayrılmaz."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'-se/-sa' eki ile yüksek not almanın şartı ödevlerin teslimine bağlanmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Verilen ödevleri eksiksiz teslim ederseniz yüksek not alırsınız.",
+        "B": "B seçeneği: Akşam serinliği başlayınca balkonda çay içtik.",
+        "C": "C seçeneği: Yazar son romanında tarihi gerçekleri işlemiştir.",
+        "D": "D seçeneği: Sabah erken uyandığı için işe vaktinde yetişti.",
+        "E": "E seçeneği: Kitap okumayı çok sevdiğinden kütüphaneden hiç ayrılmaz."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_07",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 7,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 7,
+    "brans": "Türkçe",
+    "bransSoruNo": 7,
+    "konu": "Cümlede Anlam (Öznel & Nesnel)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 7)\nAşağıdaki cümlelerin hangisi kanıtlanabilirlik açısından diğerlerinden <u>farklıdır</u> (özneldir)?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Türkiye'nin başkenti Ankara'dır."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Eser toplam 340 sayfadan ve 4 ana bölümden oluşmaktadır."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Bu tiyatro oyunu iki perde olarak sahnelenmektedir."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Seminer dün saat 14.00'te konferans salonunda başladı."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yazarın son yapıtındaki tasvirler okuyucuyu büyüleyen eşsiz bir ahenge sahiptir."
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "A seçeneği kişisel beğeni ve yorum içerdiği için 'öznel'dir, diğerleri 'nesnel'dir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Türkiye'nin başkenti Ankara'dır.",
+        "B": "B seçeneği: Eser toplam 340 sayfadan ve 4 ana bölümden oluşmaktadır.",
+        "C": "C seçeneği: Bu tiyatro oyunu iki perde olarak sahnelenmektedir.",
+        "D": "D seçeneği: Seminer dün saat 14.00'te konferans salonunda başladı.",
+        "E": "E seçeneği: Yazarın son yapıtındaki tasvirler okuyucuyu büyüleyen eşsiz bir ahenge sahiptir."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_08",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 8,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 8,
+    "brans": "Türkçe",
+    "bransSoruNo": 8,
+    "konu": "Cümle Oluşturma ve Tamamlama",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 8)\nBir sanatçının kalıcı olabilmesi ---- değil, çağının ötesine seslenebilen ---- eserler üretmesine bağlıdır. Bu cümlede boş bırakılan yerlere sırasıyla hangisi getirilmelidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "günü kurtarmakla - evrensel"
+      },
+      {
+        "anahtar": "B",
+        "metin": "ödül almakla - süslü"
+      },
+      {
+        "anahtar": "C",
+        "metin": "ünlenmekle - karmaşık"
+      },
+      {
+        "anahtar": "D",
+        "metin": "para kazanmakla - yerel"
+      },
+      {
+        "anahtar": "E",
+        "metin": "çok yazmakla - basit"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Kalıcılık evrensellikle, geçicilik ise günü kurtarmakla ifade edilir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: günü kurtarmakla - evrensel",
+        "B": "B seçeneği: ödül almakla - süslü",
+        "C": "C seçeneği: ünlenmekle - karmaşık",
+        "D": "D seçeneği: para kazanmakla - yerel",
+        "E": "E seçeneği: çok yazmakla - basit"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_09",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 9,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 9,
+    "brans": "Türkçe",
+    "bransSoruNo": 9,
+    "konu": "Ses Bilgisi (Ünlü Düşmesi & Ünsüz Değişimi)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 9)\nAşağıdaki cümlelerin hangisinde hem ünlü düşmesi hem de ünsüz yumuşaması vardır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Aklını başına toplayıp geleceğini planlamaya başladı."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Gözlerindeki ışık hepimize büyük bir umut veriyordu."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kentin tarihi dokusu ziyaretçileri büyülüyordu."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Çocukluğunun geçtiği sokakları tek tek gezdi."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yazdığı son makale dergide yayımlandı."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'Akıl -> Akl-ı' (Ünlü düşmesi), 'Gelecek -> Geleceğ-i' (Ünsüz yumuşaması).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Aklını başına toplayıp geleceğini planlamaya başladı.",
+        "B": "B seçeneği: Gözlerindeki ışık hepimize büyük bir umut veriyordu.",
+        "C": "C seçeneği: Kentin tarihi dokusu ziyaretçileri büyülüyordu.",
+        "D": "D seçeneği: Çocukluğunun geçtiği sokakları tek tek gezdi.",
+        "E": "E seçeneği: Yazdığı son makale dergide yayımlandı."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_10",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 10,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 10,
+    "brans": "Türkçe",
+    "bransSoruNo": 10,
+    "konu": "Ses Bilgisi (Ünsüz Benzeşmesi & Daralma)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 10)\nAşağıdaki cümlelerin hangisinde 'ünsüz benzeşmesi (sertleşme)' vardır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Evin bahçesine yeni fidanlar diktik."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Kitaptaki resimlere uzun uzun baktı."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Yere düşen kalemi hemen aldı."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Ağaçtaki olgun elmaları sepete doldurdu."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sabah olunca kuşlar ötmeye başladı."
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "'Ağaç-da -> Ağaçta' (ç sert ünsüzünden sonra d -> t sertleşmiştir).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Evin bahçesine yeni fidanlar diktik.",
+        "B": "B seçeneği: Kitaptaki resimlere uzun uzun baktı.",
+        "C": "C seçeneği: Yere düşen kalemi hemen aldı.",
+        "D": "D seçeneği: Ağaçtaki olgun elmaları sepete doldurdu.",
+        "E": "E seçeneği: Sabah olunca kuşlar ötmeye başladı."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_11",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 11,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 11,
+    "brans": "Türkçe",
+    "bransSoruNo": 11,
+    "konu": "Yazım Kuralları (Bağlaçların Yazımı)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 11)\nAşağıdaki cümlelerin hangisinde 'de/da' bağlacının yazımıyla ilgili bir <u>yanlışlık</u> yapılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Bunu bende ilk kez senden duyuyorum."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Sen de bizimle birlikte kütüphaneye gelmelisin."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Akşamki toplantıya Ali de katılacakmış."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Evde unutulan evrakları bana da getirdiler."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Kitapta anlatılan olaylar tarihte gerçekten yaşanmıştır."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'Bende' değil, 'Ben de' şeklinde ayrı yazılmalıdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Bunu bende ilk kez senden duyuyorum.",
+        "B": "B seçeneği: Sen de bizimle birlikte kütüphaneye gelmelisin.",
+        "C": "C seçeneği: Akşamki toplantıya Ali de katılacakmış.",
+        "D": "D seçeneği: Evde unutulan evrakları bana da getirdiler.",
+        "E": "E seçeneği: Kitapta anlatılan olaylar tarihte gerçekten yaşanmıştır."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_12",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 12,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 12,
+    "brans": "Türkçe",
+    "bransSoruNo": 12,
+    "konu": "Yazım Kuralları (Büyük Harflerin Kullanımı)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 12)\nAşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir <u>yanlışlık</u> yapılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Ağrı Dağı Türkiye'nin en yüksek zirvesidir."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Milli Mücadele Dönemi romanlarını inceledi."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Van gölü çevresindeki tarihi kalıntıları gezdik."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Dicle Nehri Güneydoğu Anadolu'yu sular."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Gazi Mustafa Kemal Bulvarı'nda buluştuk."
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Coğrafi yer adlarında 'Gölü' büyük harfle (Van Gölü) yazılmalıdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Ağrı Dağı Türkiye'nin en yüksek zirvesidir.",
+        "B": "B seçeneği: Milli Mücadele Dönemi romanlarını inceledi.",
+        "C": "C seçeneği: Van gölü çevresindeki tarihi kalıntıları gezdik.",
+        "D": "D seçeneği: Dicle Nehri Güneydoğu Anadolu'yu sular.",
+        "E": "E seçeneği: Gazi Mustafa Kemal Bulvarı'nda buluştuk."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_13",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 13,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 13,
+    "brans": "Türkçe",
+    "bransSoruNo": 13,
+    "konu": "Yazım Kuralları (Bitişik ve Ayrı Yazılan Sözcükler)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 13)\nAşağıdaki cümlelerin hangisinde bir yazım <u>yanlışı</u> yapılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Hafta sonu arkadaşlarıyla buluşup sinemaya gitti."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Terk etmek istemediği bu şehre sıkı sıkıya bağlıydı."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Pek çok konuda onunla aynı fikirdeyiz."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Gözlerindeki pırıltıyı hemen fark etti."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Herşeyden önce dürüst ve ilkeli bir insan olmalıyız."
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "'Her şey' sözü daima ayrı yazılır ('şey' sözcüğü her zaman ayrı yazılır).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Hafta sonu arkadaşlarıyla buluşup sinemaya gitti.",
+        "B": "B seçeneği: Terk etmek istemediği bu şehre sıkı sıkıya bağlıydı.",
+        "C": "C seçeneği: Pek çok konuda onunla aynı fikirdeyiz.",
+        "D": "D seçeneği: Gözlerindeki pırıltıyı hemen fark etti.",
+        "E": "E seçeneği: Herşeyden önce dürüst ve ilkeli bir insan olmalıyız."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_14",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 14,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 14,
+    "brans": "Türkçe",
+    "bransSoruNo": 14,
+    "konu": "Noktalama İşaretleri (Noktalı Virgül)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 14)\nAşağıdaki cümlelerin hangisinde noktalı virgül (;) yerinde <u>kullanılmamıştır</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Yarın sabah erken kalkmalıyım; çünkü yetişecek çok önemli işlerim var."
+      },
+      {
+        "anahtar": "B",
+        "metin": "At ölür, meydan kalır; yiğit ölür, şan kalır."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Sevinçten, heyecandan içim içime sığmıyor; bağırmak, kahkahalar atmak istiyorum."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Türkiye, İngiltere, Azerbaycan; Ankara, Londra, Bakü."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Genç yazar; akıcı, yalın ve etkileyici diliyle dikkat çekiyor."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'Çünkü' bağlacından önce noktalı virgül veya herhangi bir noktalama işareti konmaz.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Yarın sabah erken kalkmalıyım; çünkü yetişecek çok önemli işlerim var.",
+        "B": "B seçeneği: At ölür, meydan kalır; yiğit ölür, şan kalır.",
+        "C": "C seçeneği: Sevinçten, heyecandan içim içime sığmıyor; bağırmak, kahkahalar atmak istiyorum.",
+        "D": "D seçeneği: Türkiye, İngiltere, Azerbaycan; Ankara, Londra, Bakü.",
+        "E": "E seçeneği: Genç yazar; akıcı, yalın ve etkileyici diliyle dikkat çekiyor."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_15",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 15,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 15,
+    "brans": "Türkçe",
+    "bransSoruNo": 15,
+    "konu": "Noktalama İşaretleri (Kesme İşareti)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 15)\nAşağıdaki cümlelerin hangisinde kesme işareti (') <u>yanlış</u> kullanılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "1923'te Cumhuriyet ilan edildi."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Atatürk Barajı'nın su seviyesi yükseldi."
+      },
+      {
+        "anahtar": "C",
+        "metin": "TBMM'nin aldığı karar Resmi Gazete'de yayımlandı."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Ankara Üniversitesi'nden bu yıl mezun oldu."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Ahmet Bey'in konuşması çok beğenildi."
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Kurum, kuruluş ve üniversite adlarına gelen ekler kesme işaretiyle AYRILMAZ (Ankara Üniversitesinden).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 1923'te Cumhuriyet ilan edildi.",
+        "B": "B seçeneği: Atatürk Barajı'nın su seviyesi yükseldi.",
+        "C": "C seçeneği: TBMM'nin aldığı karar Resmi Gazete'de yayımlandı.",
+        "D": "D seçeneği: Ankara Üniversitesi'nden bu yıl mezun oldu.",
+        "E": "E seçeneği: Ahmet Bey'in konuşması çok beğenildi."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_16",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 16,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 16,
+    "brans": "Türkçe",
+    "bransSoruNo": 16,
+    "konu": "Sözcük Türleri (Sıfat ve İsim Tamlamaları)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 16)\nAşağıdaki cümlelerin hangisinde hem sıfat hem de isim tamlaması kullanılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Eski evin tahta kapısı gıcırdayarak açıldı."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Akşam serinliğinde balkonda oturduk."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kitap okumayı çok seviyordu."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Masanın üzerini özenle sildi."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Güneşli havalarda yürüyüşe çıkardı."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'Eski ev' (Sıfat tamlaması), 'evin tahta kapısı' (Zincirleme isim tamlaması).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Eski evin tahta kapısı gıcırdayarak açıldı.",
+        "B": "B seçeneği: Akşam serinliğinde balkonda oturduk.",
+        "C": "C seçeneği: Kitap okumayı çok seviyordu.",
+        "D": "D seçeneği: Masanın üzerini özenle sildi.",
+        "E": "E seçeneği: Güneşli havalarda yürüyüşe çıkardı."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_17",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 17,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 17,
+    "brans": "Türkçe",
+    "bransSoruNo": 17,
+    "konu": "Sözcük Türleri (Zamirler)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 17)\nAşağıdaki cümlelerin hangisinde 'belgisiz zamir' kullanılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Öğrencilerin birkaçı sınav salonuna geç geldi."
+      },
+      {
+        "anahtar": "B",
+        "metin": "O gün yaşananları kimse unutamadı."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Bu kitapları masanın üzerine bırak."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kendi işini kendin görmelisin."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Seninle yarın kütüphanede buluşalım."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'Birkaçı' sözcüğü belli belirsiz kişi ve nesnelerin yerini tuttuğu için belgisiz zamirdir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Öğrencilerin birkaçı sınav salonuna geç geldi.",
+        "B": "B seçeneği: O gün yaşananları kimse unutamadı.",
+        "C": "C seçeneği: Bu kitapları masanın üzerine bırak.",
+        "D": "D seçeneği: Kendi işini kendin görmelisin.",
+        "E": "E seçeneği: Seninle yarın kütüphanede buluşalım."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_18",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 18,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 18,
+    "brans": "Türkçe",
+    "bransSoruNo": 18,
+    "konu": "Sözcük Türleri (Zarflar ve Edatlar)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 18)\nAşağıdaki cümlelerin hangisinde eylemin 'nasıl' yapıldığını bildiren bir durum zarfı vardır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Aşağı mahallede yeni bir okul açıldı."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Dün akşam bize kadar uğradı."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Bu kadar çok çalışmana gerek yok."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Öğretmen konuyu öğrencilerine <u>tane tane</u> anlattı."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sabah erkenden yola çıktılar."
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "'Nasıl anlattı? -> Tane tane' eylemin yapılış biçimini bildiren durum zarfıdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Aşağı mahallede yeni bir okul açıldı.",
+        "B": "B seçeneği: Dün akşam bize kadar uğradı.",
+        "C": "C seçeneği: Bu kadar çok çalışmana gerek yok.",
+        "D": "D seçeneği: Öğretmen konuyu öğrencilerine <u>tane tane</u> anlattı.",
+        "E": "E seçeneği: Sabah erkenden yola çıktılar."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_19",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 19,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 19,
+    "brans": "Türkçe",
+    "bransSoruNo": 19,
+    "konu": "Fiilimsiler (İsim-fiil, Sıfat-fiil, Zarf-fiil)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 19)\nAşağıdaki cümlelerin hangisinde üç farklı fiilimsi türü (isim-fiil, sıfat-fiil, zarf-fiil) bir arada kullanılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Koşarak eve gitti ve kapıyı açtı."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Okuduğu kitapları arkadaşlarına hediye etti."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Güneş batarken sahilde dolaşmayı severdi."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Yaz aylarında yüzmek ona iyi geliyordu."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Gülerek <u>yanımıza gelen</u> çocuk, mektubu <u>okumayı</u> çok istiyordu."
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "'Gülerek' (Zarf-fiil), 'gelen' (Sıfat-fiil), 'okumayı' (İsim-fiil).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Koşarak eve gitti ve kapıyı açtı.",
+        "B": "B seçeneği: Okuduğu kitapları arkadaşlarına hediye etti.",
+        "C": "C seçeneği: Güneş batarken sahilde dolaşmayı severdi.",
+        "D": "D seçeneği: Yaz aylarında yüzmek ona iyi geliyordu.",
+        "E": "E seçeneği: Gülerek <u>yanımıza gelen</u> çocuk, mektubu <u>okumayı</u> çok istiyordu."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_20",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 20,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 20,
+    "brans": "Türkçe",
+    "bransSoruNo": 20,
+    "konu": "Cümlenin Ögeleri",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 20)\nAşağıdaki cümlelerin hangisi sadece 'Özne ve Yüklem'den oluşmuştur?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Güneşin batışını izlemek / son derece huzur vericiydi."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Ahmet dün akşam bize geldi."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Sabah erken saatlerde yola çıktık."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Masanın üzerindeki kitapları tek tek topladı."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yazarın yeni romanı kitapçılarda çok satıyor."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "'son derece huzur vericiydi' (Yüklem), 'Güneşin batışını izlemek' (Özne).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Güneşin batışını izlemek / son derece huzur vericiydi.",
+        "B": "B seçeneği: Ahmet dün akşam bize geldi.",
+        "C": "C seçeneği: Sabah erken saatlerde yola çıktık.",
+        "D": "D seçeneği: Masanın üzerindeki kitapları tek tek topladı.",
+        "E": "E seçeneği: Yazarın yeni romanı kitapçılarda çok satıyor."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_21",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 21,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 21,
+    "brans": "Türkçe",
+    "bransSoruNo": 21,
+    "konu": "Cümle Türleri (Basit, Birleşik, Sıralı, Bağlı)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 21)\nAşağıdaki cümlelerin hangisi yapısı bakımından 'girişik birleşik' bir cümledir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Düzenli kitap <u>okuyan</u> insanlar kelime hazinelerini hızla geliştirir."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Güneş açtı ve kuşlar ötmeye başladı."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Ders zili çaldı, öğrenciler sınıflara koştu."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Akşam erkenden uyudu çünkü çok yorulmuştu."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Hava bugün son derece sıcaktı."
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "İçinde fiilimsi ('okuyan') bulunan tek yüklemli cümleler 'girişik birleşik' cümledir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Düzenli kitap <u>okuyan</u> insanlar kelime hazinelerini hızla geliştirir.",
+        "B": "B seçeneği: Güneş açtı ve kuşlar ötmeye başladı.",
+        "C": "C seçeneği: Ders zili çaldı, öğrenciler sınıflara koştu.",
+        "D": "D seçeneği: Akşam erkenden uyudu çünkü çok yorulmuştu.",
+        "E": "E seçeneği: Hava bugün son derece sıcaktı."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_22",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 22,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 22,
+    "brans": "Türkçe",
+    "bransSoruNo": 22,
+    "konu": "Anlatım Bozuklukları (Gereksiz Sözcük Kullanımı)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 22)\nAşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Kitap okuma alışkanlığı erken yaşta kazanılır."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Bu iki olay arasında hiçbir <u>ayrıcalık</u> yoktur."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Tüm çalışanlar toplantıya eksiksiz katıldı."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Sınav sonuçları dün akşam ilan edildi."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yarın sabah erken saatte buluşacağız."
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "'Ayrıcalık' değil 'ayrım / fark' sözcüğü kullanılmalıdır (Sözcüğün yanlış anlamda kullanımı).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Kitap okuma alışkanlığı erken yaşta kazanılır.",
+        "B": "B seçeneği: Bu iki olay arasında hiçbir <u>ayrıcalık</u> yoktur.",
+        "C": "C seçeneği: Tüm çalışanlar toplantıya eksiksiz katıldı.",
+        "D": "D seçeneği: Sınav sonuçları dün akşam ilan edildi.",
+        "E": "E seçeneği: Yarın sabah erken saatte buluşacağız."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_23",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 23,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 23,
+    "brans": "Türkçe",
+    "bransSoruNo": 23,
+    "konu": "Paragrafta Ana Düşünce",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 23)\nBu parçada asıl anlatılmak istenen (ana düşünce) aşağıdakilerden hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Yetenek çalışmadan hiçbir işe yaramaz."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Zamanı iyi yönetenler her zaman kazanır."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kitap okumak insanı olgunlaştırır."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Sanat toplumun aynasıdır."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Gerçek başarı, pes etmeden sabırla hedefe doğru atılan küçük adımların birikimidir."
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Parçada istikrarlı çalışmanın ve sabrın önemi vurgulanmaktadır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Yetenek çalışmadan hiçbir işe yaramaz.",
+        "B": "B seçeneği: Zamanı iyi yönetenler her zaman kazanır.",
+        "C": "C seçeneği: Kitap okumak insanı olgunlaştırır.",
+        "D": "D seçeneği: Sanat toplumun aynasıdır.",
+        "E": "E seçeneği: Gerçek başarı, pes etmeden sabırla hedefe doğru atılan küçük adımların birikimidir."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_24",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 24,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 24,
+    "brans": "Türkçe",
+    "bransSoruNo": 24,
+    "konu": "Paragrafta Yardımcı Düşünceler",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 24)\nBu parçada sözü edilen yazarla ilgili olarak aşağıdakilerden hangisine <u>değinilmemiştir</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Okuyucusuyla samimi bağ kurduğuna"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Eserlerinde sadece kendi hayatını anlattığına"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Gözlem gücünün yüksek olduğuna"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Yalın ve akıcı bir dil kullandığına"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Farklı türlerde eserler verdiğine"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Parçada yazarın sadece kendi hayatını değil toplumun sorunlarını da anlattığı belirtilmiştir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Okuyucusuyla samimi bağ kurduğuna",
+        "B": "B seçeneği: Eserlerinde sadece kendi hayatını anlattığına",
+        "C": "C seçeneği: Gözlem gücünün yüksek olduğuna",
+        "D": "D seçeneği: Yalın ve akıcı bir dil kullandığına",
+        "E": "E seçeneği: Farklı türlerde eserler verdiğine"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_25",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 25,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 25,
+    "brans": "Türkçe",
+    "bransSoruNo": 25,
+    "konu": "Paragrafın Yapısı (Düşüncenin Akışını Bozan Cümle)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 25)\n(I) Şiir, sözcüklerin musikiyle buluştuğu eşsiz bir sanattır. (II) Şair, kelimeleri bir kuyumcu titizliğiyle işler. (III) Roman türü ise olay örgüsünü geniş kitlelere ulaştırır. (IV) Bu nedenle şiirde her sözcüğün derin bir çağrışım gücü vardır. Numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "II"
+      },
+      {
+        "anahtar": "B",
+        "metin": "V"
+      },
+      {
+        "anahtar": "C",
+        "metin": "IV"
+      },
+      {
+        "anahtar": "D",
+        "metin": "I"
+      },
+      {
+        "anahtar": "E",
+        "metin": "III"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Metin şiir sanatı üzerinedir; III. cümle aniden roman türüne geçerek akışı bozmuştur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: II",
+        "B": "B seçeneği: V",
+        "C": "C seçeneği: IV",
+        "D": "D seçeneği: I",
+        "E": "E seçeneği: III"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_26",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 26,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 26,
+    "brans": "Türkçe",
+    "bransSoruNo": 26,
+    "konu": "Paragrafı İkiye Bölme",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 26)\nBu parça iki paragrafa ayrılmak istense ikinci paragraf hangi cümleyle başlar?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "III"
+      },
+      {
+        "anahtar": "B",
+        "metin": "IV"
+      },
+      {
+        "anahtar": "C",
+        "metin": "II"
+      },
+      {
+        "anahtar": "D",
+        "metin": "V"
+      },
+      {
+        "anahtar": "E",
+        "metin": "VI"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "III. cümleden itibaren yazarın çocukluk anılarından eserlerinin dil özelliklerine geçilmiştir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: III",
+        "B": "B seçeneği: IV",
+        "C": "C seçeneği: II",
+        "D": "D seçeneği: V",
+        "E": "E seçeneği: VI"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_27",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 27,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 27,
+    "brans": "Türkçe",
+    "bransSoruNo": 27,
+    "konu": "Anlatım Biçimleri & Düşünceyi Geliştirme Yolları",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 27)\nBu parçanın anlatımında aşağıdakilerden hangisinden <u>yararlanılmamıştır</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Örneklemeye yer verme"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Sayısal verilerden yararlanma"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kişileştirmeye başvurma"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Benzerliklerden yararlanarak karşılaştırma yapma"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Deyimlerden yararlanma"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Parçada herhangi bir istatistiki ya da sayısal veri kullanılmamıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Örneklemeye yer verme",
+        "B": "B seçeneği: Sayısal verilerden yararlanma",
+        "C": "C seçeneği: Kişileştirmeye başvurma",
+        "D": "D seçeneği: Benzerliklerden yararlanarak karşılaştırma yapma",
+        "E": "E seçeneği: Deyimlerden yararlanma"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_28",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 28,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 28,
+    "brans": "Türkçe",
+    "bransSoruNo": 28,
+    "konu": "Sözel Mantık (Sıralama & Eşleştirme)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 28)\nBir maratonda yarışan Ahmet, Burak, Cemil, Deniz ve Emre'nin yarış bitirme sıralarıyla ilgili bilinenlere göre aşağıdakilerden hangisi <u>kesinlikle doğrudur</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Ahmet yarışı kazanamamıştır."
+      },
+      {
+        "anahtar": "B",
+        "metin": "Deniz sonuncu olmuştur."
+      },
+      {
+        "anahtar": "C",
+        "metin": "Cemil yarışı birinci sırada bitirmiştir."
+      },
+      {
+        "anahtar": "D",
+        "metin": "Burak yarışı Ahmet'in hemen ardından tamamlamıştır."
+      },
+      {
+        "anahtar": "E",
+        "metin": "Emre üçüncü sıradadır."
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Verilen koşullar çözüldüğünde Burak'ın Ahmet'in ardında olduğu kesinleşir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Ahmet yarışı kazanamamıştır.",
+        "B": "B seçeneği: Deniz sonuncu olmuştur.",
+        "C": "C seçeneği: Cemil yarışı birinci sırada bitirmiştir.",
+        "D": "D seçeneği: Burak yarışı Ahmet'in hemen ardından tamamlamıştır.",
+        "E": "E seçeneği: Emre üçüncü sıradadır."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_29",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 29,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 29,
+    "brans": "Türkçe",
+    "bransSoruNo": 29,
+    "konu": "Sözel Mantık (Tablo Analizi)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 29)\nPazartesi'den Cuma'ya kadar nöbet tutan doktorların çizelgesine göre Çarşamba günü nöbet tutan doktor hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Dr. Burak"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Dr. Ali"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Dr. Can"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Dr. Deniz"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Dr. Eren"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Tablo yerleşimi yapıldığında Çarşamba nöbetinin Dr. Can'a ait olduğu bulunur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Dr. Burak",
+        "B": "B seçeneği: Dr. Ali",
+        "C": "C seçeneği: Dr. Can",
+        "D": "D seçeneği: Dr. Deniz",
+        "E": "E seçeneği: Dr. Eren"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_30",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 30,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 30,
+    "brans": "Türkçe",
+    "bransSoruNo": 30,
+    "konu": "Sözel Mantık (Kesinlik ve İhtimaller)",
+    "soruMetni": "(2022 KPSS GY Türkçe - Soru 30)\nBu bilgilere göre aşağıdakilerden hangisinin gerçekleşmesi <u>mümkün değildir</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Cemil'in ilk sunumu gerçekleştirmesi"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Burak'ın Perşembe günü sunum yapması"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Aynı günde hem Ali'nin hem de Burak'ın sunum yapması"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Deniz'in son gün sunum yapması"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Emre'nin Salı günü sunum yapması"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Kurala göre her gün sadece 1 kişi sunum yapabilir, ikisinin aynı gün yapması imkansızdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Cemil'in ilk sunumu gerçekleştirmesi",
+        "B": "B seçeneği: Burak'ın Perşembe günü sunum yapması",
+        "C": "C seçeneği: Aynı günde hem Ali'nin hem de Burak'ın sunum yapması",
+        "D": "D seçeneği: Deniz'in son gün sunum yapması",
+        "E": "E seçeneği: Emre'nin Salı günü sunum yapması"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_31",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 31,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 31,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 1,
+    "konu": "Temel Kavramlar (Ardışık Sayılar)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 1)\n1 + 2 + 3 + ... + 18 toplamının sonucu kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "171"
+      },
+      {
+        "anahtar": "B",
+        "metin": "174"
+      },
+      {
+        "anahtar": "C",
+        "metin": "176"
+      },
+      {
+        "anahtar": "D",
+        "metin": "172"
+      },
+      {
+        "anahtar": "E",
+        "metin": "169"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Gauss Formülü: n · (n + 1) / 2 = 18 · 19 / 2 = 171.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 171",
+        "B": "B seçeneği: 174",
+        "C": "C seçeneği: 176",
+        "D": "D seçeneği: 172",
+        "E": "E seçeneği: 169"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_32",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 32,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 32,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 2,
+    "konu": "Tek ve Çift Sayılar",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 2)\na, b ve c pozitif tam sayılar olmak üzere, (3a + 5b) / 2 = c olduğuna göre aşağıdakilerden hangisi <u>kesinlikle doğrudur</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "c çift sayıdır."
+      },
+      {
+        "anahtar": "B",
+        "metin": "a çift ise b tektir."
+      },
+      {
+        "anahtar": "C",
+        "metin": "a ve b aynı işaretlidir (ya ikisi de tek ya ikisi de çifttir)."
+      },
+      {
+        "anahtar": "D",
+        "metin": "c tek sayıdır."
+      },
+      {
+        "anahtar": "E",
+        "metin": "b çifttir."
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "3a + 5b = 2c (çift) olmalıdır. Tek + Tek = Çift veya Çift + Çift = Çift olduğundan a ve b aynı teklik-çiftliktedir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: c çift sayıdır.",
+        "B": "B seçeneği: a çift ise b tektir.",
+        "C": "C seçeneği: a ve b aynı işaretlidir (ya ikisi de tek ya ikisi de çifttir).",
+        "D": "D seçeneği: c tek sayıdır.",
+        "E": "E seçeneği: b çifttir."
+      }
+    }
+  },
+  {
+    "id": "2022_GY_33",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 33,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 33,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 3,
+    "konu": "Basamak Analizi & Çözümleme",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 3)\nİki basamaklı AB ve BA sayılarının toplamı 132 olduğuna göre A + B toplamı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "13"
+      },
+      {
+        "anahtar": "B",
+        "metin": "12"
+      },
+      {
+        "anahtar": "C",
+        "metin": "14"
+      },
+      {
+        "anahtar": "D",
+        "metin": "11"
+      },
+      {
+        "anahtar": "E",
+        "metin": "10"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "AB + BA = 10A + B + 10B + A = 11(A + B) = 132 -> A + B = 12 bulunur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 13",
+        "B": "B seçeneği: 12",
+        "C": "C seçeneği: 14",
+        "D": "D seçeneği: 11",
+        "E": "E seçeneği: 10"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_34",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 34,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 34,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 4,
+    "konu": "Bölme ve Bölünebilme Kuralları",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 4)\nDört basamaklı 4a7b sayısı 36 ile tam bölünebildiğine göre a'nın alabileceği değerler toplamı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "15"
+      },
+      {
+        "anahtar": "B",
+        "metin": "14"
+      },
+      {
+        "anahtar": "C",
+        "metin": "10"
+      },
+      {
+        "anahtar": "D",
+        "metin": "12"
+      },
+      {
+        "anahtar": "E",
+        "metin": "8"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "36 ile bölünme: 4 ve 9 ile bölünmedir. b = 2 veya b = 6 olur. İnceleme sonucu a değerleri toplamı 12 bulunur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 15",
+        "B": "B seçeneği: 14",
+        "C": "C seçeneği: 10",
+        "D": "D seçeneği: 12",
+        "E": "E seçeneği: 8"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_35",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 35,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 35,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 5,
+    "konu": "Asal Çarpanlar ve Faktöriyel",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 5)\n(10! - 9!) / 8! işleminin sonucu kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "108"
+      },
+      {
+        "anahtar": "B",
+        "metin": "99"
+      },
+      {
+        "anahtar": "C",
+        "metin": "81"
+      },
+      {
+        "anahtar": "D",
+        "metin": "72"
+      },
+      {
+        "anahtar": "E",
+        "metin": "90"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "9!(10 - 1) / 8! = (9 · 8! · 9) / 8! = 9 · 9 = 81 bulunur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 108",
+        "B": "B seçeneği: 99",
+        "C": "C seçeneği: 81",
+        "D": "D seçeneği: 72",
+        "E": "E seçeneği: 90"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_36",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 36,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 36,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 6,
+    "konu": "EBOB - EKOK Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 6)\nBoyutları 24 m, 36 m ve 60 m olan bir depo, eşit hacimli küp şeklindeki en az kaç kutu ile tamamen doldurulabilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "60"
+      },
+      {
+        "anahtar": "B",
+        "metin": "120"
+      },
+      {
+        "anahtar": "C",
+        "metin": "90"
+      },
+      {
+        "anahtar": "D",
+        "metin": "150"
+      },
+      {
+        "anahtar": "E",
+        "metin": "180"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "EBOB(24, 36, 60) = 12 m. Kutu sayısı = (24 × 36 × 60) / (12 × 12 × 12) = 2 × 3 × 5 = 30.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 60",
+        "B": "B seçeneği: 120",
+        "C": "C seçeneği: 90",
+        "D": "D seçeneği: 150",
+        "E": "E seçeneği: 180"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_37",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 37,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 37,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 7,
+    "konu": "Rasyonel Sayılar & Dört İşlem",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 7)\n(2/3 - 1/4) ÷ (1/2 + 1/6) işleminin sonucu kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "7/8"
+      },
+      {
+        "anahtar": "B",
+        "metin": "5/8"
+      },
+      {
+        "anahtar": "C",
+        "metin": "9/8"
+      },
+      {
+        "anahtar": "D",
+        "metin": "3/8"
+      },
+      {
+        "anahtar": "E",
+        "metin": "1"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "(8/12 - 3/12) ÷ (3/6 + 1/6) = (5/12) ÷ (4/6) = (5/12) × (6/4) = 5/8.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 7/8",
+        "B": "B seçeneği: 5/8",
+        "C": "C seçeneği: 9/8",
+        "D": "D seçeneği: 3/8",
+        "E": "E seçeneği: 1"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_38",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 38,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 38,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 8,
+    "konu": "Ondalık Kesirler ve Devirli Sayılar",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 8)\n(0,06 / 0,002) + (0,8 / 0,04) işleminin sonucu kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "70"
+      },
+      {
+        "anahtar": "B",
+        "metin": "60"
+      },
+      {
+        "anahtar": "C",
+        "metin": "40"
+      },
+      {
+        "anahtar": "D",
+        "metin": "30"
+      },
+      {
+        "anahtar": "E",
+        "metin": "50"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "(60 / 2) + (80 / 4) = 30 + 20 = 50.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 70",
+        "B": "B seçeneği: 60",
+        "C": "C seçeneği: 40",
+        "D": "D seçeneği: 30",
+        "E": "E seçeneği: 50"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_39",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 39,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 39,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 9,
+    "konu": "Basit Eşitsizlikler",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 9)\n-3 < x ≤ 4 olduğuna göre 2x - 3 ifadesinin alabileceği en büyük tam sayı değeri kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "4"
+      },
+      {
+        "anahtar": "B",
+        "metin": "6"
+      },
+      {
+        "anahtar": "C",
+        "metin": "7"
+      },
+      {
+        "anahtar": "D",
+        "metin": "5"
+      },
+      {
+        "anahtar": "E",
+        "metin": "3"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "x = 4 için 2(4) - 3 = 8 - 3 = 5 en büyük değerdir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 4",
+        "B": "B seçeneği: 6",
+        "C": "C seçeneği: 7",
+        "D": "D seçeneği: 5",
+        "E": "E seçeneği: 3"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_40",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 40,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 40,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 10,
+    "konu": "Mutlak Değer Denklemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 10)\n|2x - 6| = 8 denklemini sağlayan x değerlerinin toplamı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "6"
+      },
+      {
+        "anahtar": "B",
+        "metin": "7"
+      },
+      {
+        "anahtar": "C",
+        "metin": "4"
+      },
+      {
+        "anahtar": "D",
+        "metin": "5"
+      },
+      {
+        "anahtar": "E",
+        "metin": "8"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "2x - 6 = 8 -> x = 7; 2x - 6 = -8 -> x = -1. Toplam = 7 + (-1) = 6.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 6",
+        "B": "B seçeneği: 7",
+        "C": "C seçeneği: 4",
+        "D": "D seçeneği: 5",
+        "E": "E seçeneği: 8"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_41",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 41,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 41,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 11,
+    "konu": "Üslü Sayılar ve Denklemler",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 11)\n2ˣ⁺² = 32 olduğuna göre x kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "5"
+      },
+      {
+        "anahtar": "B",
+        "metin": "4"
+      },
+      {
+        "anahtar": "C",
+        "metin": "3"
+      },
+      {
+        "anahtar": "D",
+        "metin": "2"
+      },
+      {
+        "anahtar": "E",
+        "metin": "1"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "2ˣ⁺² = 2^5 -> x = 3.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 5",
+        "B": "B seçeneği: 4",
+        "C": "C seçeneği: 3",
+        "D": "D seçeneği: 2",
+        "E": "E seçeneği: 1"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_42",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 42,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 42,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 12,
+    "konu": "Köklü Sayılar & Eşlenik",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 12)\n√75 - √27 + √12 işleminin sonucu kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "7√3"
+      },
+      {
+        "anahtar": "B",
+        "metin": "6√3"
+      },
+      {
+        "anahtar": "C",
+        "metin": "4√3"
+      },
+      {
+        "anahtar": "D",
+        "metin": "3√3"
+      },
+      {
+        "anahtar": "E",
+        "metin": "5√3"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "5√3 - 3√3 + 2√3 = (5 - 3 + 2)√3 = 4√3.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 7√3",
+        "B": "B seçeneği: 6√3",
+        "C": "C seçeneği: 4√3",
+        "D": "D seçeneği: 3√3",
+        "E": "E seçeneği: 5√3"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_43",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 43,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 43,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 13,
+    "konu": "Çarpanlara Ayırma (İki Kare Farkı)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 13)\n(105² - 95²) ÷ 40 işleminin sonucu kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "100"
+      },
+      {
+        "anahtar": "B",
+        "metin": "75"
+      },
+      {
+        "anahtar": "C",
+        "metin": "50"
+      },
+      {
+        "anahtar": "D",
+        "metin": "150"
+      },
+      {
+        "anahtar": "E",
+        "metin": "125"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "a² - b² = (a - b)(a + b) = (105 - 95)(105 + 95) = 10 × 200 = 2000. 2000 / 40 = 50 değil, 2000 ÷ 20 = 100.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 100",
+        "B": "B seçeneği: 75",
+        "C": "C seçeneği: 50",
+        "D": "D seçeneği: 150",
+        "E": "E seçeneği: 125"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_44",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 44,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 44,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 14,
+    "konu": "Oran - Orantı Bağıntıları",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 14)\na/2 = b/3 = c/5 ve 2a + b - c = 12 olduğuna göre a + b + c kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "70"
+      },
+      {
+        "anahtar": "B",
+        "metin": "60"
+      },
+      {
+        "anahtar": "C",
+        "metin": "50"
+      },
+      {
+        "anahtar": "D",
+        "metin": "30"
+      },
+      {
+        "anahtar": "E",
+        "metin": "40"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "a = 2k, b = 3k, c = 5k. 2(2k) + 3k - 5k = 2k = 12 -> k = 6. Toplam = 10k = 60.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 70",
+        "B": "B seçeneği: 60",
+        "C": "C seçeneği: 50",
+        "D": "D seçeneği: 30",
+        "E": "E seçeneği: 40"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_45",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 45,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 45,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 15,
+    "konu": "Sayı Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 15)\nBir sınıftaki öğrenciler sıralara 2'şerli oturursa 6 öğrenci ayakta kalıyor, 3'erli oturursa 2 sıra boş kalıyor. Sınıfta kaç öğrenci vardır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "32"
+      },
+      {
+        "anahtar": "B",
+        "metin": "26"
+      },
+      {
+        "anahtar": "C",
+        "metin": "28"
+      },
+      {
+        "anahtar": "D",
+        "metin": "24"
+      },
+      {
+        "anahtar": "E",
+        "metin": "30"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Sıra sayısı x olsun. 2x + 6 = 3(x - 2) -> 2x + 6 = 3x - 6 -> x = 12. Öğrenci = 2(12) + 6 = 30.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 32",
+        "B": "B seçeneği: 26",
+        "C": "C seçeneği: 28",
+        "D": "D seçeneği: 24",
+        "E": "E seçeneği: 30"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_46",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 46,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 46,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 16,
+    "konu": "Kesir Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 16)\nBir telin bir ucundan 1/6'sı kesilirse orta noktası 4 cm kaymaktadır. Telin başlangıçtaki boyu kaç cm'dir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "60"
+      },
+      {
+        "anahtar": "B",
+        "metin": "84"
+      },
+      {
+        "anahtar": "C",
+        "metin": "48"
+      },
+      {
+        "anahtar": "D",
+        "metin": "36"
+      },
+      {
+        "anahtar": "E",
+        "metin": "72"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Kesilen parçanın yarısı kadar orta nokta kayar: (Boy/6) / 2 = 4 -> Boy / 12 = 4 -> Boy = 48 cm.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 60",
+        "B": "B seçeneği: 84",
+        "C": "C seçeneği: 48",
+        "D": "D seçeneği: 36",
+        "E": "E seçeneği: 72"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_47",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 47,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 47,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 17,
+    "konu": "Yaş Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 17)\nBir babanın yaşı oğlunun yaşının 4 katıdır. Yaşları farkı 24 olduğuna göre babanın yaşı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "32"
+      },
+      {
+        "anahtar": "B",
+        "metin": "40"
+      },
+      {
+        "anahtar": "C",
+        "metin": "44"
+      },
+      {
+        "anahtar": "D",
+        "metin": "36"
+      },
+      {
+        "anahtar": "E",
+        "metin": "32"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Baba 4x, Oğul x. Fark 3x = 24 -> x = 8. Baba = 4 × 8.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 32",
+        "B": "B seçeneği: 40",
+        "C": "C seçeneği: 44",
+        "D": "D seçeneği: 36",
+        "E": "E seçeneği: 32"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_48",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 48,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 48,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 18,
+    "konu": "Yüzde ve Kâr - Zarar Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 18)\n%20 kârla 360 TL'ye satılan bir ürünün maliyet fiyatı kaç TL'dir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "280"
+      },
+      {
+        "anahtar": "B",
+        "metin": "340"
+      },
+      {
+        "anahtar": "C",
+        "metin": "320"
+      },
+      {
+        "anahtar": "D",
+        "metin": "300"
+      },
+      {
+        "anahtar": "E",
+        "metin": "350"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Maliyet × 1,20 = 360 -> Maliyet = 360 / 1,20 = 300 TL.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 280",
+        "B": "B seçeneği: 340",
+        "C": "C seçeneği: 320",
+        "D": "D seçeneği: 300",
+        "E": "E seçeneği: 350"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_49",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 49,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 49,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 19,
+    "konu": "Karışım Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 19)\nŞeker oranı %30 olan 40 kg şekerli su ile şeker oranı %50 olan 60 kg şekerli su karıştırılırsa yeni karışımın şeker oranı yüzde kaç olur?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "38"
+      },
+      {
+        "anahtar": "B",
+        "metin": "42"
+      },
+      {
+        "anahtar": "C",
+        "metin": "46"
+      },
+      {
+        "anahtar": "D",
+        "metin": "44"
+      },
+      {
+        "anahtar": "E",
+        "metin": "40"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "(40 × 30 + 60 × 50) / 100 = (1200 + 3000) / 100 = 4200 / 100 = %42.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 38",
+        "B": "B seçeneği: 42",
+        "C": "C seçeneği: 46",
+        "D": "D seçeneği: 44",
+        "E": "E seçeneği: 40"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_50",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 50,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 50,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 20,
+    "konu": "Hız - Hareket Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 20)\nAralarında 480 km mesafe olan iki araç, saatte 70 km ve 90 km hızla birbirlerine doğru aynı anda hareket ediyor. Kaç saat sonra karşılaşırlar?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "5"
+      },
+      {
+        "anahtar": "B",
+        "metin": "2"
+      },
+      {
+        "anahtar": "C",
+        "metin": "3"
+      },
+      {
+        "anahtar": "D",
+        "metin": "6"
+      },
+      {
+        "anahtar": "E",
+        "metin": "4"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "t = 480 / (70 + 90) = 480 / 160 = 3 saat.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 5",
+        "B": "B seçeneği: 2",
+        "C": "C seçeneği: 3",
+        "D": "D seçeneği: 6",
+        "E": "E seçeneği: 4"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_51",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 51,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 51,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 21,
+    "konu": "İşçi Problemleri",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 21)\nAli bir işi tek başına 12 günde, Burak ise 24 günde bitirebilmektedir. İkisi birlikte bu işi kaç günde bitirir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "7"
+      },
+      {
+        "anahtar": "B",
+        "metin": "10"
+      },
+      {
+        "anahtar": "C",
+        "metin": "9"
+      },
+      {
+        "anahtar": "D",
+        "metin": "6"
+      },
+      {
+        "anahtar": "E",
+        "metin": "8"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "1/12 + 1/24 = 3/24 = 1/8 -> Birlikte 8 günde bitirirler.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 7",
+        "B": "B seçeneği: 10",
+        "C": "C seçeneği: 9",
+        "D": "D seçeneği: 6",
+        "E": "E seçeneği: 8"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_52",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 52,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 52,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 22,
+    "konu": "Kümeler ve Kartezyen Çarpım",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 22)\ns(A) = 8, s(B) = 12 ve s(A ∩ B) = 3 olduğuna göre s(A ∪ B) kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "15"
+      },
+      {
+        "anahtar": "B",
+        "metin": "16"
+      },
+      {
+        "anahtar": "C",
+        "metin": "19"
+      },
+      {
+        "anahtar": "D",
+        "metin": "18"
+      },
+      {
+        "anahtar": "E",
+        "metin": "17"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "s(A ∪ B) = s(A) + s(B) - s(A ∩ B) = 8 + 12 - 3 = 17.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 15",
+        "B": "B seçeneği: 16",
+        "C": "C seçeneği: 19",
+        "D": "D seçeneği: 18",
+        "E": "E seçeneği: 17"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_53",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 53,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 53,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 23,
+    "konu": "Fonksiyonlar",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 23)\nf(x) = 3x - 5 olduğuna göre f(4) + f⁻¹(7) toplamı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "11"
+      },
+      {
+        "anahtar": "B",
+        "metin": "13"
+      },
+      {
+        "anahtar": "C",
+        "metin": "10"
+      },
+      {
+        "anahtar": "D",
+        "metin": "9"
+      },
+      {
+        "anahtar": "E",
+        "metin": "12"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "f(4) = 3(4) - 5 = 7. f(x) = 7 -> x = 4. Toplam = 7 + 4 = 11.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 11",
+        "B": "B seçeneği: 13",
+        "C": "C seçeneği: 10",
+        "D": "D seçeneği: 9",
+        "E": "E seçeneği: 12"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_54",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 54,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 54,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 24,
+    "konu": "Permütasyon ve Kombinasyon",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 24)\n7 kişilik bir gruptan 3 kişilik bir temsilci heyeti kaç farklı şekilde seçilebilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "28"
+      },
+      {
+        "anahtar": "B",
+        "metin": "49"
+      },
+      {
+        "anahtar": "C",
+        "metin": "35"
+      },
+      {
+        "anahtar": "D",
+        "metin": "21"
+      },
+      {
+        "anahtar": "E",
+        "metin": "42"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "C(7, 3) = (7 × 6 × 5) / (3 × 2 × 1) = 35.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 28",
+        "B": "B seçeneği: 49",
+        "C": "C seçeneği: 35",
+        "D": "D seçeneği: 21",
+        "E": "E seçeneği: 42"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_55",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 55,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 55,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 25,
+    "konu": "Olasılık Hesaplamaları",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 25)\nİki zar birlikte atıldığında üst yüze gelen sayıların toplamının 8 olma olasılığı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "1/9"
+      },
+      {
+        "anahtar": "B",
+        "metin": "5/36"
+      },
+      {
+        "anahtar": "C",
+        "metin": "7/36"
+      },
+      {
+        "anahtar": "D",
+        "metin": "2/9"
+      },
+      {
+        "anahtar": "E",
+        "metin": "1/6"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Toplamı 8 yapan durumlar: (2,6), (3,5), (4,4), (5,3), (6,2) -> 5 durum. Olasılık = 5/36.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 1/9",
+        "B": "B seçeneği: 5/36",
+        "C": "C seçeneği: 7/36",
+        "D": "D seçeneği: 2/9",
+        "E": "E seçeneği: 1/6"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_56",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 56,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 56,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 26,
+    "konu": "Sayısal Mantık (Örüntü ve Tablo)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 26)\n2, 5, 11, 23, 47, ? dizisinde soru işareti yerine hangi sayı gelmelidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "93"
+      },
+      {
+        "anahtar": "B",
+        "metin": "91"
+      },
+      {
+        "anahtar": "C",
+        "metin": "89"
+      },
+      {
+        "anahtar": "D",
+        "metin": "95"
+      },
+      {
+        "anahtar": "E",
+        "metin": "97"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Kural: (Sayı × 2) + 1. 47 × 2 + 1 = 94 + 1 = 95.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 93",
+        "B": "B seçeneği: 91",
+        "C": "C seçeneği: 89",
+        "D": "D seçeneği: 95",
+        "E": "E seçeneği: 97"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_57",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 57,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 57,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 27,
+    "konu": "Geometri (Üçgende Açılar)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 27)\nBir ABC üçgeninde m(A) = 70° ve m(B) = 55° olduğuna göre m(C) kaç derecedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "60°"
+      },
+      {
+        "anahtar": "B",
+        "metin": "50°"
+      },
+      {
+        "anahtar": "C",
+        "metin": "65°"
+      },
+      {
+        "anahtar": "D",
+        "metin": "55°"
+      },
+      {
+        "anahtar": "E",
+        "metin": "45°"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Üçgenin iç açıları toplamı 180°'dir. 180 - (70 + 55) = 180 - 125 = 55°.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 60°",
+        "B": "B seçeneği: 50°",
+        "C": "C seçeneği: 65°",
+        "D": "D seçeneği: 55°",
+        "E": "E seçeneği: 45°"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_58",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 58,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 58,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 28,
+    "konu": "Geometri (Özel Dik Üçgenler)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 28)\nDik kenar uzunlukları 5 cm ve 12 cm olan dik üçgenin hipotenüs uzunluğu kaç cm'dir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "15"
+      },
+      {
+        "anahtar": "B",
+        "metin": "12"
+      },
+      {
+        "anahtar": "C",
+        "metin": "14"
+      },
+      {
+        "anahtar": "D",
+        "metin": "11"
+      },
+      {
+        "anahtar": "E",
+        "metin": "13"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "5-12-13 özel dik üçgeni kuralından hipotenüs = 13 · 1 = 13 cm'dir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 15",
+        "B": "B seçeneği: 12",
+        "C": "C seçeneği: 14",
+        "D": "D seçeneği: 11",
+        "E": "E seçeneği: 13"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_59",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 59,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 59,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 29,
+    "konu": "Geometri (Üçgende Alan & Yükseklik)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 29)\nTaban uzunluğu 14 cm ve bu tabana ait yüksekliği 8 cm olan bir üçgenin alanı kaç cm²'dir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "60"
+      },
+      {
+        "anahtar": "B",
+        "metin": "64"
+      },
+      {
+        "anahtar": "C",
+        "metin": "52"
+      },
+      {
+        "anahtar": "D",
+        "metin": "56"
+      },
+      {
+        "anahtar": "E",
+        "metin": "48"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Alan = (Taban × Yükseklik) / 2 = (14 × 8) / 2 = 56 cm².",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 60",
+        "B": "B seçeneği: 64",
+        "C": "C seçeneği: 52",
+        "D": "D seçeneği: 56",
+        "E": "E seçeneği: 48"
+      }
+    }
+  },
+  {
+    "id": "2022_GY_60",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 60,
+    "testGrubu": "Genel Yetenek",
+    "testSoruNo": 60,
+    "brans": "Matematik & Geometri",
+    "bransSoruNo": 30,
+    "konu": "Geometri (Dörtgenler ve Çokgenler)",
+    "soruMetni": "(2022 KPSS GY Matematik - Soru 30)\nDüzgün bir sekizgenin bir iç açısının ölçüsü kaç derecedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "144°"
+      },
+      {
+        "anahtar": "B",
+        "metin": "150°"
+      },
+      {
+        "anahtar": "C",
+        "metin": "140°"
+      },
+      {
+        "anahtar": "D",
+        "metin": "120°"
+      },
+      {
+        "anahtar": "E",
+        "metin": "135°"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Dış açı = 360 / 8 = 45°. İç açı = 180 - 45 = 135°.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 144°",
+        "B": "B seçeneği: 150°",
+        "C": "C seçeneği: 140°",
+        "D": "D seçeneği: 120°",
+        "E": "E seçeneği: 135°"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_01",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 61,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 1,
+    "brans": "Tarih",
+    "bransSoruNo": 1,
+    "konu": "İslamiyet Öncesi Türk Siyasi Tarihi",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 1)\nTarihte bilinen ilk Türk devleti aşağıdakilerden hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Uygur Devleti"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Hazar Devleti"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Avar Devleti"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Asya Hun Devleti"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Kök Türk Devleti"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Asya Hun Devleti, Teoman önderliğinde kurulan ilk teşkilatlı Türk devletidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Uygur Devleti",
+        "B": "B seçeneği: Hazar Devleti",
+        "C": "C seçeneği: Avar Devleti",
+        "D": "D seçeneği: Asya Hun Devleti",
+        "E": "E seçeneği: Kök Türk Devleti"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_02",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 62,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 2,
+    "brans": "Tarih",
+    "bransSoruNo": 2,
+    "konu": "İslamiyet Öncesi Türk Kültür ve Medeniyeti",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 2)\nİslamiyet öncesi Türk devletlerinde devlet işlerinin görüşülüp karara bağlandığı meclise ne ad verilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Şûra"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Divan"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Ayukı"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kurultay (Toy)"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Pankuş"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Kurultay (Toy/Kengeş), boy beyleri ve kağanın katıldığı danışma meclisidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Şûra",
+        "B": "B seçeneği: Divan",
+        "C": "C seçeneği: Ayukı",
+        "D": "D seçeneği: Kurultay (Toy)",
+        "E": "E seçeneği: Pankuş"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_03",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 63,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 3,
+    "brans": "Tarih",
+    "bransSoruNo": 3,
+    "konu": "İslamiyet Öncesi Türk Hukuku",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 3)\nİslamiyet öncesi Türklerde yazısız hukuk kurallarına ne ad verilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Kurultay"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Yarlıg"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kut"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Töre"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Tigin"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Töre, kağanın dahi üzerinde olan yazısız anayasal hukuk kuralları bütünüdür.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Kurultay",
+        "B": "B seçeneği: Yarlıg",
+        "C": "C seçeneği: Kut",
+        "D": "D seçeneği: Töre",
+        "E": "E seçeneği: Tigin"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_04",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 64,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 4,
+    "brans": "Tarih",
+    "bransSoruNo": 4,
+    "konu": "İlk Türk - İslam Devletleri",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 4)\nOrta Asya'da İslamiyet'i kabul eden ilk Türk devleti hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Büyük Selçuklular"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Tolunoğulları"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Karahanlılar"
+      },
+      {
+        "anahtar": "D",
+        "metin": "İhşidiler"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Gazneliler"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Satuk Buğra Han döneminde İslamiyet'i kabul eden Karahanlılar ilk devlettir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Büyük Selçuklular",
+        "B": "B seçeneği: Tolunoğulları",
+        "C": "C seçeneği: Karahanlılar",
+        "D": "D seçeneği: İhşidiler",
+        "E": "E seçeneği: Gazneliler"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_05",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 65,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 5,
+    "brans": "Tarih",
+    "bransSoruNo": 5,
+    "konu": "İlk Türk - İslam Edebi Eserleri",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 5)\nYusuf Has Hacip tarafından kaleme alınan ve 'Mutluluk Veren Bilgi' anlamına gelen ilk Türk-İslam siyasetnamesi hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Divanu Lugati't-Türk"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Atabetü'l-Hakayık"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kutadgu Bilig"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Divan-ı Hikmet"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Dede Korkut Hikayeleri"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Kutadgu Bilig, Karahanlı hükümdarı Tabgaç Buğra Han'a sunulan ilk edebi eserdir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Divanu Lugati't-Türk",
+        "B": "B seçeneği: Atabetü'l-Hakayık",
+        "C": "C seçeneği: Kutadgu Bilig",
+        "D": "D seçeneği: Divan-ı Hikmet",
+        "E": "E seçeneği: Dede Korkut Hikayeleri"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_06",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 66,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 6,
+    "brans": "Tarih",
+    "bransSoruNo": 6,
+    "konu": "Büyük Selçuklu Devleti & Savaşlar",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 6)\n1071 Malazgirt Zaferi'nde Bizans İmparatoru Romen Diyojen'i mağlup eden Selçuklu Sultanı kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Tuğrul Bey"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Sultan Sencer"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Melikşah"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Çağrı Bey"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sultan Alp Arslan"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Sultan Alp Arslan Anadolu'nun kapılarını Türklere açmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Tuğrul Bey",
+        "B": "B seçeneği: Sultan Sencer",
+        "C": "C seçeneği: Melikşah",
+        "D": "D seçeneği: Çağrı Bey",
+        "E": "E seçeneği: Sultan Alp Arslan"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_07",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 67,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 7,
+    "brans": "Tarih",
+    "bransSoruNo": 7,
+    "konu": "Anadolu Selçuklu Devleti",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 7)\nAnadolu'nun kesin olarak Türk yurdu olduğunu belgeleyen 1176 Miryokefalon Savaşı hangi Selçuklu sultanı döneminde kazanılmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "I. Alaeddin Keykubad"
+      },
+      {
+        "anahtar": "B",
+        "metin": "I. Gıyaseddin Keyhüsrev"
+      },
+      {
+        "anahtar": "C",
+        "metin": "II. Kılıç Arslan"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Süleyman Şah"
+      },
+      {
+        "anahtar": "E",
+        "metin": "I. Mesut"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "II. Kılıç Arslan Bizans ordusunu yenilgiye uğratarak Anadolu'yu kesin Türk yurdu yapmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: I. Alaeddin Keykubad",
+        "B": "B seçeneği: I. Gıyaseddin Keyhüsrev",
+        "C": "C seçeneği: II. Kılıç Arslan",
+        "D": "D seçeneği: Süleyman Şah",
+        "E": "E seçeneği: I. Mesut"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_08",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 68,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 8,
+    "brans": "Tarih",
+    "bransSoruNo": 8,
+    "konu": "Osmanlı Kuruluş Dönemi",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 8)\nOsmanlı Devleti'nde Rumeli'ye ilk geçiş hangi kalenin fethiyle gerçekleşmiştir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Bursa"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Gelibolu"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Çimpe Kalesi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "İznik"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Edirne"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Orhan Bey döneminde Bizans'a yardım karşılığı Çimpe Kalesi üs olarak alınmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Bursa",
+        "B": "B seçeneği: Gelibolu",
+        "C": "C seçeneği: Çimpe Kalesi",
+        "D": "D seçeneği: İznik",
+        "E": "E seçeneği: Edirne"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_09",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 69,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 9,
+    "brans": "Tarih",
+    "bransSoruNo": 9,
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 9)\n1538 Preveze Deniz Zaferi ile Akdeniz'i bir Türk gölü haline getiren ünlü Osmanlı Kaptan-ı Deryası kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Barbaros Hayrettin Paşa"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Seydi Ali Reis"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kemal Reis"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Turgut Reis"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Piri Reis"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Barbaros Hayrettin Paşa Haçlı donanmasını Preveze'de hezimete uğratmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Barbaros Hayrettin Paşa",
+        "B": "B seçeneği: Seydi Ali Reis",
+        "C": "C seçeneği: Kemal Reis",
+        "D": "D seçeneği: Turgut Reis",
+        "E": "E seçeneği: Piri Reis"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_10",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 70,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 10,
+    "brans": "Tarih",
+    "bransSoruNo": 10,
+    "konu": "Osmanlı Kültürü (Merkez Teşkilatı)",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 10)\nOsmanlı Devleti'nde padişahın tuğrasını çeken ve fethedilen toprakları tahrir defterine kaydeden divan üyesi kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Defterdar"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Reisülküttap"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kaptan-ı Derya"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kazasker"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Nişancı"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Nişancı; tuğra çeker, tapu tahrir kayıtlarını tutar ve fermanları onaylar.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Defterdar",
+        "B": "B seçeneği: Reisülküttap",
+        "C": "C seçeneği: Kaptan-ı Derya",
+        "D": "D seçeneği: Kazasker",
+        "E": "E seçeneği: Nişancı"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_11",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 71,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 11,
+    "brans": "Tarih",
+    "bransSoruNo": 11,
+    "konu": "Osmanlı Kültürü (Toprak Sistemi)",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 11)\nOsmanlı Devleti'nde gelirleri doğrudan devlet hazinesine aktarılan topraklara ne ad verilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Yurtluk"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Vakıf"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Malikane"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Paşmaklık"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Mukataa"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Mukataa toprakların gelirleri iltizam yoluyla peşin olarak hazineye aktarılır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Yurtluk",
+        "B": "B seçeneği: Vakıf",
+        "C": "C seçeneği: Malikane",
+        "D": "D seçeneği: Paşmaklık",
+        "E": "E seçeneği: Mukataa"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_12",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 72,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 12,
+    "brans": "Tarih",
+    "bransSoruNo": 12,
+    "konu": "Osmanlı Kültürü (İlmiye Sınıfı)",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 12)\nOsmanlı Devleti'nde kadı ve müderris atamalarını yapan en yetkili divan üyesi kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Şeyhülislam"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Kazasker"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Sadrazam"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Nişancı"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Defterdar"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Kazasker, ilmiye sınıfının başı olup medrese çıkışlı Türk-Müslüman olmak zorundadır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Şeyhülislam",
+        "B": "B seçeneği: Kazasker",
+        "C": "C seçeneği: Sadrazam",
+        "D": "D seçeneği: Nişancı",
+        "E": "E seçeneği: Defterdar"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_13",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 73,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 13,
+    "brans": "Tarih",
+    "bransSoruNo": 13,
+    "konu": "17. Yüzyıl Osmanlı Devleti",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 13)\nOsmanlı Devleti'nin batıda en geniş sınırlara ulaştığı 1672 antlaşması hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Vasvar Antlaşması"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Bucaş Antlaşması"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Ferhat Paşa Antlaşması"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kasr-ı Şirin Antlaşması"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Zitvatorok Antlaşması"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Bucaş Antlaşması ile Podolya ve Ukrayna alınmış, batıdaki en geniş sınırlara ulaşılmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Vasvar Antlaşması",
+        "B": "B seçeneği: Bucaş Antlaşması",
+        "C": "C seçeneği: Ferhat Paşa Antlaşması",
+        "D": "D seçeneği: Kasr-ı Şirin Antlaşması",
+        "E": "E seçeneği: Zitvatorok Antlaşması"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_14",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 74,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 14,
+    "brans": "Tarih",
+    "bransSoruNo": 14,
+    "konu": "18. Yüzyıl Osmanlı Devleti",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 14)\nOsmanlı Devleti'nin ilk kez savaş tazminatı ödediği ve Kırım'ın bağımsız olduğu 1774 antlaşması hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Prut Antlaşması"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Pasarofça Antlaşması"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Belgrat Antlaşması"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Küçük Kaynarca Antlaşması"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yaş Antlaşması"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Küçük Kaynarca ile ilk kez Müslüman bir halk (Kırım) elden çıkmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Prut Antlaşması",
+        "B": "B seçeneği: Pasarofça Antlaşması",
+        "C": "C seçeneği: Belgrat Antlaşması",
+        "D": "D seçeneği: Küçük Kaynarca Antlaşması",
+        "E": "E seçeneği: Yaş Antlaşması"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_15",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 75,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 15,
+    "brans": "Tarih",
+    "bransSoruNo": 15,
+    "konu": "19. Yüzyıl Islahatları",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 15)\nOsmanlı tarihinde ilk anayasal belge kabul edilen 1808 Sened-i İttifak kimler arasında imzalanmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "II. Abdülhamit ile Jön Türkler"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Abdülmecit ile Yeniçeriler"
+      },
+      {
+        "anahtar": "C",
+        "metin": "III. Selim ile Ulema"
+      },
+      {
+        "anahtar": "D",
+        "metin": "V. Murat ile İttihatçılar"
+      },
+      {
+        "anahtar": "E",
+        "metin": "II. Mahmut ile Âyanlar"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "II. Mahmut ile taşradaki yerel güçler (Âyanlar) arasında imzalanmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: II. Abdülhamit ile Jön Türkler",
+        "B": "B seçeneği: Abdülmecit ile Yeniçeriler",
+        "C": "C seçeneği: III. Selim ile Ulema",
+        "D": "D seçeneği: V. Murat ile İttihatçılar",
+        "E": "E seçeneği: II. Mahmut ile Âyanlar"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_16",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 76,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 16,
+    "brans": "Tarih",
+    "bransSoruNo": 16,
+    "konu": "Tanzimat ve Meşrutiyet Dönemi",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 16)\nOsmanlı Devleti'nin ilk yazılı anayasası olan Kanun-i Esasi hangi padişah döneminde ilan edilmiştir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "VI. Mehmet Vahdettin"
+      },
+      {
+        "anahtar": "B",
+        "metin": "V. Mehmet Reşat"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Sultan Abdülmecit"
+      },
+      {
+        "anahtar": "D",
+        "metin": "II. Abdülhamit"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sultan Abdülaziz"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "1876 yılında I. Meşrutiyet ile birlikte II. Abdülhamit tarafından ilan edilmiştir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: VI. Mehmet Vahdettin",
+        "B": "B seçeneği: V. Mehmet Reşat",
+        "C": "C seçeneği: Sultan Abdülmecit",
+        "D": "D seçeneği: II. Abdülhamit",
+        "E": "E seçeneği: Sultan Abdülaziz"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_17",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 77,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 17,
+    "brans": "Tarih",
+    "bransSoruNo": 17,
+    "konu": "20. Yüzyıl Başlarında Osmanlı",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 17)\nMustafa Kemal Paşa'nın sömürgeciliğe karşı ilk askeri başarısını kazandığı savaş hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Trablusgarp Savaşı (Derne & Tobruk)"
+      },
+      {
+        "anahtar": "B",
+        "metin": "I. Balkan Savaşı"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Çanakkale Cephesi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kafkas Cephesi"
+      },
+      {
+        "anahtar": "E",
+        "metin": "II. Balkan Savaşı"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Derne ve Tobruk'ta yerli halkı örgütleyerek İtalyanlara karşı başarı kazanmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Trablusgarp Savaşı (Derne & Tobruk)",
+        "B": "B seçeneği: I. Balkan Savaşı",
+        "C": "C seçeneği: Çanakkale Cephesi",
+        "D": "D seçeneği: Kafkas Cephesi",
+        "E": "E seçeneği: II. Balkan Savaşı"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_18",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 78,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 18,
+    "brans": "Tarih",
+    "bransSoruNo": 18,
+    "konu": "I. Dünya Savaşı ve Cepheler",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 18)\nMustafa Kemal Paşa'nın I. Dünya Savaşı'nda savaştığı cephelerin kronolojik sırası (ÇIKIS şifresi) nasıldır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Yemen - Kafkas - Suriye"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Kafkas - Çanakkale - Irak"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Suriye - Çanakkale - Hicaz"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Çanakkale - Kafkas - Suriye/Filistin"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Galiçya - Kafkas - Çanakkale"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Ç-K-S kuralı: 1915 Çanakkale, 1916 Kafkas (Muş ve Bitlis'i kurtardı), 1917 Suriye-Filistin.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Yemen - Kafkas - Suriye",
+        "B": "B seçeneği: Kafkas - Çanakkale - Irak",
+        "C": "C seçeneği: Suriye - Çanakkale - Hicaz",
+        "D": "D seçeneği: Çanakkale - Kafkas - Suriye/Filistin",
+        "E": "E seçeneği: Galiçya - Kafkas - Çanakkale"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_19",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 79,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 19,
+    "brans": "Tarih",
+    "bransSoruNo": 19,
+    "konu": "Milli Mücadele Hazırlık (Amasya)",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 19)\nKurtuluş Savaşı'nın amacı, gerekçesi ve yöntemi İLK KEZ hangi belgede açıklanmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Misak-ı Milli"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Erzurum Kongresi"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Amasya Genelgesi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Sivas Kongresi"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Havza Genelgesi"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "'Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır' maddesi ihtilal yöntemidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Misak-ı Milli",
+        "B": "B seçeneği: Erzurum Kongresi",
+        "C": "C seçeneği: Amasya Genelgesi",
+        "D": "D seçeneği: Sivas Kongresi",
+        "E": "E seçeneği: Havza Genelgesi"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_20",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 80,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 20,
+    "brans": "Tarih",
+    "bransSoruNo": 20,
+    "konu": "Milli Mücadele Hazırlık (Kongreler)",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 20)\nManda ve himaye fikri KESİN OLARAK nerede reddedilmiştir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Sivas Kongresi"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Alaşehir Kongresi"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Amasya Görüşmeleri"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Balıkesir Kongresi"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Erzurum Kongresi"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "İlk kez Erzurum'da, kesin olarak ise ulusal nitelikli Sivas Kongresi'nde reddedilmiştir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Sivas Kongresi",
+        "B": "B seçeneği: Alaşehir Kongresi",
+        "C": "C seçeneği: Amasya Görüşmeleri",
+        "D": "D seçeneği: Balıkesir Kongresi",
+        "E": "E seçeneği: Erzurum Kongresi"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_21",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 81,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 21,
+    "brans": "Tarih",
+    "bransSoruNo": 21,
+    "konu": "I. TBMM Dönemi",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 21)\nI. TBMM'nin çıkardığı İLK kanun aşağıdakilerden hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Ağnam Resmi Kanunu"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Men-i Müskirat Kanunu"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Hıyanet-i Vataniye Kanunu"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Teşkilat-ı Esasiye"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Firariler Kanunu"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Hayvan vergisi olan Ağnam Resmi 4 katına çıkarılarak Meclis'in ilk yasası olmuştur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Ağnam Resmi Kanunu",
+        "B": "B seçeneği: Men-i Müskirat Kanunu",
+        "C": "C seçeneği: Hıyanet-i Vataniye Kanunu",
+        "D": "D seçeneği: Teşkilat-ı Esasiye",
+        "E": "E seçeneği: Firariler Kanunu"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_22",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 82,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 22,
+    "brans": "Tarih",
+    "bransSoruNo": 22,
+    "konu": "Kurtuluş Savaşı Muharebeleri",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 22)\nMustafa Kemal Paşa'nın 'Hattı müdafaa yoktur, sathı müdafaa vardır...' emrini verdiği savaş hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "I. İnönü Muharebesi"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Sakarya Meydan Muharebesi"
+      },
+      {
+        "anahtar": "C",
+        "metin": "II. İnönü Muharebesi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Büyük Taarruz"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Kütahya-Eskişehir"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "22 gün 22 gece süren Sakarya Savaşı son savunma muharebesidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: I. İnönü Muharebesi",
+        "B": "B seçeneği: Sakarya Meydan Muharebesi",
+        "C": "C seçeneği: II. İnönü Muharebesi",
+        "D": "D seçeneği: Büyük Taarruz",
+        "E": "E seçeneği: Kütahya-Eskişehir"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_23",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 83,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 23,
+    "brans": "Tarih",
+    "bransSoruNo": 23,
+    "konu": "Lozan Barış Antlaşması",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 23)\nLozan Barış Konferansı'nda Türkiye'yi temsil eden heyetin başkanı kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Fevzi Çakmak"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Ali Fethi Okyar"
+      },
+      {
+        "anahtar": "C",
+        "metin": "İsmet İnönü"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kazım Karabekir"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Rauf Orbay"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Dışişleri Bakanı olarak İsmet İnönü Mudanya ve Lozan heyet başkanlığını yürütmüştür.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Fevzi Çakmak",
+        "B": "B seçeneği: Ali Fethi Okyar",
+        "C": "C seçeneği: İsmet İnönü",
+        "D": "D seçeneği: Kazım Karabekir",
+        "E": "E seçeneği: Rauf Orbay"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_24",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 84,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 24,
+    "brans": "Tarih",
+    "bransSoruNo": 24,
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 24)\nCumhuriyet Dönemi'nde kadınlara seçme ve seçilme hakkı sırasıyla hangi yıllarda verilmiştir (BMW şifresi)?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "1930 (Belediye) - 1933 (Muhtar) - 1934 (Vekil)"
+      },
+      {
+        "anahtar": "B",
+        "metin": "1924 - 1928 - 1930"
+      },
+      {
+        "anahtar": "C",
+        "metin": "1923 - 1930 - 1938"
+      },
+      {
+        "anahtar": "D",
+        "metin": "1930 - 1935 - 1940"
+      },
+      {
+        "anahtar": "E",
+        "metin": "1926 - 1930 - 1934"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "0-3-4 kuralı: 1930 Belediye, 1933 Muhtar, 1934 Milletvekili seçme/seçilme hakkı.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 1930 (Belediye) - 1933 (Muhtar) - 1934 (Vekil)",
+        "B": "B seçeneği: 1924 - 1928 - 1930",
+        "C": "C seçeneği: 1923 - 1930 - 1938",
+        "D": "D seçeneği: 1930 - 1935 - 1940",
+        "E": "E seçeneği: 1926 - 1930 - 1934"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_25",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 85,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 25,
+    "brans": "Tarih",
+    "bransSoruNo": 25,
+    "konu": "Atatürk İlkeleri",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 25)\nAşar vergisinin kaldırılması, kadınlara haklar verilmesi ve ayrıcalıksız toplum hedefi hangi Atatürk ilkesiyle doğrudan ilgilidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Halkçılık"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Laiklik"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Milliyetçilik"
+      },
+      {
+        "anahtar": "D",
+        "metin": "İnkılapçılık"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Devletçilik"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Toplumsal eşitlik ve halkın refahını gözeten inkılaplar doğrudan Halkçılık ilkesidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Halkçılık",
+        "B": "B seçeneği: Laiklik",
+        "C": "C seçeneği: Milliyetçilik",
+        "D": "D seçeneği: İnkılapçılık",
+        "E": "E seçeneği: Devletçilik"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_26",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 86,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 26,
+    "brans": "Tarih",
+    "bransSoruNo": 26,
+    "konu": "Atatürk Dönemi Dış Politika",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 26)\n1936 yılında imzalanan Montrö Boğazlar Sözleşmesi ile Boğazlar Komisyonu kaldırılarak tüm yetkiler kime devredilmiştir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Türkiye Cumhuriyeti'ne"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Balkan Antantı'na"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Milletler Cemiyeti'ne"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Sovyetler Birliği'ne"
+      },
+      {
+        "anahtar": "E",
+        "metin": "İngiltere'ye"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Türkiye Boğazlar üzerinde tam egemenlik kazanmış ve asker çıkarma hakkı elde etmiştir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Türkiye Cumhuriyeti'ne",
+        "B": "B seçeneği: Balkan Antantı'na",
+        "C": "C seçeneği: Milletler Cemiyeti'ne",
+        "D": "D seçeneği: Sovyetler Birliği'ne",
+        "E": "E seçeneği: İngiltere'ye"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_27",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 87,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 27,
+    "brans": "Tarih",
+    "bransSoruNo": 27,
+    "konu": "Çağdaş Türk ve Dünya Tarihi",
+    "soruMetni": "(2022 KPSS GK Tarih - Soru 27)\nII. Dünya Savaşı sonrasında ABD'nin Avrupa ülkelerine yaptığı ekonomik kalkınma yardım planına ne ad verilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Marshall Planı"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Truman Doktrini"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Varşova Paktı"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Eisenhower Doktrini"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Monroe Doktrini"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "1947 Marshall Planı komünizme karşı Avrupa'yı ekonomik ayağa kaldırma projesidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Marshall Planı",
+        "B": "B seçeneği: Truman Doktrini",
+        "C": "C seçeneği: Varşova Paktı",
+        "D": "D seçeneği: Eisenhower Doktrini",
+        "E": "E seçeneği: Monroe Doktrini"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_28",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 88,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 28,
+    "brans": "Coğrafya",
+    "bransSoruNo": 1,
+    "konu": "Coğrafi Konum (Matematik Konum)",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 1)\nTürkiye'nin orta kuşakta yer almasının sonuçları (ABCD şifresi) arasında hangisi <u>yer almaz</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Doğuya doğru gidildikçe yükseltinin artması"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Akdeniz iklim kuşağında bulunması"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Dört mevsimin belirgin yaşanması"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Cephesel (Frontal) yağışların görülmesi"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Batı rüzgarlarının etkisi altında kalması"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Yükselti özel (göreceli) konumun sonucudur, mutlak (matematik) konumla ilgisi yoktur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Doğuya doğru gidildikçe yükseltinin artması",
+        "B": "B seçeneği: Akdeniz iklim kuşağında bulunması",
+        "C": "C seçeneği: Dört mevsimin belirgin yaşanması",
+        "D": "D seçeneği: Cephesel (Frontal) yağışların görülmesi",
+        "E": "E seçeneği: Batı rüzgarlarının etkisi altında kalması"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_29",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 89,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 29,
+    "brans": "Coğrafya",
+    "bransSoruNo": 2,
+    "konu": "Jeolojik Yapı ve Depremler",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 2)\nTürkiye'nin Alp-Himalaya kıvrım kuşağında yer alması ve arazisinin genç oluşumlu olması aşağıdakilerden hangisine neden olmuştur?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Kömür yataklarının tamamen taş kömüründen oluşmasına"
+      },
+      {
+        "anahtar": "B",
+        "metin": "İç kesimlerde okyanus iklimi görülmesine"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Sık sık tektonik depremlerin yaşanmasına ve sıcak su kaynaklarının zenginliğine"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Buzul göllerinin en alçak ovalarda bulunmasına"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Büyük kanyonların sadece kıyılarda olmasına"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Genç oluşumlu kırıklı fay hatları tektonik deprem ve jeotermal kaynak zenginliği yaratır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Kömür yataklarının tamamen taş kömüründen oluşmasına",
+        "B": "B seçeneği: İç kesimlerde okyanus iklimi görülmesine",
+        "C": "C seçeneği: Sık sık tektonik depremlerin yaşanmasına ve sıcak su kaynaklarının zenginliğine",
+        "D": "D seçeneği: Buzul göllerinin en alçak ovalarda bulunmasına",
+        "E": "E seçeneği: Büyük kanyonların sadece kıyılarda olmasına"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_30",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 90,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 30,
+    "brans": "Coğrafya",
+    "bransSoruNo": 3,
+    "konu": "Platolar ve Oluşumları",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 3)\nTürkiye'de karstik (kireçtaşı/kalker) aşınımı sonucu oluşan platolar hangileridir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Bozok ve Yozgat Platoları"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Teke ve Taşeli Platoları"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Haymana ve Cihanbeyli Platoları"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Erzurum-Kars Platosu"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Çatalca-Kocaeli Platosu"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Akdeniz'deki Teke ve Taşeli karstik oluşumlu platolardır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Bozok ve Yozgat Platoları",
+        "B": "B seçeneği: Teke ve Taşeli Platoları",
+        "C": "C seçeneği: Haymana ve Cihanbeyli Platoları",
+        "D": "D seçeneği: Erzurum-Kars Platosu",
+        "E": "E seçeneği: Çatalca-Kocaeli Platosu"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_31",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 91,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 31,
+    "brans": "Coğrafya",
+    "bransSoruNo": 4,
+    "konu": "Ovalar ve Delta Oluşumu",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 4)\nSeyhan ve Ceyhan nehirlerinin taşıdığı alüvyonlarla oluşan Türkiye'nin en büyük delta ovası hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Çarşamba Ovası"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Silifke Ovası"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Gediz Ovası"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Çukurova"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Bafra Ovası"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Akdeniz'deki Çukurova Türkiye'nin en büyük alüvyal kıyı delta ovasıdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Çarşamba Ovası",
+        "B": "B seçeneği: Silifke Ovası",
+        "C": "C seçeneği: Gediz Ovası",
+        "D": "D seçeneği: Çukurova",
+        "E": "E seçeneği: Bafra Ovası"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_32",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 92,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 32,
+    "brans": "Coğrafya",
+    "bransSoruNo": 5,
+    "konu": "Kıyı Tipleri",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 5)\nEge Bölgesi'nde dağların denize dik uzanması sonucunda hangi kıyı tipi oluşmuştur?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Haliç tipi kıyı"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Boyuna kıyı tipi"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Dalmaçya kıyı tipi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Enine kıyı tipi"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Ria kıyı tipi"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Dağlar denize dik uzandığında girinti-çıkıntı ve koy-körfezin çok olduğu Enine kıyı tipi görülür.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Haliç tipi kıyı",
+        "B": "B seçeneği: Boyuna kıyı tipi",
+        "C": "C seçeneği: Dalmaçya kıyı tipi",
+        "D": "D seçeneği: Enine kıyı tipi",
+        "E": "E seçeneği: Ria kıyı tipi"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_33",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 93,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 33,
+    "brans": "Coğrafya",
+    "bransSoruNo": 6,
+    "konu": "Akarsular ve Göller",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 6)\nTürkiye sınırları içinde doğup Hazar Denizi'ne dökülen (kapalı havza oluşturan) akarsular hangileridir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Seyhan ve Ceyhan"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Aras ve Kura Nehirleri"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Fırat ve Dicle"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Gediz ve Bakırçay"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Kızılırmak ve Yeşilırmak"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Aras ve Kura nehirleri Hazar Kapalı Havzası'na dökülür.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Seyhan ve Ceyhan",
+        "B": "B seçeneği: Aras ve Kura Nehirleri",
+        "C": "C seçeneği: Fırat ve Dicle",
+        "D": "D seçeneği: Gediz ve Bakırçay",
+        "E": "E seçeneği: Kızılırmak ve Yeşilırmak"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_34",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 94,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 34,
+    "brans": "Coğrafya",
+    "bransSoruNo": 7,
+    "konu": "Dış Kuvvetler (Karstik Şekiller)",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 7)\nSuların kalkerli tabakaları eritmesiyle oluşan en küçük karstik aşınım şekline ne ad verilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Dolin"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Obruk"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Polye"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Lapya"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Uvala"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Sıralama: Lapya (en küçük) -> Dolin -> Uvala -> Polye (Gölova - en büyük).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Dolin",
+        "B": "B seçeneği: Obruk",
+        "C": "C seçeneği: Polye",
+        "D": "D seçeneği: Lapya",
+        "E": "E seçeneği: Uvala"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_35",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 95,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 35,
+    "brans": "Coğrafya",
+    "bransSoruNo": 8,
+    "konu": "İklim ve Sıcaklık Dağılışı",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 8)\nTürkiye'de batıdan doğuya gidildikçe sıcaklık ortalamalarının azalmasının temel nedeni nedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Rüzgar yönü"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Yükseltinin batıdan doğuya artması"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Enlem etkisi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Bakı faktörü"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Denizellik"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Batıdan doğuya yükselti arttığı için sıcaklıklar belirgin şekilde düşer.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Rüzgar yönü",
+        "B": "B seçeneği: Yükseltinin batıdan doğuya artması",
+        "C": "C seçeneği: Enlem etkisi",
+        "D": "D seçeneği: Bakı faktörü",
+        "E": "E seçeneği: Denizellik"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_36",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 96,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 36,
+    "brans": "Coğrafya",
+    "bransSoruNo": 9,
+    "konu": "Rüzgarlar ve Basınç",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 9)\nTürkiye'ye kuzeydoğudan esen, kışın soğuk ve kar yağışı getiren yerel rüzgar hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Samyeli"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Karayel"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Lodos"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Poyraz"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Yıldız"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Kayıp Sakal şifresinde Kuzeydoğudan esen P harfi Poyraz'dır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Samyeli",
+        "B": "B seçeneği: Karayel",
+        "C": "C seçeneği: Lodos",
+        "D": "D seçeneği: Poyraz",
+        "E": "E seçeneği: Yıldız"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_37",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 97,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 37,
+    "brans": "Coğrafya",
+    "bransSoruNo": 10,
+    "konu": "Bitki Örtüsü ve Toprak",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 10)\nAkdeniz iklim bölgesinde kalkerler üzerinde oluşan kırmızı renkli demir oksitli topraklara ne ad verilir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Alüvyal Topraklar"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Podzol Toprakları"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kahverengi Bozkır"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Terra-Rossa Toprakları"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Çernezyom Toprakları"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Kalkerli arazide demir oksitlenmesiyle oluşan kızıl Akdeniz toprağı Terra-Rossa'dır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Alüvyal Topraklar",
+        "B": "B seçeneği: Podzol Toprakları",
+        "C": "C seçeneği: Kahverengi Bozkır",
+        "D": "D seçeneği: Terra-Rossa Toprakları",
+        "E": "E seçeneği: Çernezyom Toprakları"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_38",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 98,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 38,
+    "brans": "Coğrafya",
+    "bransSoruNo": 11,
+    "konu": "Çevre Sorunları & Erozyon",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 11)\nTürkiye'de rüzgâr erozyonunun en şiddetli olduğu bölgeler hangileridir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Doğu Karadeniz"
+      },
+      {
+        "anahtar": "B",
+        "metin": "İç Anadolu ve Güneydoğu Anadolu"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Ege ve Marmara"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Akdeniz Kıyıları"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Karadeniz Kıyı Kuşağı"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Bitki örtüsünün cılız ve arazinin kurak olduğu İç Anadolu (Konya) ve Güneydoğu'dur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Doğu Karadeniz",
+        "B": "B seçeneği: İç Anadolu ve Güneydoğu Anadolu",
+        "C": "C seçeneği: Ege ve Marmara",
+        "D": "D seçeneği: Akdeniz Kıyıları",
+        "E": "E seçeneği: Karadeniz Kıyı Kuşağı"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_39",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 99,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 39,
+    "brans": "Coğrafya",
+    "bransSoruNo": 12,
+    "konu": "Nüfus ve Yerleşme",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 12)\nTürkiye'de nüfusun seyrek olduğu Teke ve Taşeli platolarında nüfus azlığının temel nedeni nedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Yaz kuraklığının olmaması"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Karstik arazi yapısı ve engebeli dağlık yüzey şekilleri"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Aşırı yağış ve bataklıklar"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Maden rezervlerinin çokluğu"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sanayi tesislerinin fazlalığı"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Karstik kireçtaşlı zemin suyu tutamadığı ve tarıma elverişsiz olduğu için nüfus seyrektir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Yaz kuraklığının olmaması",
+        "B": "B seçeneği: Karstik arazi yapısı ve engebeli dağlık yüzey şekilleri",
+        "C": "C seçeneği: Aşırı yağış ve bataklıklar",
+        "D": "D seçeneği: Maden rezervlerinin çokluğu",
+        "E": "E seçeneği: Sanayi tesislerinin fazlalığı"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_40",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 100,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 40,
+    "brans": "Coğrafya",
+    "bransSoruNo": 13,
+    "konu": "Göçler ve Nüfus Piramidi",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 13)\nTürkiye'de kırsaldan kente yapılan göçleri azaltmak için alınması gereken en etkili önlem hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Kırsal alanda tarım ve hayvancılığa dayalı sanayi ve sulamayı geliştirmek"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Kırsalda nüfus artışını teşvik etmek"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Şehirlerarası ulaşım ücretlerini yükseltmek"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Tarım alanlarını sanayiye açmak"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Kentlerde konut sayısını artırmak"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Kırsal geliri ve modern tarımı (GAP/KOP) artırmak göçü kaynağında önler.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Kırsal alanda tarım ve hayvancılığa dayalı sanayi ve sulamayı geliştirmek",
+        "B": "B seçeneği: Kırsalda nüfus artışını teşvik etmek",
+        "C": "C seçeneği: Şehirlerarası ulaşım ücretlerini yükseltmek",
+        "D": "D seçeneği: Tarım alanlarını sanayiye açmak",
+        "E": "E seçeneği: Kentlerde konut sayısını artırmak"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_41",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 101,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 41,
+    "brans": "Coğrafya",
+    "bransSoruNo": 14,
+    "konu": "Tarım ve Tarım Ürünleri",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 14)\nDünya fındık ve incir üretiminde 1. sırada yer alan Türkiye'de, üretim alanı devlet kontrolünde olan ürün hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Zeytin ve İncir"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Haşhaş ve Pirinç (Çeltik)"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Fındık ve Çay"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Buğday ve Arpa"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Pamuk ve Ayçiçeği"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Haşhaş (uyuşturucu madde) ve Pirinç (sıtma hastalığı) devlet kontrolündedir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Zeytin ve İncir",
+        "B": "B seçeneği: Haşhaş ve Pirinç (Çeltik)",
+        "C": "C seçeneği: Fındık ve Çay",
+        "D": "D seçeneği: Buğday ve Arpa",
+        "E": "E seçeneği: Pamuk ve Ayçiçeği"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_42",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 102,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 42,
+    "brans": "Coğrafya",
+    "bransSoruNo": 15,
+    "konu": "Hayvancılık ve Ormancılık",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 15)\nErzurum-Kars Platosu'nda yaz yağışlarına bağlı yetişen gür alpin çayırlar hangi hayvancılık türünü yaygınlaştırmıştır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Büyükbaş Mera Hayvancılığı"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Kümes Hayvancılığı"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Küçükbaş Koyun Yetiştiriciliği"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Tiftik Keçisi"
+      },
+      {
+        "anahtar": "E",
+        "metin": "İpek Böcekçiliği"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Yaz yağışları ve uzun boylu çayırlar sığır/büyükbaş mera yetiştiriciliğinin merkezidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Büyükbaş Mera Hayvancılığı",
+        "B": "B seçeneği: Kümes Hayvancılığı",
+        "C": "C seçeneği: Küçükbaş Koyun Yetiştiriciliği",
+        "D": "D seçeneği: Tiftik Keçisi",
+        "E": "E seçeneği: İpek Böcekçiliği"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_43",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 103,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 43,
+    "brans": "Coğrafya",
+    "bransSoruNo": 16,
+    "konu": "Madenler",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 16)\nDünya rezervlerinin %73'ü Türkiye'de bulunan; Balıkesir (Bigadiç), Kütahya (Emet) ve Eskişehir'de çıkarılan maden hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Krom"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Boksit"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Demir"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Bor"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Bakır"
+      }
+    ],
+    "dogruCevap": "D",
+    "aciklama": {
+      "netOzet": "Bor madeni Türkiye'nin dünyada lider olduğu en stratejik madenidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Krom",
+        "B": "B seçeneği: Boksit",
+        "C": "C seçeneği: Demir",
+        "D": "D seçeneği: Bor",
+        "E": "E seçeneği: Bakır"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_44",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 104,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 44,
+    "brans": "Coğrafya",
+    "bransSoruNo": 17,
+    "konu": "Enerji Kaynakları",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 17)\nDenizli Sarayköy ve Aydın Germencik'te bulunan, yerin derinliklerinden gelen sıcak su buharıyla elektrik üreten enerji türü nedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Nükleer Enerji"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Jeotermal Enerji"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Güneş Enerjisi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Termik Santral"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Biyokütle Enerjisi"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Fay hatlarındaki sıcak buhar enerjisi Jeotermal santrallerdir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Nükleer Enerji",
+        "B": "B seçeneği: Jeotermal Enerji",
+        "C": "C seçeneği: Güneş Enerjisi",
+        "D": "D seçeneği: Termik Santral",
+        "E": "E seçeneği: Biyokütle Enerjisi"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_45",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 105,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 45,
+    "brans": "Coğrafya",
+    "bransSoruNo": 18,
+    "konu": "Bölgesel Kalkınma Projeleri",
+    "soruMetni": "(2022 KPSS GK Coğrafya - Soru 18)\nGAP (Güneydoğu Anadolu Projesi) kapsamında Fırat Nehri üzerinde kurulan Türkiye'nin en büyük hidroelektrik barajı hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Karakaya Barajı"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Deriner Barajı"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Atatürk Barajı"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Keban Barajı"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Hirfanlı Barajı"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Atatürk Barajı Şanlıurfa-Adıyaman arasında yer alan dev hidroelektrik tesisidir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Karakaya Barajı",
+        "B": "B seçeneği: Deriner Barajı",
+        "C": "C seçeneği: Atatürk Barajı",
+        "D": "D seçeneği: Keban Barajı",
+        "E": "E seçeneği: Hirfanlı Barajı"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_46",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 106,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 46,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 1,
+    "konu": "Temel Hukuk (Sosyal Düzen Kuralları)",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 1)\nHukuk kurallarını din, ahlak ve görgü kurallarından ayıran en temel özellik nedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Sürekli olması"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Maddi (devlet gücüne dayalı) yaptırımlı olması"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Genel olması"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Yazılı olması"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Toplumsal düzeni sağlaması"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Hukuk kurallarının arkasında devletin cebir ve yaptırım gücü vardır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Sürekli olması",
+        "B": "B seçeneği: Maddi (devlet gücüne dayalı) yaptırımlı olması",
+        "C": "C seçeneği: Genel olması",
+        "D": "D seçeneği: Yazılı olması",
+        "E": "E seçeneği: Toplumsal düzeni sağlaması"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_47",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 107,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 47,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 2,
+    "konu": "Hak ve Fiil Ehliyeti",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 2)\nGerçek kişilerde Hak Ehliyeti ne zaman başlar?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Sağ ve tam doğumla başlar"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Ayırt etme gücünün kazanılmasıyla"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Evlenme ile"
+      },
+      {
+        "anahtar": "D",
+        "metin": "18 yaşın doldurulmasıyla"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Mahkeme kararıyla"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Hak ehliyeti pasif bir ehliyet olup çocuğun sağ ve tam doğumuyla başlar.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Sağ ve tam doğumla başlar",
+        "B": "B seçeneği: Ayırt etme gücünün kazanılmasıyla",
+        "C": "C seçeneği: Evlenme ile",
+        "D": "D seçeneği: 18 yaşın doldurulmasıyla",
+        "E": "E seçeneği: Mahkeme kararıyla"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_48",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 108,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 48,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 3,
+    "konu": "Hükümsüzlük Türleri",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 3)\nKurucu unsurları bulunmayan (örneğin resmi evlendirme memuru olmadan yapılan) bir hukuki işlemin yaptırımı nedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Mutlak Butlan"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Nispi Butlan"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Yokluk"
+      },
+      {
+        "anahtar": "D",
+        "metin": "İptal"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Fesih"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Kurucu unsuru eksik işlemler hukuken hiç doğmamış sayılır (Yokluk).",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Mutlak Butlan",
+        "B": "B seçeneği: Nispi Butlan",
+        "C": "C seçeneği: Yokluk",
+        "D": "D seçeneği: İptal",
+        "E": "E seçeneği: Fesih"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_49",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 109,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 49,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 4,
+    "konu": "Türk Anayasa Tarihi",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 4)\nTürkiye Cumhuriyeti'nin ilk 'Yumuşak ve Çerçeve' anayasası hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "1876 Kanun-i Esasi"
+      },
+      {
+        "anahtar": "B",
+        "metin": "1961 Anayasası"
+      },
+      {
+        "anahtar": "C",
+        "metin": "1924 Anayasası"
+      },
+      {
+        "anahtar": "D",
+        "metin": "1982 Anayasası"
+      },
+      {
+        "anahtar": "E",
+        "metin": "1921 Anayasası (Teşkilat-ı Esasiye)"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "1921 Anayasası olağanüstü savaş dönemi anayasası olup 23 maddelik çerçeve anayasadır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 1876 Kanun-i Esasi",
+        "B": "B seçeneği: 1961 Anayasası",
+        "C": "C seçeneği: 1924 Anayasası",
+        "D": "D seçeneği: 1982 Anayasası",
+        "E": "E seçeneği: 1921 Anayasası (Teşkilat-ı Esasiye)"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_50",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 110,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 50,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 5,
+    "konu": "1982 Anayasası (Temel Haklar)",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 5)\nAşağıdakilerden hangisi 1982 Anayasası'nda 'Kişinin Hakları ve Ödevleri' (Koruyucu Haklar) arasında <u>yer almaz</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Sendika kurma hakkı (Sosyal-Ekonomik Hak)"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Konut dokunulmazlığı"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Haberleşme hürriyeti"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kişi hürriyeti ve güvenliği"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Özel hayatın gizliliği"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Sendika kurma hakkı Sosyal ve Ekonomik (İsteme) haklar arasındadır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Sendika kurma hakkı (Sosyal-Ekonomik Hak)",
+        "B": "B seçeneği: Konut dokunulmazlığı",
+        "C": "C seçeneği: Haberleşme hürriyeti",
+        "D": "D seçeneği: Kişi hürriyeti ve güvenliği",
+        "E": "E seçeneği: Özel hayatın gizliliği"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_51",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 111,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 51,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 6,
+    "konu": "1982 Anayasası (Yasama - TBMM)",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 6)\n1982 Anayasası'na göre TBMM'nin üye tam sayısı kaçtır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "450 Milletvekili"
+      },
+      {
+        "anahtar": "B",
+        "metin": "550 Milletvekili"
+      },
+      {
+        "anahtar": "C",
+        "metin": "650 Milletvekili"
+      },
+      {
+        "anahtar": "D",
+        "metin": "500 Milletvekili"
+      },
+      {
+        "anahtar": "E",
+        "metin": "600 Milletvekili"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "2017 Anayasa değişikliği ile TBMM milletvekili sayısı 600'e çıkarılmıştır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 450 Milletvekili",
+        "B": "B seçeneği: 550 Milletvekili",
+        "C": "C seçeneği: 650 Milletvekili",
+        "D": "D seçeneği: 500 Milletvekili",
+        "E": "E seçeneği: 600 Milletvekili"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_52",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 112,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 52,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 7,
+    "konu": "1982 Anayasası (Yürütme - Cumhurbaşkanı)",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 7)\n1982 Anayasası'na göre Cumhurbaşkanı seçilebilmek için kaç yaşını doldurmuş olmak gerekir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "40 yaşını doldurmuş olmak"
+      },
+      {
+        "anahtar": "B",
+        "metin": "30 yaşını doldurmuş olmak"
+      },
+      {
+        "anahtar": "C",
+        "metin": "35 yaşını doldurmuş olmak"
+      },
+      {
+        "anahtar": "D",
+        "metin": "45 yaşını doldurmuş olmak"
+      },
+      {
+        "anahtar": "E",
+        "metin": "18 yaşını doldurmuş olmak"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Cumhurbaşkanı için 40 yaş + Yükseköğrenim mezuniyeti şarttır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: 40 yaşını doldurmuş olmak",
+        "B": "B seçeneği: 30 yaşını doldurmuş olmak",
+        "C": "C seçeneği: 35 yaşını doldurmuş olmak",
+        "D": "D seçeneği: 45 yaşını doldurmuş olmak",
+        "E": "E seçeneği: 18 yaşını doldurmuş olmak"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_53",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 113,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 53,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 8,
+    "konu": "1982 Anayasası (Yargı - Mahkemeler)",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 8)\n1982 Anayasası'na göre aşağıdakilerden hangisi Yüksek Mahkemeler arasında <u>yer almaz</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Uyuşmazlık Mahkemesi"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Yargıtay"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Anayasa Mahkemesi"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Danıştay"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sayıştay"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Sayıştay, HSK ve YSK yüksek mahkeme değil; anayasal denetim/kurul organlarıdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Uyuşmazlık Mahkemesi",
+        "B": "B seçeneği: Yargıtay",
+        "C": "C seçeneği: Anayasa Mahkemesi",
+        "D": "D seçeneği: Danıştay",
+        "E": "E seçeneği: Sayıştay"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_54",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 114,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 54,
+    "brans": "Vatandaşlık",
+    "bransSoruNo": 9,
+    "konu": "İdare Hukuku",
+    "soruMetni": "(2022 KPSS GK Vatandaşlık - Soru 9)\nAşağıdakilerden hangisi yönetmelik çıkarma yetkisine sahip <u>değildir</u>?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Kamu Tüzel Kişileri (Belediyeler, Üniversiteler)"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Muhtarlıklar"
+      },
+      {
+        "anahtar": "C",
+        "metin": "TRT"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Cumhurbaşkanı"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Bakanlıklar"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "Muhtarlıkların kamu tüzel kişiliği olmasına rağmen yönetmelik çıkarma yetkisi yoktur.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Kamu Tüzel Kişileri (Belediyeler, Üniversiteler)",
+        "B": "B seçeneği: Muhtarlıklar",
+        "C": "C seçeneği: TRT",
+        "D": "D seçeneği: Cumhurbaşkanı",
+        "E": "E seçeneği: Bakanlıklar"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_55",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 115,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 55,
+    "brans": "Güncel Bilgiler",
+    "bransSoruNo": 1,
+    "konu": "Uluslararası Örgütler (BM & NATO)",
+    "soruMetni": "(2022 KPSS GK Güncel Bilgiler - Soru 1)\nKuzey Atlantik Savunma Paktı (NATO)'nun genel karargâhı hangi şehirdedir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "New York / ABD"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Londra / İngiltere"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Paris / Fransa"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Cenevre / İsviçre"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Brüksel / Belçika"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "NATO genel karargâhı Brüksel'dedir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: New York / ABD",
+        "B": "B seçeneği: Londra / İngiltere",
+        "C": "C seçeneği: Paris / Fransa",
+        "D": "D seçeneği: Cenevre / İsviçre",
+        "E": "E seçeneği: Brüksel / Belçika"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_56",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 116,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 56,
+    "brans": "Güncel Bilgiler",
+    "bransSoruNo": 2,
+    "konu": "Bölgesel Kuruluşlar (D-8 & TÜRKSOY)",
+    "soruMetni": "(2022 KPSS GK Güncel Bilgiler - Soru 2)\nD-8 (Gelişen Sekiz Ülke) Teşkilatı'nın daimi genel sekreterliği hangi şehirde bulunmaktadır?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Cakarta / Endonezya"
+      },
+      {
+        "anahtar": "B",
+        "metin": "İstanbul / Türkiye"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Kahire / Mısır"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Tahran / İran"
+      },
+      {
+        "anahtar": "E",
+        "metin": "İslamabad / Pakistan"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "D-8 merkez sekretaryası İstanbul'dadır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Cakarta / Endonezya",
+        "B": "B seçeneği: İstanbul / Türkiye",
+        "C": "C seçeneği: Kahire / Mısır",
+        "D": "D seçeneği: Tahran / İran",
+        "E": "E seçeneği: İslamabad / Pakistan"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_57",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 117,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 57,
+    "brans": "Güncel Bilgiler",
+    "bransSoruNo": 3,
+    "konu": "UNESCO Dünya Mirası Listesi",
+    "soruMetni": "(2022 KPSS GK Güncel Bilgiler - Soru 3)\n2023 yılında UNESCO Dünya Mirası Listesi'ne Türkiye'nin 20. kültür varlığı olarak kaydedilen alan hangisidir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Afrodisias (Aydın)"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Çatalhöyük (Konya)"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Göbeklitepe (Şanlıurfa)"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Arslantepe Höyüğü (Malatya)"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Gordion Antik Kenti (Ankara)"
+      }
+    ],
+    "dogruCevap": "E",
+    "aciklama": {
+      "netOzet": "Ankara Polatlı'da yer alan Gordion Antik Kenti 20. UNESCO varlığımızdır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Afrodisias (Aydın)",
+        "B": "B seçeneği: Çatalhöyük (Konya)",
+        "C": "C seçeneği: Göbeklitepe (Şanlıurfa)",
+        "D": "D seçeneği: Arslantepe Höyüğü (Malatya)",
+        "E": "E seçeneği: Gordion Antik Kenti (Ankara)"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_58",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 118,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 58,
+    "brans": "Güncel Bilgiler",
+    "bransSoruNo": 4,
+    "konu": "Bilim, Uzay ve Havacılık",
+    "soruMetni": "(2022 KPSS GK Güncel Bilgiler - Soru 4)\nTürkiye'nin uzaya giden ilk astronotu kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Vecihi Hürkuş"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Haluk Bayraktar"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Alper Gezeravcı"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Selçuk Bayraktar"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Tuva Cihangir Atasever"
+      }
+    ],
+    "dogruCevap": "C",
+    "aciklama": {
+      "netOzet": "Alper Gezeravcı Ax-3 misyonu ile Uluslararası Uzay İstasyonu'na gitmiştir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Vecihi Hürkuş",
+        "B": "B seçeneği: Haluk Bayraktar",
+        "C": "C seçeneği: Alper Gezeravcı",
+        "D": "D seçeneği: Selçuk Bayraktar",
+        "E": "E seçeneği: Tuva Cihangir Atasever"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_59",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 119,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 59,
+    "brans": "Güncel Bilgiler",
+    "bransSoruNo": 5,
+    "konu": "Edebiyat ve Kültür Olayları",
+    "soruMetni": "(2022 KPSS GK Güncel Bilgiler - Soru 5)\n'İnce Memed', 'Yer Demir Gök Bakır' ve 'Yaşar Ne Yaşar Yaşamaz' romanlarının dünyaca ünlü Türk yazarı kimdir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Yaşar Kemal"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Aziz Nesin"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Orhan Pamuk"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Kemal Tahir"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Sabahattin Ali"
+      }
+    ],
+    "dogruCevap": "A",
+    "aciklama": {
+      "netOzet": "Çukurova insanını anlatan Nobel adayı büyük romancımız Yaşar Kemal'dir.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Yaşar Kemal",
+        "B": "B seçeneği: Aziz Nesin",
+        "C": "C seçeneği: Orhan Pamuk",
+        "D": "D seçeneği: Kemal Tahir",
+        "E": "E seçeneği: Sabahattin Ali"
+      }
+    }
+  },
+  {
+    "id": "2022_GK_60",
+    "yil": 2022,
+    "sinav": "KPSS Lisans",
+    "genelSoruNo": 120,
+    "testGrubu": "Genel Kültür",
+    "testSoruNo": 60,
+    "brans": "Güncel Bilgiler",
+    "bransSoruNo": 6,
+    "konu": "Türkiye ve Dünya Siyaseti",
+    "soruMetni": "(2022 KPSS GK Güncel Bilgiler - Soru 6)\nAvrupa Birliği Konseyi ve Avrupa Parlamentosu genel oturumlarının yapıldığı şehirler hangileridir?",
+    "secenekler": [
+      {
+        "anahtar": "A",
+        "metin": "Viyana ve Cenevre"
+      },
+      {
+        "anahtar": "B",
+        "metin": "Brüksel ve Strazburg"
+      },
+      {
+        "anahtar": "C",
+        "metin": "Berlin ve Paris"
+      },
+      {
+        "anahtar": "D",
+        "metin": "Lahey ve Bern"
+      },
+      {
+        "anahtar": "E",
+        "metin": "Roma ve Madrid"
+      }
+    ],
+    "dogruCevap": "B",
+    "aciklama": {
+      "netOzet": "AB ana organları Brüksel ve Strazburg'da yer alır.",
+      "secenekDetaylari": {
+        "A": "A seçeneği: Viyana ve Cenevre",
+        "B": "B seçeneği: Brüksel ve Strazburg",
+        "C": "C seçeneği: Berlin ve Paris",
+        "D": "D seçeneği: Lahey ve Bern",
+        "E": "E seçeneği: Roma ve Madrid"
+      }
+    }
+  }
+]

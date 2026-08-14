@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gnc_01",
+    "category": "Uluslararası Zirveler & Dönem Başkanlıkları",
+    "title": "G20, Türk Devletleri Teşkilatı ve AB Dönem Başkanlıkları",
+    "content": "G20 Dönem Başkanlığı 2024 yılında Brezilya, 2025 yılında Güney Afrika Cumhuriyeti'nde gerçekleşmektedir. Türk Devletleri Teşkilatı 2024 Liderler Zirvesi Kırgızistan'ın başkenti Bişkek'te düzenlenmiştir.",
+    "tag": "Uluslararası İlişkiler",
+    "date": "2024-2025"
+  },
+  {
+    "id": "gnc_02",
+    "category": "Kültür, Edebiyat & UNESCO",
+    "title": "UNESCO Dünya Mirası Listesine Eklenen Türkiye Varlıkları",
+    "content": "Türkiye'nin UNESCO Dünya Mirası Listesi'ndeki 20. varlığı Ankara'daki 'Gordion Antik Kenti' (2023), 21. varlığı ise 'Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri' (Eşrefoğlu, Mahmut Bey, Afyon Ulu Cami vb.) olmuştur.",
+    "tag": "UNESCO",
+    "date": "2023-2025"
+  },
+  {
+    "id": "gnc_03",
+    "category": "Bilim, Teknoloji & Havacılık",
+    "title": "Türkiye'nin İlk İnsanlı Uzay Misyonu ve Milli Teknolojiler",
+    "content": "Türkiye'nin ilk astronotu Alper Gezeravcı, Ax-3 misyonu kapsamında Uluslararası Uzay İstasyonu'nda (ISS) 13 farklı bilimsel deney gerçekleştirmiştir. Türkiye'nin 5. nesil milli muharip uçağı KAAN, ilk uçuşunu 2024 yılında başarıyla gerçekleştirmiştir.",
+    "tag": "Bilim & Teknoloji",
+    "date": "2024-2025"
+  },
+  {
+    "id": "gnc_04",
+    "category": "Kültür & Başkent İlanları",
+    "title": "Türk Dünyası Kültür Başkenti",
+    "content": "TÜRKSOY tarafından 2024 yılı Türk Dünyası Kültür Başkenti olarak Türkmenistan'ın 'Anev' şehri, 2025 yılı için Kazakistan'ın 'Aktau' şehri ilan edilmiştir.",
+    "tag": "TÜRKSOY",
+    "date": "2024-2025"
+  },
+  {
+    "id": "gnc_05",
+    "category": "Ödüller & Sanat",
+    "title": "Nobel Ödülleri ve Önemli Eserler",
+    "content": "2024 Nobel Edebiyat Ödülü Güney Koreli yazar Han Kang'a verilmiştir. 2024 Nobel Barış Ödülü ise nükleer silahsızlanma çabalarından ötürü Japon kuruluşu Nihon Hidankyo'ya verilmiştir.",
+    "tag": "Nobel Ödülleri",
+    "date": "2024-2025"
+  }
+]

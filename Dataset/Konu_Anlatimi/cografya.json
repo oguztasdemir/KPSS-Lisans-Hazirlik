@@ -1,0 +1,32 @@
+{
+  "brans": "Coğrafya",
+  "icon": "🌍",
+  "color": "#10b981",
+  "soruSayisi": 18,
+  "konular": [
+    {
+      "id": "cog_konum_yersekilleri",
+      "baslik": "1. Coğrafi Konum, Yer Şekilleri & Su Varlığı",
+      "soruAgirligi": "6 Soru",
+      "ozet": "Matematiksel konum sonuçları, dağlar, platolar, göller ve kıyı tipleri.",
+      "onemliBilgiler": [
+        "Orta Kuşak Sonuçları (ABCD): Akdeniz iklimi, Batı rüzgarları, Cephe yağışları, Dört mevsim.",
+        "Tombolo (Saplı Ada): Balıkesir Kapıdağ Yarımadası ve Sinop İnceburun.",
+        "Lagün (Kıyı Set Gölü): Büyükçekmece, Küçükçekmece, Terkos (Durusu), Fethiye Ölüdeniz.",
+        "Lav Platosu: Erzurum-Kars (Büyükbaş mera hayvancılığı); Karstik Plato: Teke-Taşeli (Kıl keçisi)."
+      ]
+    },
+    {
+      "id": "cog_madenler_sanayi",
+      "baslik": "2. Madenler, Enerji Kaynakları & Projeler",
+      "soruAgirligi": "8-10 Soru",
+      "ozet": "Bor, boksit, krom, bakır, petrol, HES ve kalkınma projeleri (GAP, KOP, ZBK, DOKAP).",
+      "onemliBilgiler": [
+        "Bor: Balıkesir (Bigadiç), Kütahya (Emet), Bursa (Mustafakemalpaşa), Eskişehir (Kırka).",
+        "Boksit: Konya (Seydişehir) ve Antalya (Akseki) -> Seydişehir Alüminyum Tesisleri.",
+        "Krom: Elazığ (Guleman), Muğla (Fethiye) -> Antalya ve Elazığ Ferrokrom Fabrikaları.",
+        "KOP Projesi: Mavi Tünel ile Göksu Nehri Konya Ovası'na aktarılarak yeraltı suları ve obruklar korunmaktadır."
+      ]
+    }
+  ]
+}

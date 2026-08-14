@@ -1,0 +1,32 @@
+{
+  "brans": "Vatandaşlık",
+  "icon": "⚖️",
+  "color": "#ef4444",
+  "soruSayisi": 9,
+  "konular": [
+    {
+      "id": "vat_hukuk_kavramlari",
+      "baslik": "1. Temel Hukuk Kavramları & Ehliyetler",
+      "soruAgirligi": "3 Soru",
+      "ozet": "Sosyal düzen kuralları, hak ehliyeti, fiil ehliyeti ve hükümsüzlük türleri.",
+      "onemliBilgiler": [
+        "Hak Ehliyeti: Sağ ve tam doğumla başlar.",
+        "Fiil Ehliyeti Şartları: 1) Ayırt etme gücü, 2) Erginlik (18 yaş), 3) Kısıtlı olmamak.",
+        "Yokluk: Kurucu unsur yok (Resmi memursuz evlilik).",
+        "Mutlak Butlan: Emredici kanuna, ahlaka aykırılık veya akıl hastasının evlenmesi."
+      ]
+    },
+    {
+      "id": "vat_anayasa_organlar",
+      "baslik": "2. 1982 Anayasası - Yasama, Yürütme & Yargı",
+      "soruAgirligi": "6 Soru",
+      "ozet": "TBMM çoğunlukları, Cumhurbaşkanlığı yetkileri ve yüksek mahkemeler.",
+      "onemliBilgiler": [
+        "TBMM Üye Tam Sayısı: 600 MV | Toplantı Yeter Sayısı: 200 MV (1/3) | Basit Karar: En az 151.",
+        "Erken Seçim & Genel/Özel Af Kararı: 360 MV (3/5).",
+        "Yüksek Mahkemeler (4 Tane): Anayasa Mahkemesi, Yargıtay, Danıştay, Uyuşmazlık Mahkemesi.",
+        "Sayıştay, HSK ve YSK yüksek mahkeme DEĞİLDİR."
+      ]
+    }
+  ]
+}

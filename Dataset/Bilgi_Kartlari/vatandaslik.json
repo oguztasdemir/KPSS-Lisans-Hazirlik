@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fc_vat_1",
+    "subject": "Vatandaşlık",
+    "question": "1982 Anayasası'na göre TBMM'de basit karar yeter sayısı en az kaçtır?",
+    "answer": "En az 151 Milletvekilidir (Toplantıya katılanların salt çoğunluğu, ancak üye tam sayısının 1/4'ünün 1 fazlasından az olamaz).",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_vat_2",
+    "subject": "Vatandaşlık",
+    "question": "Sayıştay, HSK ve YSK yüksek mahkeme midir?",
+    "answer": "HAYIR! Anayasal kurumlardır ancak Yüksek Mahkemeler sadece: Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesi'dir.",
+    "importance": "ÖSYM Tuzağı"
+  },
+  {
+    "id": "fc_vat_3",
+    "subject": "Vatandaşlık",
+    "question": "Hak ehliyeti ne zaman başlar?",
+    "answer": "Sağ ve tam doğumla başlar.",
+    "importance": "Temel Hukuk"
+  },
+  {
+    "id": "fc_vat_4",
+    "subject": "Vatandaşlık",
+    "question": "Fiil ehliyetinin şartları nelerdir?",
+    "answer": "1) Ayırt etme gücüne sahip olmak, 2) Ergin (18 yaş) olmak, 3) Kısıtlı (mahcur) olmamak.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_vat_5",
+    "subject": "Vatandaşlık",
+    "question": "TBMM erken seçim kararı veya genel/özel af kararı için aranan çoğunluk nedir?",
+    "answer": "Üye tamsayısının 3/5 çoğunluğu (En az 360 Milletvekili).",
+    "importance": "Sınav Sorusu"
+  },
+  {
+    "id": "fc_vat_6",
+    "subject": "Vatandaşlık",
+    "question": "Cumhurbaşkanı kararnameleriyle hangi temel haklar düzenlenemez?",
+    "answer": "Kişi hak ve ödevleri ile Siyasi hak ve ödevler CBK ile düzenlenemez (Sadece Sosyal ve Ekonomik haklar düzenlenebilir).",
+    "importance": "Kritik"
+  }
+]

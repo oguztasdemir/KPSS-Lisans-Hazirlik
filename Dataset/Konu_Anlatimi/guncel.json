@@ -1,0 +1,20 @@
+{
+  "brans": "Güncel Bilgiler",
+  "icon": "🌐",
+  "color": "#06b6d4",
+  "soruSayisi": 6,
+  "konular": [
+    {
+      "id": "gun_orgutler_unesco",
+      "baslik": "1. Uluslararası Örgütler & UNESCO Mirasları",
+      "soruAgirligi": "6 Soru",
+      "ozet": "Uluslararası örgüt merkezleri, UNESCO kültür mirasları ve güncel olaylar.",
+      "onemliBilgiler": [
+        "UNESCO: Paris | DSÖ & ILO: Cenevre | FAO: Roma | D-8 & TDT & KEİ: İstanbul.",
+        "UNESCO 20. Varlık: Ankara Gordion Antik Kenti (2023).",
+        "UNESCO 21. Varlık: Anadolu'nun Ahşap Hipostil Camileri (Eşrefoğlu, Mahmut Bey, Afyon Ulu, Sivrihisar, Arslanhane).",
+        "Türkiye'nin İlk Astronotu: Alper Gezeravcı (Ax-3 Misyonu)."
+      ]
+    }
+  ]
+}

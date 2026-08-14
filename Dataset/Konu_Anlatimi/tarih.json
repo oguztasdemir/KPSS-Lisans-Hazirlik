@@ -1,0 +1,60 @@
+{
+  "brans": "Tarih",
+  "icon": "📜",
+  "color": "#f59e0b",
+  "soruSayisi": 27,
+  "konular": [
+    {
+      "id": "tar_islam_oncesi",
+      "baslik": "1. İslamiyet Öncesi Türk Tarihi",
+      "soruAgirligi": "3 Soru",
+      "ozet": "Kut anlayışı, boy teşkilatı, hükümdarlık alametleri ve ilk Türk devletleri.",
+      "onemliBilgiler": [
+        "Türk adını resmi devlet adı olarak ilk kullanan: I. Kök Türk Devleti.",
+        "Yerleşik hayata geçen, matbaa ve fresk kullanan ilk Türk devleti: Uygurlar (Maniheizm).",
+        "Museviliği benimseyen ve paralı asker kullanan tek Türk devleti: Hazarlar.",
+        "Kendi adına para bastıran ilk Türk hükümdar: Türgişler hükümdarı Baga Tarkan."
+      ],
+      "uyarilar": [
+        "İslamiyet öncesinde Hutbe okutmak, Hilat giymek ve Para bastırmak hükümdarlık alameti DEĞİLDİR!"
+      ]
+    },
+    {
+      "id": "tar_turk_islam",
+      "baslik": "2. İlk Türk-İslam Devletleri & Edebi Eserler",
+      "soruAgirligi": "3-4 Soru",
+      "ozet": "Karahanlılar, Gazneliler, Büyük Selçuklu, savaşlar ve ilk edebi eserler.",
+      "onemliBilgiler": [
+        "Orta Asya'da kurulan ilk Müslüman Türk devleti: Karahanlılar (Resmi dili Türkçe).",
+        "Sultan unvanını ilk kullanan hükümdar: Gazneli Mahmut (Hindistan'a 17 sefer).",
+        "1040 Dandanakan (Selçuklu kuruldu), 1048 Pasinler (Bizans'a ilk zafer), 1071 Malazgirt (Kapılar açıldı), 1176 Miryokefalon (Yurttutan Savaş).",
+        "Kutadgu Bilig (Yusuf Has Hacib), Divânu Lugâti't-Türk (Kaşgarlı Mahmut), Atabetü'l-Hakayık (Edip Ahmet), Divan-ı Hikmet (Ahmet Yesevi)."
+      ]
+    },
+    {
+      "id": "tar_osmanli_kultur",
+      "baslik": "3. Osmanlı Kültür ve Medeniyeti",
+      "soruAgirligi": "3-4 Soru (Banko)",
+      "ozet": "Divan-ı Hümayun, yönetici sınıflar, dirlik sistemi ve taşra teşkilatı.",
+      "onemliBilgiler": [
+        "Seyfiye (Yönetim & Askeri): Sadrazam, Vezirler, Kaptan-ı Derya, Yeniçeri Ağası, Beylerbeyi.",
+        "İlmiye (Din, Hukuk, Eğitim): Şeyhülislam, Kazasker (Kadı-Müderris atar), Kadı, Müderris.",
+        "Kalemiye (Bürokrasi & Maliye): Defterdar (Maliye), Nişancı (Tuğra & Tapu Tahrir), Reisülküttap (Dışişleri).",
+        "Dirlik Toprakları: Has (Padişah/Hanedan), Zeamet (Orta memur), Tımar (Asker/Memur maaşı karşılığı, Cebelü yetişir)."
+      ]
+    },
+    {
+      "id": "tar_milli_mucadele",
+      "baslik": "4. Milli Mücadele Hazırlık, Cepheler & İnkılaplar",
+      "soruAgirligi": "8-10 Soru",
+      "ozet": "Genelgeler, kongreler, Batı Cephesi savaşları ve Atatürk ilkeleri.",
+      "onemliBilgiler": [
+        "Amasya Genelgesi: Kurtuluş Savaşı'nın amacı, gerekçesi ve yöntemi ilk kez açıklandı.",
+        "Erzurum Kongresi: Manda ve himaye ilk kez reddedildi. Misak-ı Milli sınırları çizildi.",
+        "Sivas Kongresi: Tüm cemiyetler birleştirildi. Manda ve himaye kesin olarak reddedildi.",
+        "I. İnönü Zaferi Şifresi: TALİM (Teşkilat-ı Esasiye, Afganistan Dostluk, Londra Konferansı, İstiklal Marşı, Moskova Antlaşması).",
+        "Sakarya Meydan Muharebesi: 'Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.'"
+      ]
+    }
+  ]
+}

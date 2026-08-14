@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="KPSS Lisans Genel Yetenek & Genel Kültür Hazırlık Uygulaması. Yıllara ve branşlara göre çıkmış sorular, detaylı çözümler, hata defteri ve istatistikler.">
+  <title>KPSS Lisans GY-GK Hazırlık & Çıkmış Sorular</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="src/css/main.css">
+  <link rel="stylesheet" href="src/css/sidebar.css">
+  <link rel="stylesheet" href="src/css/header.css">
+  <link rel="stylesheet" href="src/css/quiz.css">
+  <link rel="stylesheet" href="src/css/views.css">
+</head>
+<body>
+  <div id="app">
+    <!-- SOL PANEL (SIDEBAR) -->
+    <aside class="sidebar" id="sidebar">
+      <!-- Header / Logo -->
+      <div class="sidebar-header">
+        <div class="brand">
+          <div class="brand-icon">K</div>
+          <div class="brand-info">
+            <span class="brand-title">KPSS Lisans</span>
+            <span class="brand-subtitle">GY - GK Asistanı</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Navigation Menu -->
+      <nav class="sidebar-nav">
+        <!-- ANA MENÜ -->
+        <div class="nav-group">
+          <span class="nav-group-label">Ana Menü</span>
+          <a href="#dashboard" class="nav-item active" id="nav-dashboard">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                <polyline points="9 22 9 12 15 12 15 22"></polyline>
+              </svg>
+            </span>
+            <span class="nav-label">Ana Ekran</span>
+          </a>
+          <a href="#stats" class="nav-item" id="nav-stats">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="18" y1="20" x2="18" y2="10"></line>
+                <line x1="12" y1="20" x2="12" y2="4"></line>
+                <line x1="6" y1="20" x2="6" y2="14"></line>
+              </svg>
+            </span>
+            <span class="nav-label">İstatistik & Analiz</span>
+          </a>
+        </div>
+
+        <!-- ÇALIŞMA & PRATİK -->
+        <div class="nav-group">
+          <span class="nav-group-label">Çalışma & Pratik</span>
+          <a href="#pastexams" class="nav-item" id="nav-pastexams">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                <polyline points="14 2 14 8 20 8"></polyline>
+                <line x1="16" y1="13" x2="8" y2="13"></line>
+                <line x1="16" y1="17" x2="8" y2="17"></line>
+                <polyline points="10 9 9 9 8 9"></polyline>
+              </svg>
+            </span>
+            <span class="nav-label">Çıkmış Sorular</span>
+            <span class="nav-badge">16 Yıl</span>
+          </a>
+          <a href="#simulator" class="nav-item" id="nav-simulator">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
+              </svg>
+            </span>
+            <span class="nav-label">130 Dk Simülatör</span>
+            <span class="nav-badge" style="background: var(--purple); color: #fff;">120 Soru</span>
+          </a>
+          <a href="#questionbank" class="nav-item" id="nav-questionbank">
+
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Soru Bankası</span>
+          </a>
+          <a href="#lectures" class="nav-item" id="nav-lectures">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Konu Anlatımı</span>
+          </a>
+          <a href="#flashcards" class="nav-item" id="nav-flashcards">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Bilgi Kartları</span>
+          </a>
+          <a href="#currentevents" class="nav-item" id="nav-currentevents">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Güncel Bilgiler</span>
+          </a>
+        </div>
+
+        <!-- GELİŞİM & TEKRAR -->
+        <div class="nav-group">
+          <span class="nav-group-label">Gelişim & Tekrar</span>
+          <a href="#wrongnotebook" class="nav-item" id="nav-wrongnotebook">
+            <span class="nav-icon" style="color: var(--danger);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="15" y1="9" x2="9" y2="15"></line>
+                <line x1="9" y1="9" x2="15" y2="15"></line>
+              </svg>
+            </span>
+            <span class="nav-label">Yanlışlar (Hata Defteri)</span>
+            <span class="nav-badge danger" id="sidebar-wrong-badge" style="display: none;">0</span>
+          </a>
+          <a href="#favorites" class="nav-item" id="nav-favorites">
+            <span class="nav-icon" style="color: var(--warning);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+            </span>
+            <span class="nav-label">Favori Sorular</span>
+            <span class="nav-badge" id="sidebar-fav-badge" style="display: none;">0</span>
+          </a>
+          <a href="#notes" class="nav-item" id="nav-notes">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Notlarım</span>
+          </a>
+        </div>
+
+        <!-- ARAÇLAR & DİĞER -->
+        <div class="nav-group">
+          <span class="nav-group-label">Araçlar & Diğer</span>
+          <a href="#scorecalc" class="nav-item" id="nav-scorecalc">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="4" y="2" width="16" height="20" rx="2"></rect>
+                <line x1="8" y1="6" x2="16" y2="6"></line>
+                <line x1="16" y1="14" x2="16" y2="18"></line>
+                <path d="M16 10h.01"></path>
+                <path d="M12 10h.01"></path>
+                <path d="M8 10h.01"></path>
+                <path d="M12 14h.01"></path>
+                <path d="M8 14h.01"></path>
+                <path d="M12 18h.01"></path>
+                <path d="M8 18h.01"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Puan & Net Hesaplama</span>
+          </a>
+          <a href="#settings" class="nav-item" id="nav-settings">
+            <span class="nav-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="3"></circle>
+                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+              </svg>
+            </span>
+            <span class="nav-label">Ayarlar & Yedek</span>
+          </a>
+        </div>
+      </nav>
+    </aside>
+
+    <!-- SAĞ ANA ALAN (HEADER + CONTENT) -->
+    <main class="main-wrapper">
+      <!-- ÜST BAR (HEADER) -->
+      <header class="header">
+        <div class="header-left">
+          <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menüyü Aç">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+          <div class="page-breadcrumb">
+            <span class="breadcrumb-root">KPSS 2026</span>
+            <span class="breadcrumb-separator">/</span>
+            <span class="breadcrumb-current" id="breadcrumb-current">Ana Ekran</span>
+          </div>
+        </div>
+
+        <div class="header-right">
+          <!-- Live Countdown Badge -->
+          <div class="countdown-badge" id="header-countdown-badge" title="KPSS Lisans Sınav Geri Sayımı">
+            <div class="countdown-pulse"></div>
+            <span id="header-countdown-days">-- Gün Kaldı</span>
+          </div>
+
+          <!-- Quick Search -->
+          <button class="search-trigger-btn" id="search-trigger-btn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <span>Hızlı Ara</span>
+            <span class="search-kbd">/</span>
+          </button>
+
+          <!-- Quick PDF / Report Button -->
+          <button class="header-icon-btn" id="header-backup-btn" title="Hata Defteri & İlerleme PDF Raporu (Yazdır / Kaydet)">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+              <line x1="16" y1="13" x2="8" y2="13"></line>
+              <line x1="16" y1="17" x2="8" y2="17"></line>
+              <polyline points="10 9 9 9 8 9"></polyline>
+            </svg>
+          </button>
+
+          <!-- Dark / Light Mode Switcher -->
+          <button class="header-icon-btn theme-toggle-btn" id="theme-toggle-btn" title="Temayı Değiştir (Koyu / Açık)">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <!-- DİNAMİK İÇERİK ALANI -->
+      <div class="content-container" id="content-area">
+        <!-- Views rendered here dynamically -->
+      </div>
+    </main>
+
+    <!-- Mobile Sidebar Backdrop -->
+    <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+    <!-- Mobile Bottom Navigation Bar -->
+    <nav class="mobile-bottom-nav">
+      <a href="#dashboard" class="mobile-nav-btn active" data-nav="dashboard">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+        </svg>
+        <span>Ana Ekran</span>
+      </a>
+      <a href="#pastexams" class="mobile-nav-btn" data-nav="pastexams">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+          <polyline points="14 2 14 8 20 8"></polyline>
+        </svg>
+        <span>Çıkmışlar</span>
+      </a>
+      <a href="#lectures" class="mobile-nav-btn" data-nav="lectures">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+          <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+        </svg>
+        <span>Konu Anlatım</span>
+      </a>
+      <a href="#wrongnotebook" class="mobile-nav-btn" data-nav="wrongnotebook">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color: var(--danger);">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="15" y1="9" x2="9" y2="15"></line>
+          <line x1="9" y1="9" x2="15" y2="15"></line>
+        </svg>
+        <span>Yanlışlar</span>
+      </a>
+      <a href="#stats" class="mobile-nav-btn" data-nav="stats">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="20" x2="18" y2="10"></line>
+          <line x1="12" y1="20" x2="12" y2="4"></line>
+          <line x1="6" y1="20" x2="6" y2="14"></line>
+        </svg>
+        <span>İstatistik</span>
+      </a>
+    </nav>
+
+    <!-- Global Modal Container -->
+    <div id="modal-container"></div>
+  </div>
+
+  <!-- Main JavaScript App -->
+  <script type="module" src="src/js/app.js"></script>
+</body>
+</html>
+

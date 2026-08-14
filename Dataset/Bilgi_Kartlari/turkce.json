@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fc_tr_1",
+    "subject": "Türkçe",
+    "question": "Bitişik yazılan 'ki'lerin şifresi nedir?",
+    "answer": "SOMBAHÇEMİ: Sanki, Oysaki, Mademki, Belki, Halbuki, Çünkü, Meğerki, İllaki.",
+    "importance": "Hafıza Şifresi"
+  },
+  {
+    "id": "fc_tr_2",
+    "subject": "Türkçe",
+    "question": "Cümlede virgül (,) yoksa noktalı virgül (;) kullanılabilir mi?",
+    "answer": "ASLA! Noktalı virgülün kullanılabilmesi için o cümlede en az bir virgül bulunması şarttır.",
+    "importance": "Altın Kural"
+  },
+  {
+    "id": "fc_tr_3",
+    "subject": "Türkçe",
+    "question": "Hangi sözcükler ayrı yazılır?",
+    "answer": "Hafta sonu, hafta içi, terk etmek, fark etmek, sağ ol, bir gün, yanı sıra, peşi sıra.",
+    "importance": "Yazım Kuralı"
+  },
+  {
+    "id": "fc_tr_4",
+    "subject": "Türkçe",
+    "question": "Paragrafta düşünceyi geliştirme yolları nelerdir?",
+    "answer": "Tanımlama (Bu nedir?), Karşılaştırma, Tanım Gösterme (Uzman sözü), Örneklendirme, Sayısal Verilerden Yararlanma.",
+    "importance": "Paragraf"
+  }
+]

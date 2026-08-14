@@ -1,0 +1,20 @@
+{
+  "brans": "Türkçe",
+  "icon": "🇹🇷",
+  "color": "#3b82f6",
+  "soruSayisi": 30,
+  "konular": [
+    {
+      "id": "tr_paragraf_dilbilgisi",
+      "baslik": "1. Paragraf Taktikleri, Yazım Kuralları & Sözel Mantık",
+      "soruAgirligi": "30 Soru",
+      "ozet": "Anlatım biçimleri, düşünceyi geliştirme yolları, TDK yazım kuralları ve sözel mantık.",
+      "onemliBilgiler": [
+        "Bitişik Yazılan ki'ler (SOMBAHÇEMİ): Sanki, Oysaki, Mademki, Belki, Halbuki, Çünkü, Meğerki, İllaki.",
+        "Ayrı Yazılanlar: Hafta sonu, hafta içi, terk etmek, fark etmek, sağ ol, bir gün.",
+        "Noktalı Virgül (;) Kuralı: Cümlede hiç virgül (,) yoksa asla noktalı virgül kullanılamaz!",
+        "Sözel Mantık: Değişkeni az olanı (Örn: Günler/Kişiler) sabit tablo başlığı yapıp sıralama kurunuz."
+      ]
+    }
+  ]
+}

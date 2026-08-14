@@ -1,0 +1,202 @@
+{
+  "brans": "Matematik & Geometri",
+  "icon": "📐",
+  "color": "#8b5cf6",
+  "soruSayisi": 30,
+  "konular": [
+    {
+      "id": "mat_temel_kavramlar",
+      "baslik": "1. Temel Kavramlar & Sayı Kümeleri",
+      "soruAgirligi": "3-4 Soru",
+      "ozet": "Rakamlar, Doğal, Tam, Rasyonel, İrrasyonel, Reel Sayılar, Tek-Çift, Pozitif-Negatif kuralları.",
+      "formuller": [
+        {
+          "ad": "Terim Sayısı (TS)",
+          "formul": "TS = ((Son Terim - İlk Terim) / Artış Miktarı) + 1"
+        },
+        {
+          "ad": "Terimler Toplamı",
+          "formul": "Toplam = ((Son Terim + İlk Terim) / 2) * TS"
+        },
+        {
+          "ad": "Gauss Toplamı (1'den n'e)",
+          "formul": "1 + 2 + 3 + ... + n = (n * (n + 1)) / 2"
+        },
+        {
+          "ad": "Ardışık Çift Toplam",
+          "formul": "2 + 4 + ... + 2n = n * (n + 1)"
+        },
+        {
+          "ad": "Ardışık Tek Toplam",
+          "formul": "1 + 3 + ... + (2n - 1) = n^2"
+        }
+      ],
+      "kurallar": [
+        "Tek * Tek = Tek | Tek * Çift = Çift | Çift * Çift = Çift",
+        "Faktöriyelde sondan kaç basamağın 0 olduğunu bulmak için sayı sürekli 5'e bölünür ve bölümler toplanır."
+      ]
+    },
+    {
+      "id": "mat_bolunebilme_ebob",
+      "baslik": "2. Bölünebilme Kuralları & EBOB - EKOK",
+      "soruAgirligi": "2-3 Soru",
+      "ozet": "2, 3, 4, 5, 8, 9, 10, 11 ile bölünebilme ve aralarında asal çarpanlar kuralları.",
+      "formuller": [
+        {
+          "ad": "EBOB * EKOK Bağıntısı",
+          "formul": "a * b = EBOB(a, b) * EKOK(a, b)"
+        },
+        {
+          "ad": "Aralarında Asal Sayılar",
+          "formul": "EBOB(a, b) = 1 ve EKOK(a, b) = a * b"
+        }
+      ],
+      "kurallar": [
+        "Bütünden parçaya gidiliyorsa (bölme, paylaştırma, parselleme) -> EBOB kullanılır.",
+        "Parçadan bütüne gidiliyorsa (nöbet, zil, fayans döşeme, sefer saatleri) -> EKOK kullanılır."
+      ]
+    },
+    {
+      "id": "mat_uslu_koklu",
+      "baslik": "3. Rasyonel, Üslü ve Köklü Sayılar",
+      "soruAgirligi": "3-4 Soru",
+      "ozet": "Üs kuralları, kökten üslüye geçiş, eşlenik çarpımı ve iç içe özel kök formülleri.",
+      "formuller": [
+        {
+          "ad": "Üs Toplama / Çıkarma",
+          "formul": "a^m * a^n = a^(m+n) ve a^m / a^n = a^(m-n)"
+        },
+        {
+          "ad": "Kökten Üslüye Geçiş",
+          "formul": "n. dereceden kök(a^m) = a^(m/n)"
+        },
+        {
+          "ad": "İç İçe Özel Kök",
+          "formul": "kök(a ± 2*kök(b)) = kök(x) ± kök(y)  [x+y=a, x*y=b, x > y]"
+        }
+      ],
+      "kurallar": [
+        "Paydadaki kökten kurtulmak için eşlenik (kök(a) + kök(b)) ile çarpılır."
+      ]
+    },
+    {
+      "id": "mat_carpanlara_ayirma",
+      "baslik": "4. Çarpanlara Ayırma & Özdeşlikler",
+      "soruAgirligi": "1-2 Soru",
+      "ozet": "İki kare farkı, tam kare açılımları, küp açılımları ve özdeşlik türetmeleri.",
+      "formuller": [
+        {
+          "ad": "İki Kare Farkı",
+          "formul": "a^2 - b^2 = (a - b) * (a + b)"
+        },
+        {
+          "ad": "Tam Kare Toplamı",
+          "formul": "(a + b)^2 = a^2 + 2ab + b^2"
+        },
+        {
+          "ad": "Tam Kare Farkı",
+          "formul": "(a - b)^2 = a^2 - 2ab + b^2"
+        },
+        {
+          "ad": "İki Küp Toplamı",
+          "formul": "a^3 + b^3 = (a + b) * (a^2 - ab + b^2)"
+        },
+        {
+          "ad": "İki Küp Farkı",
+          "formul": "a^3 - b^3 = (a - b) * (a^2 + ab + b^2)"
+        }
+      ],
+      "kurallar": [
+        "x - 1/x = k verildiğinde her iki tarafın karesi alınarak x^2 + 1/x^2 = k^2 + 2 elde edilir."
+      ]
+    },
+    {
+      "id": "mat_problemler",
+      "baslik": "5. Tüm Problem Türleri (Sayı, Yaş, Hız, Kâr, Karışım, İşçi)",
+      "soruAgirligi": "10-12 Soru",
+      "ozet": "KPSS problem çözme stratejileri, 100x kuralı, hız ve karışım formülleri.",
+      "formuller": [
+        {
+          "ad": "Hız Formülü",
+          "formul": "Yol = Hız * Zaman (x = V * t)"
+        },
+        {
+          "ad": "Zıt Yönde Hareket",
+          "formul": "x = (V1 + V2) * t_karşılaşma"
+        },
+        {
+          "ad": "Aynı Yönde Yetişme",
+          "formul": "x = (V1 - V2) * t_yetişme"
+        },
+        {
+          "ad": "Ortalama Hız",
+          "formul": "V_ort = Toplam Yol / Toplam Zaman"
+        },
+        {
+          "ad": "Karışım Formülü",
+          "formul": "(Madde1 * %1) + (Madde2 * %2) = Toplam Madde * %son"
+        },
+        {
+          "ad": "İşçi Formülü",
+          "formul": "(1/A + 1/B) * t = 1"
+        }
+      ],
+      "kurallar": [
+        "İki kişinin yaş farkı yıllar geçse de ASLA değişmez.",
+        "Yüzde ve kâr-zarar problemlerinde maliyete daima 100x denir."
+      ]
+    },
+    {
+      "id": "mat_geometri",
+      "baslik": "6. Geometri - Açılar, Üçgenler, Çokgenler, Çember & Analitik",
+      "soruAgirligi": "4-5 Soru",
+      "ozet": "Özel dik üçgenler, Öklid bağıntıları, alan formülleri, çember-daire ve analitik geometri.",
+      "formuller": [
+        {
+          "ad": "Özel Dik Üçgenler",
+          "formul": "3-4-5 | 5-12-13 | 8-15-17 | 7-24-25 | k-2k-k*kök(5)"
+        },
+        {
+          "ad": "30-60-90 Üçgeni",
+          "formul": "30° karşısı a -> 90° karşısı 2a -> 60° karşısı a*kök(3)"
+        },
+        {
+          "ad": "45-45-90 Üçgeni",
+          "formul": "Dik kenarlar a, a -> Hipotenüs a*kök(2)"
+        },
+        {
+          "ad": "15-75-90 Üçgeni",
+          "formul": "Hipotenüse inen h ise hipotenüs 4h olur"
+        },
+        {
+          "ad": "Öklid Yükseklik",
+          "formul": "h^2 = p * k"
+        },
+        {
+          "ad": "Eşkenar Üçgen Alanı",
+          "formul": "Alan = (a^2 * kök(3)) / 4"
+        },
+        {
+          "ad": "Daire Alanı / Çevresi",
+          "formul": "Alan = pi * r^2 | Çevre = 2 * pi * r"
+        },
+        {
+          "ad": "İki Nokta Arası Uzaklık",
+          "formul": "d = kök((x2 - x1)^2 + (y2 - y1)^2)"
+        },
+        {
+          "ad": "Doğru Eğimi (m)",
+          "formul": "m = (y2 - y1) / (x2 - x1)"
+        },
+        {
+          "ad": "Dik Doğrular",
+          "formul": "m1 * m2 = -1"
+        }
+      ],
+      "kurallar": [
+        "YAKİ Kuralı: İkizkenar üçgende Yükseklik, Açıortay, Kenarortay, İkizkenarlık özelliklerinden 2'si varsa 4'ü de vardır.",
+        "Alanlar oranı benzerlik oranının karesine (k^2) eşittir."
+      ]
+    }
+  ]
+}

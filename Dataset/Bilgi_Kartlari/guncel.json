@@ -1,0 +1,23 @@
+[
+  {
+    "id": "fc_gun_1",
+    "subject": "Güncel",
+    "question": "UNESCO Dünya Mirası Listesi'ne 2023 yılında 20. varlık olarak eklenen antik kent hangisidir?",
+    "answer": "Ankara Gordion Antik Kenti.",
+    "importance": "Güncel Banko"
+  },
+  {
+    "id": "fc_gun_2",
+    "subject": "Güncel",
+    "question": "D-8, TÜRKSOY ve Karadeniz Ekonomik İşbirliği (KEİ) teşkilatlarının merkezleri nerededir?",
+    "answer": "İstanbul / Türkiye.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_gun_3",
+    "subject": "Güncel",
+    "question": "Türkiye'nin uzaya giden ilk astronotu kimdir?",
+    "answer": "Alper Gezeravcı (Ax-3 Misyonu ile Uluslararası Uzay İstasyonu'nda 13 bilimsel deney gerçekleştirmiştir).",
+    "importance": "Güncel Banko"
+  }
+]

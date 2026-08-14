@@ -1,0 +1,254 @@
+[
+  {
+    "id": "fc_tar_1",
+    "subject": "Tarih",
+    "question": "İslamiyet öncesinde hükümdarlık alametleri arasında hutbe ve para bastırmak var mıdır?",
+    "answer": "HAYIR! Hutbe, para bastırma ve hilat giyme İslamiyet ile birlikte gelen hükümdarlık alametleridir.",
+    "importance": "Banko Soru"
+  },
+  {
+    "id": "fc_tar_2",
+    "subject": "Tarih",
+    "question": "Yerleşik hayata geçen ilk Türk devleti hangisidir?",
+    "answer": "Uygurlar (Maniheizm dinini kabul ederek matbaa, fresk ve şehircilik geliştirmişlerdir).",
+    "importance": "ÖSYM Favorisi"
+  },
+  {
+    "id": "fc_tar_3",
+    "subject": "Tarih",
+    "question": "Manda ve himaye İLK KEZ nerede reddedilmiştir?",
+    "answer": "Erzurum Kongresi'nde (Sivas Kongresi'nde ise KESİN olarak reddedilmiştir).",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_tar_4",
+    "subject": "Tarih",
+    "question": "Kurtuluş Savaşı'nın amacı, gerekçesi ve yöntemi ilk kez nerede açıklandı?",
+    "answer": "Amasya Genelgesi'nde (İhtilal bildirisi).",
+    "importance": "Banko Soru"
+  },
+  {
+    "id": "fc_tar_5",
+    "subject": "Tarih",
+    "question": "Sultan unvanını kullanan ilk Türk hükümdar kimdir?",
+    "answer": "Gazneli Mahmut (Hindistan'a düzenlediği 17 sefer ve Abbasi halifesini koruması nedeniyle).",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_tar_6",
+    "subject": "Tarih",
+    "question": "Anadolu'nun kapılarını Türklere açan ve Anadolu'nun Türk yurdu olduğunu kesinleştiren savaşlar hangileridir?",
+    "answer": "Kapıları açan: 1071 Malazgirt Savaşı | Kesinleştiren (Yurttutan): 1176 Miryokefalon Savaşı.",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_tar_7",
+    "subject": "Tarih",
+    "question": "I. İnönü Zaferi sonrası gelişmelerin şifresi nedir?",
+    "answer": "TALİM: Teşkilat-ı Esasiye, Afganistan Dostluk Antlaşması, Londra Konferansı, İstiklal Marşı'nın Kabulü, Moskova Antlaşması.",
+    "importance": "Hafıza Şifresi"
+  },
+  {
+    "id": "fc_tar_8",
+    "subject": "Tarih",
+    "question": "Osmanlı'da kadı ve müderris atamalarını hangi divan üyesi yapar?",
+    "answer": "Kazasker (İlmiye sınıfının başıdır ve medrese çıkışlı Türk-Müslüman olmak zorundadır).",
+    "importance": "ÖSYM Tuzağı"
+  },
+  {
+    "id": "fc_tar_9",
+    "subject": "Tarih",
+    "question": "Mustafa Kemal Paşa 'Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır' sözünü hangi savaşta söylemiştir?",
+    "answer": "Sakarya Meydan Muharebesi (Son savunma savaşı).",
+    "importance": "Banko Soru"
+  },
+  {
+    "id": "fc_tar_10",
+    "subject": "Tarih",
+    "question": "Türkiye'nin Milletler Cemiyeti'ne girişi hangi yıl ve kimin davetiyle olmuştur?",
+    "answer": "1932 yılında, İspanya ve Yunanistan'ın davetiyle üye olunmuştur.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_cog_1",
+    "subject": "Coğrafya",
+    "question": "Türkiye'nin en önemli tombolo (saplı ada) örnekleri nerelerdir?",
+    "answer": "Balıkesir Kapıdağ Yarımadası ve Sinop İnceburun.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_cog_2",
+    "subject": "Coğrafya",
+    "question": "Türkiye'de büyükbaş mera hayvancılığı en çok hangi platoda yapılır?",
+    "answer": "Erzurum - Kars - Ardahan Lav Platosu (Yaz yağışları ve alpin çayırlar nedeniyle).",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_cog_3",
+    "subject": "Coğrafya",
+    "question": "Dünya rezervinin %73'ü Türkiye'de olan ve Balıkesir-Kütahya-Eskişehir'de çıkarılan maden hangisidir?",
+    "answer": "BOR Madeni (Bandırma ve Kırka işleme tesisleri).",
+    "importance": "ÖSYM Favorisi"
+  },
+  {
+    "id": "fc_cog_4",
+    "subject": "Coğrafya",
+    "question": "Türkiye'nin orta kuşakta yer almasının sonuçları nelerdir (ABCD şifresi)?",
+    "answer": "A: Akdeniz iklim kuşağı, B: Batı rüzgarları, C: Cephesel yağışlar, D: Dört mevsimin belirgin yaşanması.",
+    "importance": "Hafıza Şifresi"
+  },
+  {
+    "id": "fc_cog_5",
+    "subject": "Coğrafya",
+    "question": "Türkiye'de kalker, jips ve kaya tuzu gibi karstik şekiller en çok hangi bölgededir?",
+    "answer": "Akdeniz Bölgesi (Teke ve Taşeli Platoları - Lapya, Dolin, Uvala, Polye, Obruk).",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_cog_6",
+    "subject": "Coğrafya",
+    "question": "KOP (Konya Ovaları Projesi) kapsamında inşa edilen ve Göksu Nehri'ni Konya'ya aktaran tünel hangisidir?",
+    "answer": "Mavi Tünel (Yeraltı sularını ve tarımsal sulamayı destekler).",
+    "importance": "Güncel Coğrafya"
+  },
+  {
+    "id": "fc_cog_7",
+    "subject": "Coğrafya",
+    "question": "Türkiye'de boyuna kıyı tipi ve enine kıyı tipi nerelerde görülür?",
+    "answer": "Boyuna kıyı tipi: Karadeniz ve Akdeniz | Enine kıyı tipi: Ege Bölgesi (Dağlar denize dik uzanır).",
+    "importance": "Temel Kural"
+  },
+  {
+    "id": "fc_vat_1",
+    "subject": "Vatandaşlık",
+    "question": "1982 Anayasası'na göre TBMM'de basit karar yeter sayısı en az kaçtır?",
+    "answer": "En az 151 Milletvekilidir (Toplantıya katılanların salt çoğunluğu, ancak üye tam sayısının 1/4'ünün 1 fazlasından az olamaz).",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_vat_2",
+    "subject": "Vatandaşlık",
+    "question": "Sayıştay, HSK ve YSK yüksek mahkeme midir?",
+    "answer": "HAYIR! Anayasal kurumlardır ancak Yüksek Mahkemeler sadece: Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesi'dir.",
+    "importance": "ÖSYM Tuzağı"
+  },
+  {
+    "id": "fc_vat_3",
+    "subject": "Vatandaşlık",
+    "question": "Hak ehliyeti ne zaman başlar?",
+    "answer": "Sağ ve tam doğumla başlar.",
+    "importance": "Temel Hukuk"
+  },
+  {
+    "id": "fc_vat_4",
+    "subject": "Vatandaşlık",
+    "question": "Fiil ehliyetinin şartları nelerdir?",
+    "answer": "1) Ayırt etme gücüne sahip olmak, 2) Ergin (18 yaş) olmak, 3) Kısıtlı (mahcur) olmamak.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_vat_5",
+    "subject": "Vatandaşlık",
+    "question": "TBMM erken seçim kararı veya genel/özel af kararı için aranan çoğunluk nedir?",
+    "answer": "Üye tamsayısının 3/5 çoğunluğu (En az 360 Milletvekili).",
+    "importance": "Sınav Sorusu"
+  },
+  {
+    "id": "fc_vat_6",
+    "subject": "Vatandaşlık",
+    "question": "Cumhurbaşkanı kararnameleriyle hangi temel haklar düzenlenemez?",
+    "answer": "Kişi hak ve ödevleri ile Siyasi hak ve ödevler CBK ile düzenlenemez (Sadece Sosyal ve Ekonomik haklar düzenlenebilir).",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_tr_1",
+    "subject": "Türkçe",
+    "question": "Bitişik yazılan 'ki'lerin şifresi nedir?",
+    "answer": "SOMBAHÇEMİ: Sanki, Oysaki, Mademki, Belki, Halbuki, Çünkü, Meğerki, İllaki.",
+    "importance": "Hafıza Şifresi"
+  },
+  {
+    "id": "fc_tr_2",
+    "subject": "Türkçe",
+    "question": "Cümlede virgül (,) yoksa noktalı virgül (;) kullanılabilir mi?",
+    "answer": "ASLA! Noktalı virgülün kullanılabilmesi için o cümlede en az bir virgül bulunması şarttır.",
+    "importance": "Altın Kural"
+  },
+  {
+    "id": "fc_tr_3",
+    "subject": "Türkçe",
+    "question": "Hangi sözcükler ayrı yazılır?",
+    "answer": "Hafta sonu, hafta içi, terk etmek, fark etmek, sağ ol, bir gün, yanı sıra, peşi sıra.",
+    "importance": "Yazım Kuralı"
+  },
+  {
+    "id": "fc_tr_4",
+    "subject": "Türkçe",
+    "question": "Paragrafta düşünceyi geliştirme yolları nelerdir?",
+    "answer": "Tanımlama (Bu nedir?), Karşılaştırma, Tanım Gösterme (Uzman sözü), Örneklendirme, Sayısal Verilerden Yararlanma.",
+    "importance": "Paragraf"
+  },
+  {
+    "id": "fc_mat_1",
+    "subject": "Matematik",
+    "question": "İki kare farkı özdeşliği nedir?",
+    "answer": "a² - b² = (a - b) · (a + b)",
+    "importance": "Temel Formül"
+  },
+  {
+    "id": "fc_mat_2",
+    "subject": "Matematik",
+    "question": "30°-60°-90° dik üçgeninde kenar oranları nasıldır?",
+    "answer": "30° karşısı 'a' ise, 90° karşısı '2a', 60° karşısı 'a√3'tür.",
+    "importance": "Geometri Formülü"
+  },
+  {
+    "id": "fc_mat_3",
+    "subject": "Matematik",
+    "question": "Öklid yükseklik bağıntısı nedir?",
+    "answer": "h² = p · k (Dikten dik indiğinde yüksekliğin karesi ayırdığı taban parçalarının çarpımına eşittir).",
+    "importance": "ÖSYM Favorisi"
+  },
+  {
+    "id": "fc_mat_4",
+    "subject": "Matematik",
+    "question": "Ardışık tek sayılar toplamı formülü nedir?",
+    "answer": "1 + 3 + 5 + ... + (2n - 1) = n²",
+    "importance": "Formül"
+  },
+  {
+    "id": "fc_mat_5",
+    "subject": "Matematik",
+    "question": "Eşkenar üçgenin alan formülü nedir?",
+    "answer": "Alan = (a² · √3) / 4",
+    "importance": "Geometri Formülü"
+  },
+  {
+    "id": "fc_mat_6",
+    "subject": "Matematik",
+    "question": "Hız problemlerinde ortalama hız formülü nedir?",
+    "answer": "V_ort = Toplam Alınan Yol / Toplam Harcanan Zaman",
+    "importance": "Problem Formülü"
+  },
+  {
+    "id": "fc_gun_1",
+    "subject": "Güncel",
+    "question": "UNESCO Dünya Mirası Listesi'ne 2023 yılında 20. varlık olarak eklenen antik kent hangisidir?",
+    "answer": "Ankara Gordion Antik Kenti.",
+    "importance": "Güncel Banko"
+  },
+  {
+    "id": "fc_gun_2",
+    "subject": "Güncel",
+    "question": "D-8, TÜRKSOY ve Karadeniz Ekonomik İşbirliği (KEİ) teşkilatlarının merkezleri nerededir?",
+    "answer": "İstanbul / Türkiye.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_gun_3",
+    "subject": "Güncel",
+    "question": "Türkiye'nin uzaya giden ilk astronotu kimdir?",
+    "answer": "Alper Gezeravcı (Ax-3 Misyonu ile Uluslararası Uzay İstasyonu'nda 13 bilimsel deney gerçekleştirmiştir).",
+    "importance": "Güncel Banko"
+  }
+]

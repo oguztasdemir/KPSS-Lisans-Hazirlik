@@ -1,0 +1,51 @@
+[
+  {
+    "id": "fc_cog_1",
+    "subject": "Coğrafya",
+    "question": "Türkiye'nin en önemli tombolo (saplı ada) örnekleri nerelerdir?",
+    "answer": "Balıkesir Kapıdağ Yarımadası ve Sinop İnceburun.",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_cog_2",
+    "subject": "Coğrafya",
+    "question": "Türkiye'de büyükbaş mera hayvancılığı en çok hangi platoda yapılır?",
+    "answer": "Erzurum - Kars - Ardahan Lav Platosu (Yaz yağışları ve alpin çayırlar nedeniyle).",
+    "importance": "Kritik"
+  },
+  {
+    "id": "fc_cog_3",
+    "subject": "Coğrafya",
+    "question": "Dünya rezervinin %73'ü Türkiye'de olan ve Balıkesir-Kütahya-Eskişehir'de çıkarılan maden hangisidir?",
+    "answer": "BOR Madeni (Bandırma ve Kırka işleme tesisleri).",
+    "importance": "ÖSYM Favorisi"
+  },
+  {
+    "id": "fc_cog_4",
+    "subject": "Coğrafya",
+    "question": "Türkiye'nin orta kuşakta yer almasının sonuçları nelerdir (ABCD şifresi)?",
+    "answer": "A: Akdeniz iklim kuşağı, B: Batı rüzgarları, C: Cephesel yağışlar, D: Dört mevsimin belirgin yaşanması.",
+    "importance": "Hafıza Şifresi"
+  },
+  {
+    "id": "fc_cog_5",
+    "subject": "Coğrafya",
+    "question": "Türkiye'de kalker, jips ve kaya tuzu gibi karstik şekiller en çok hangi bölgededir?",
+    "answer": "Akdeniz Bölgesi (Teke ve Taşeli Platoları - Lapya, Dolin, Uvala, Polye, Obruk).",
+    "importance": "Önemli"
+  },
+  {
+    "id": "fc_cog_6",
+    "subject": "Coğrafya",
+    "question": "KOP (Konya Ovaları Projesi) kapsamında inşa edilen ve Göksu Nehri'ni Konya'ya aktaran tünel hangisidir?",
+    "answer": "Mavi Tünel (Yeraltı sularını ve tarımsal sulamayı destekler).",
+    "importance": "Güncel Coğrafya"
+  },
+  {
+    "id": "fc_cog_7",
+    "subject": "Coğrafya",
+    "question": "Türkiye'de boyuna kıyı tipi ve enine kıyı tipi nerelerde görülür?",
+    "answer": "Boyuna kıyı tipi: Karadeniz ve Akdeniz | Enine kıyı tipi: Ege Bölgesi (Dağlar denize dik uzanır).",
+    "importance": "Temel Kural"
+  }
+]

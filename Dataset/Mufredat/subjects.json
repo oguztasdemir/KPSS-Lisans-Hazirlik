@@ -1,0 +1,106 @@
+[
+  {
+    "id": "turkce",
+    "name": "Türkçe",
+    "group": "Genel Yetenek",
+    "questionCount": 30,
+    "icon": "book-open",
+    "color": "#3b82f6",
+    "bgLight": "#eff6ff",
+    "topics": [
+      { "id": "tr_sozcuk", "name": "Sözcükte Anlam", "weight": 3 },
+      { "id": "tr_cumle", "name": "Cümlede Anlam", "weight": 3 },
+      { "id": "tr_paragraf", "name": "Paragrafta Anlam & Yapı", "weight": 14 },
+      { "id": "tr_ses_yazim", "name": "Ses Bilgisi & Yazım Kuralları", "weight": 2 },
+      { "id": "tr_noktalama", "name": "Noktalama İşaretleri", "weight": 2 },
+      { "id": "tr_dil_bilgisi", "name": "Sözcük Türleri & Cümle Bilgisi", "weight": 2 },
+      { "id": "tr_sozel_mantik", "name": "Sözel Mantık", "weight": 4 }
+    ]
+  },
+  {
+    "id": "matematik",
+    "name": "Matematik & Geometri",
+    "group": "Genel Yetenek",
+    "questionCount": 30,
+    "icon": "calculator",
+    "color": "#8b5cf6",
+    "bgLight": "#f5f3ff",
+    "topics": [
+      { "id": "mat_temel", "name": "Temel Kavramlar & Sayılar", "weight": 5 },
+      { "id": "mat_bolme_ebob", "name": "Bölme-Bölünebilme & EBOB-EKOK", "weight": 2 },
+      { "id": "mat_rasyonel_uslu", "name": "Rasyonel & Köklü-Üslü Sayılar", "weight": 4 },
+      { "id": "mat_carpanlara_ayirma", "name": "Çarpanlara Ayırma & Oran-Orantı", "weight": 2 },
+      { "id": "mat_problemler", "name": "Sayı, Kesir, Yaş, Yüzde, Hareket Problemleri", "weight": 8 },
+      { "id": "mat_kumeler_olasilik", "name": "Kümeler, Permütasyon, Kombinasyon, Olasılık", "weight": 3 },
+      { "id": "mat_sayisal_mantik", "name": "Sayısal Mantık & Tablo-Grafik", "weight": 3 },
+      { "id": "mat_geometri", "name": "Geometri (Açılar, Üçgenler, Dörtgenler, Analitik)", "weight": 3 }
+    ]
+  },
+  {
+    "id": "tarih",
+    "name": "Tarih",
+    "group": "Genel Kültür",
+    "questionCount": 27,
+    "icon": "landmark",
+    "color": "#f59e0b",
+    "bgLight": "#fffbeb",
+    "topics": [
+      { "id": "tar_islam_oncesi", "name": "İslamiyet Öncesi Türk Tarihi", "weight": 3 },
+      { "id": "tar_ilk_turk_islam", "name": "İlk Türk - İslam Devletleri & Selçuklular", "weight": 3 },
+      { "id": "tar_osmanli_kurulus_yukselme", "name": "Osmanlı Siyasi Tarihi (Kuruluş-Duraklama-Gerileme)", "weight": 4 },
+      { "id": "tar_osmanli_kultur", "name": "Osmanlı Kültür ve Medeniyeti", "weight": 3 },
+      { "id": "tar_20yy_osmanli", "name": "20. Yüzyıl Başlarında Osmanlı (Trablusgarp, Balkan, I. Dünya)", "weight": 3 },
+      { "id": "tar_kurtulus_savasi", "name": "Milli Mücadele Dönemi (Hazırlık & Cepheler)", "weight": 4 },
+      { "id": "tar_inkilaplar", "name": "Atatürk Dönemi İç-Dış Politika & İnkılaplar", "weight": 4 },
+      { "id": "tar_cagdas", "name": "Çağdaş Türk ve Dünya Tarihi", "weight": 3 }
+    ]
+  },
+  {
+    "id": "cografya",
+    "name": "Coğrafya",
+    "group": "Genel Kültür",
+    "questionCount": 18,
+    "icon": "map-pin",
+    "color": "#10b981",
+    "bgLight": "#ecfdf5",
+    "topics": [
+      { "id": "cog_konum", "name": "Türkiye'nin Coğrafi Konumu & Jeopolitiği", "weight": 2 },
+      { "id": "cog_fiziki", "name": "Türkiye'nin Yer Şekilleri, İklimi ve Bitki Örtüsü", "weight": 5 },
+      { "id": "cog_su_toprak_dogal", "name": "Su Varlığı, Toprak Tipleri ve Doğal Afetler", "weight": 2 },
+      { "id": "cog_beseri", "name": "Türkiye'de Nüfus, Yerleşme ve Göç", "weight": 3 },
+      { "id": "cog_tarim_hayvancilik", "name": "Türkiye'de Tarım ve Hayvancılık", "weight": 2 },
+      { "id": "cog_maden_enerji", "name": "Madenler, Enerji Kaynakları ve Sanayi", "weight": 2 },
+      { "id": "cog_ticaret_turizm", "name": "Ulaşım, Ticaret ve Turizm Coğrafyası", "weight": 2 }
+    ]
+  },
+  {
+    "id": "vatandaslik",
+    "name": "Vatandaşlık",
+    "group": "Genel Kültür",
+    "questionCount": 9,
+    "icon": "scale",
+    "color": "#ef4444",
+    "bgLight": "#fef2f2",
+    "topics": [
+      { "id": "vat_temel_hukuk", "name": "Temel Hukuk Kavramları & Hukukun Dalları", "weight": 3 },
+      { "id": "vat_anayasa_tarihi", "name": "Türk Anayasa Tarihi", "weight": 1 },
+      { "id": "vat_1982_yasama", "name": "1982 Anayasası - Temel Haklar & Yasama (TBMM)", "weight": 2 },
+      { "id": "vat_yurutme_yargi", "name": "Yürütme (Cumhurbaşkanı) & Yargı Organları", "weight": 2 },
+      { "id": "vat_idare_hukuku", "name": "İdare Hukuku & Türkiye'nin İdari Yapısı", "weight": 1 }
+    ]
+  },
+  {
+    "id": "guncel",
+    "name": "Güncel Bilgiler",
+    "group": "Genel Kültür",
+    "questionCount": 6,
+    "icon": "globe",
+    "color": "#06b6d4",
+    "bgLight": "#ecfeff",
+    "topics": [
+      { "id": "gun_orgutler", "name": "Uluslararası Örgütler & Türkiye'nin Üyelikleri", "weight": 2 },
+      { "id": "gun_kultur_sanat", "name": "Kültür, Sanat, Edebiyat, UNESCO Mirasları", "weight": 2 },
+      { "id": "gun_bilim_guncel", "name": "Önemli Gelişmeler, Ödüller ve Güncel Olaylar", "weight": 2 }
+    ]
+  }
+]

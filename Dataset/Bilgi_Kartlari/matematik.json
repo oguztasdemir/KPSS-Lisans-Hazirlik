@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fc_mat_1",
+    "subject": "Matematik",
+    "question": "İki kare farkı özdeşliği nedir?",
+    "answer": "a² - b² = (a - b) · (a + b)",
+    "importance": "Temel Formül"
+  },
+  {
+    "id": "fc_mat_2",
+    "subject": "Matematik",
+    "question": "30°-60°-90° dik üçgeninde kenar oranları nasıldır?",
+    "answer": "30° karşısı 'a' ise, 90° karşısı '2a', 60° karşısı 'a√3'tür.",
+    "importance": "Geometri Formülü"
+  },
+  {
+    "id": "fc_mat_3",
+    "subject": "Matematik",
+    "question": "Öklid yükseklik bağıntısı nedir?",
+    "answer": "h² = p · k (Dikten dik indiğinde yüksekliğin karesi ayırdığı taban parçalarının çarpımına eşittir).",
+    "importance": "ÖSYM Favorisi"
+  },
+  {
+    "id": "fc_mat_4",
+    "subject": "Matematik",
+    "question": "Ardışık tek sayılar toplamı formülü nedir?",
+    "answer": "1 + 3 + 5 + ... + (2n - 1) = n²",
+    "importance": "Formül"
+  },
+  {
+    "id": "fc_mat_5",
+    "subject": "Matematik",
+    "question": "Eşkenar üçgenin alan formülü nedir?",
+    "answer": "Alan = (a² · √3) / 4",
+    "importance": "Geometri Formülü"
+  },
+  {
+    "id": "fc_mat_6",
+    "subject": "Matematik",
+    "question": "Hız problemlerinde ortalama hız formülü nedir?",
+    "answer": "V_ort = Toplam Alınan Yol / Toplam Harcanan Zaman",
+    "importance": "Problem Formülü"
+  }
+]
