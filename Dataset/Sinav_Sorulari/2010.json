@@ -1363,23 +1363,23 @@
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "2"
+        "metin": "$$2$$"
       },
       {
         "anahtar": "B",
-        "metin": "3"
+        "metin": "$$3$$"
       },
       {
         "anahtar": "C",
-        "metin": "4"
+        "metin": "$$4$$"
       },
       {
         "anahtar": "D",
-        "metin": "1/2"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "1/4"
+        "metin": "$$\\frac{1}{4}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1858,23 +1858,23 @@
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "x^2 / y^2"
+        "metin": "$$\\frac{x^2}{y^2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "y / y^2"
+        "metin": "$$\\frac{y}{y^2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "x / x^2"
+        "metin": "$$\\frac{x}{x^2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "y / x"
+        "metin": "$$\\frac{y}{x}$$"
       },
       {
         "anahtar": "E",
-        "metin": "x / y"
+        "metin": "$$\\frac{x}{y}$$"
       }
     ],
     "dogruCevap": "E",
@@ -1944,27 +1944,27 @@
     "brans": "Matematik",
     "bransSoruNo": 14,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2010 KPSS GY - Soru 44)\n9 kişilik bir grubun yaş ortalaması x’tir.\n\nBu gruba 3 kişi daha katılırsa yeni grubun yaş ortalaması 3x/2 olduğuna göre, sonradan katılan 3 kişinin yaş ortalaması aşağıdakilerden hangisidir?",
+    "soruMetni": "(2010 KPSS GY - Soru 44)\n9 kişilik bir grubun yaş ortalaması $x$'tir.\n\nBu gruba 3 kişi daha katılırsa yeni grubun yaş ortalaması $$\\frac{3x}{2}$$ olduğuna göre, sonradan katılan 3 kişinin yaş ortalaması aşağıdakilerden hangisidir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "x"
+        "metin": "$$x$$"
       },
       {
         "anahtar": "B",
-        "metin": "2x"
+        "metin": "$$2x$$"
       },
       {
         "anahtar": "C",
-        "metin": "3x"
+        "metin": "$$3x$$"
       },
       {
         "anahtar": "D",
-        "metin": "x/2"
+        "metin": "$$\\frac{x}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "x/3"
+        "metin": "$$\\frac{x}{3}$$"
       }
     ],
     "dogruCevap": "C",
@@ -2308,23 +2308,23 @@
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "A < M < O"
+        "metin": "$$A < M < O$$"
       },
       {
         "anahtar": "B",
-        "metin": "M < A < O"
+        "metin": "$$M < A < O$$"
       },
       {
         "anahtar": "C",
-        "metin": "O < M <"
+        "metin": "$$O < M < A$$"
       },
       {
         "anahtar": "D",
-        "metin": "A < O < M"
+        "metin": "$$A < O < M$$"
       },
       {
         "anahtar": "E",
-        "metin": "M < O <"
+        "metin": "$$M < O < A$$"
       }
     ],
     "dogruCevap": "E",
@@ -2533,23 +2533,23 @@
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "4"
+        "metin": "$$4$$"
       },
       {
         "anahtar": "B",
-        "metin": "6"
+        "metin": "$$6$$"
       },
       {
         "anahtar": "C",
-        "metin": "8"
+        "metin": "$$8$$"
       },
       {
         "anahtar": "D",
-        "metin": "6√3"
+        "metin": "$$6\\sqrt{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "8√3"
+        "metin": "$$8\\sqrt{3}$$"
       }
     ],
     "dogruCevap": "C",

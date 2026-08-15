@@ -9,7 +9,7 @@
     "brans": "Türkçe",
     "bransSoruNo": 1,
     "konu": "Türkçe (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 1)\n2015-KPSS/GY-CS GENEL YETENEK",
+    "soruMetni": "(2015 KPSS GY - Soru 1)\n GENEL YETENEK",
     "secenekler": [
       {
         "anahtar": "A",
@@ -164,7 +164,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Çevreye duyarlı tarım politikası, doğal ürün\nçeşitliliğinin korunmasını gerektirir.\n2015-KPSS/GY-CS"
+        "metin": "Çevreye duyarlı tarım politikası, doğal ürün\nçeşitliliğinin korunmasını gerektirir."
       }
     ],
     "dogruCevap": "E",
@@ -389,7 +389,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V\n2015-KPSS/GY-CS"
+        "metin": "V"
       }
     ],
     "dogruCevap": "A",
@@ -659,7 +659,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V, kurallı bir isim cümlesidir.\n2015-KPSS/GY-CS"
+        "metin": "V, kurallı bir isim cümlesidir."
       }
     ],
     "dogruCevap": "E",
@@ -839,7 +839,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Mağribî, Gotik ve Rönesans mimarisi tarihte öne çıkan\nmimari tarzlardır.\n2015-KPSS/GY-CS"
+        "metin": "Mağribî, Gotik ve Rönesans mimarisi tarihte öne çıkan\nmimari tarzlardır."
       }
     ],
     "dogruCevap": "D",
@@ -1019,7 +1019,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Kişileştirmeye başvurulmuştur.\n2015-KPSS/GY-CS"
+        "metin": "Kişileştirmeye başvurulmuştur."
       }
     ],
     "dogruCevap": "A",
@@ -1154,7 +1154,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Farklı düzeylerde hazırlanabilmesi\n2015-KPSS/GY-CS"
+        "metin": "Farklı düzeylerde hazırlanabilmesi"
       }
     ],
     "dogruCevap": "C",
@@ -1334,7 +1334,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "8\n2015-KPSS/GY-CS"
+        "metin": "8"
       }
     ],
     "dogruCevap": "A",
@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 31)\n$$\\frac{5}{6} - \\left(\\frac{1}{2} - \\frac{1}{3}\\right)$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 31)\n$$\\left[ \\frac{1}{5} \\cdot \\left(\\frac{1}{3} - \\frac{1}{4}\\right) \\right] : \\frac{1}{10}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1/3"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "1/2"
+        "metin": "$$\\frac{1}{5}$$"
       },
       {
         "anahtar": "C",
-        "metin": "2/3"
+        "metin": "$$\\frac{2}{5}$$"
       },
       {
         "anahtar": "D",
-        "metin": "3/4"
+        "metin": "$$\\frac{1}{6}$$"
       },
       {
         "anahtar": "E",
-        "metin": "1"
+        "metin": "$$\\frac{3}{8}$$"
       }
     ],
     "dogruCevap": "D",
@@ -1404,27 +1404,27 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 32)\n$$\\frac{3^{12} - 3^{10}}{3^{11} + 3^{10}}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 32)\n$$\\frac{2^9 - 5 \\cdot 2^4}{12^3}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{1}{6}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{1}{4}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{3}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "6"
+        "metin": "$$\\frac{4}{3}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1449,7 +1449,7 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 33)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 33)\n$$\\frac{\\sqrt{18 \\cdot \\sqrt{8}}}{\\sqrt[4]{32}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1494,7 +1494,7 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 34)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 34)\n$$\\frac{9! - 2 \\cdot 8!}{7! + 6! + 5!}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1514,7 +1514,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "56\n2015-KPSS/GY-CS"
+        "metin": "56"
       }
     ],
     "dogruCevap": "D",
@@ -1539,7 +1539,7 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 35)\nYukarıdaki çarpma işlemine göre,\ntoplamı kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 35)\n  K K L\nx   K 3\n-------\n  • • 5\n+ K K L\n-------\nA B C D\n\nYukarıdaki çarpma işlemine göre, $A + B + C + D$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 36)\nx, y gerçel sayılar ve olduğuna göre,\nifadesi aşağıdakilerden hangisine eşittir?",
+    "soruMetni": "(2015 KPSS GY - Soru 36)\n$x, y$ gerçel sayılar ve $x < y < 0$ olduğuna göre,\n$$\\frac{|y| + |y - x|}{|x|}$$\nifadesi aşağıdakilerden hangisine eşittir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$-x$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$-1$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$1$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$x$"
       },
       {
         "anahtar": "E",
-        "metin": "a, b ve c gerçel sayıları için  \nolduğuna göre,\nI.\nII.\nIII.\nifadelerinden hangileri doğrudur?\nYalnız II\nYalnız III\nI ve II\nI ve III\nII ve III\nolduğuna göre,  x  kaçtır?"
+        "metin": "$y$"
       }
     ],
     "dogruCevap": "C",
@@ -1629,7 +1629,7 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 37)\na, b ve c gerçel sayıları için\nolduğuna göre,\nI.\nII.\nIII.\nifadelerinden hangileri doğrudur?",
+    "soruMetni": "(2015 KPSS GY - Soru 37)\n$a, b \\text{ ve } c \\text{ gerçel sayıları için } a < b < 0 < c$ olduğuna göre,\nI. $(c + b)^2 < (c - b)^2$\nII. $ac < bc$\nIII. $\\frac{a}{b} < \\frac{b}{a}$\n\nifadelerinden hangileri doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1674,27 +1674,27 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 38)\nolduğuna göre, x kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 38)\n$$\\left(\\frac{1}{4}\\right)^x = \\left(\\frac{1}{8}\\right)^{3 - x}$$\n\nolduğuna göre, $x$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{5}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{7}{4}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{9}{5}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{12}{7}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n9\nÖSYM"
+        "metin": "$$\\frac{15}{8}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1719,27 +1719,27 @@
     "brans": "Matematik",
     "bransSoruNo": 9,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 39)\na ve b gerçel sayıları için\nolduğuna göre, toplamı kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 39)\n$a \\text{ ve } b \\text{ gerçel sayıları için}$\n$$\\sqrt{a^2 \\cdot b} = \\frac{3\\sqrt{5}}{5}$$\n$$\\sqrt{a \\cdot b} = \\frac{\\sqrt{30}}{5}$$\n\nolduğuna göre, $a + b$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{7}{5}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{11}{5}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{23}{10}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{19}{15}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\frac{29}{20}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 40)\nPozitif tam sayılar kümesi üzerinde işlemi\na’nın b’ye bölümünden elde edilen kalanın\n1 fazlası\nolarak tanımlanıyor.\nBuna göre, her a ve b için\nI.\nII.\nIII.\nifadelerinden hangileri doğrudur?",
+    "soruMetni": "(2015 KPSS GY - Soru 40)\nPozitif tam sayılar kümesi üzerinde $\\odot$ işlemi\n$$a \\odot b = a\\text{'nın } b\\text{'ye bölümünden elde edilen kalanın 1 fazlası}$$\nolarak tanımlanıyor.\n\nBuna göre, her $a$ ve $b$ için\nI. $a \\odot b = b \\odot a$\nII. $[a \\odot 2] + [(a + 1) \\odot 2] = 3$\nIII. $(a + b) \\odot b = a \\odot b$\n\nifadelerinden hangileri doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1854,27 +1854,27 @@
     "brans": "Matematik",
     "bransSoruNo": 12,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 42)\nGerçel sayılar kümesi üzerinde tanımlı bir\nf fonksiyonu için\nolduğuna göre, değeri kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 42)\nGerçel sayılar kümesi üzerinde tanımlı bir $f$ fonksiyonu için\n$$f(3x) = x + 1$$\nolduğuna göre, $f(f(1))$ değeri kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{2}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{5}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{7}{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{8}{9}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n10\nÖSYM"
+        "metin": "$$\\frac{13}{9}$$"
       }
     ],
     "dogruCevap": "E",
@@ -1899,7 +1899,7 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 43)\nm ve n pozitif tam sayılar olmak üzere,\neşitliği veriliyor.\nm’nin n’ye bölümünden elde edilen kalan\n3 olduğuna göre, toplamı kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 43)\n$m$ ve $n$ pozitif tam sayılar olmak üzere,\n$$\\frac{m}{n} = 6,12$$\neşitliği veriliyor.\n\n$m$'nin $n$'ye bölümünden elde edilen kalan 3 olduğuna göre, $m + n$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2054,7 +2054,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "32\n2015-KPSS/GY-CS"
+        "metin": "32"
       }
     ],
     "dogruCevap": "B",
@@ -2234,7 +2234,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "60\n2015-KPSS/GY-CS"
+        "metin": "60"
       }
     ],
     "dogruCevap": "D",
@@ -2349,27 +2349,27 @@
     "brans": "Matematik",
     "bransSoruNo": 23,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 53)\nBir spor salonunda bulunan üç top sepetinin her birinde\n8 basketbol ve 4 futbol topu vardır.\nBu üç sepetten rastgele alınan birer topun hepsinin\naynı türden olma olasılığı kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 53)\nBir spor salonunda bulunan üç top sepetinin her birinde 8 basketbol ve 4 futbol topu vardır.\n\nBu üç sepetten rastgele alınan birer topun hepsinin aynı türden olma olasılığı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{2}{9}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{4}{9}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{10}{27}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n13\nÖSYM"
+        "metin": "$$\\frac{14}{27}$$"
       }
     ],
     "dogruCevap": "A",
@@ -2394,27 +2394,27 @@
     "brans": "Matematik",
     "bransSoruNo": 24,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 54)\n- 55. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\nBir ilçedeki A, B ve C köylerinde bulunan toplam\ntarımsal alanın köylere göre dağılımı 1. grafikte, toplam\nnüfusun köylere göre dağılımı ise 2. grafikte verilmiştir.\n54. A, B ve C köylerinde kişi başına düşen tarımsal\nalanlar sırasıyla TA, TB ve TC ile gösteriliyor.\nBuna göre, aşağıdaki sıralamalardan hangisi\ndoğrudur?",
+    "soruMetni": "(2015 KPSS GY - Soru 54)\n54. - 55. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBir ilçedeki A, B ve C köylerinde bulunan toplam tarımsal alanın köylere göre dağılımı 1. grafikte, toplam nüfusun köylere göre dağılımı ise 2. grafikte verilmiştir:\n• 1. Grafik (Tarımsal Alan): A = 120°, B = 80°, C = 160°\n• 2. Grafik (Nüfus): A = 90°, B = 120°, C = 150°\n\nA, B ve C köylerinde kişi başına düşen tarımsal alanlar sırasıyla $T_A, T_B \\text{ ve } T_C$ ile gösteriliyor.\n\nBuna göre, aşağıdaki sıralamalardan hangisi doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$T_A < T_B < T_C$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$T_C < T_A < T_B$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$T_C < T_B < T_A$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$T_B < T_C < T_A$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$T_B < T_A < T_C$$"
       }
     ],
     "dogruCevap": "D",
@@ -2439,7 +2439,7 @@
     "brans": "Matematik",
     "bransSoruNo": 25,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 55)\nB köyünden C köyüne 40 kişi taşınıyor ve böylece\nB ve C köylerinde kişi başına düşen tarımsal alan eşit\noluyor.\nBuna göre, A köyünün nüfusu kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 55)\n54. - 55. soruları bilgilere göre cevaplayınız.\n\nB köyünden C köyüne 40 kişi taşınıyor ve böylece B ve C köylerinde kişi başına düşen tarımsal alan eşit oluyor.\n\nBuna göre, A köyünün nüfusu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2574,27 +2574,27 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 58)\nO merkezli çember\nÖSYM AC çap\nYukarıdaki şekilde, BC yayının uzunluğunun DA yayının\nuzunluğuna oranı ’dir.\nBuna göre, CD yayının uzunluğunun çemberin\nyarıçapına oranı kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 58)\nO merkezli çember, AC çap, $BO \\perp OD$.\nYukarıdaki şekilde, BC yayının uzunluğunun DA yayının uzunluğuna oranı $$\\frac{3}{8}$$'dir.\n\nBuna göre, CD yayının uzunluğunun çemberin yarıçapına oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{\\pi}{5}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{\\pi}{6}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{\\pi}{8}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{2\\pi}{9}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\frac{3\\pi}{10}$$"
       }
     ],
     "dogruCevap": "A",
@@ -2619,7 +2619,7 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 59)\nDik koordinat düzleminde; A(2, 5) noktasına\ndoğrusu üzerinde bulunan noktalardan en\nyakın olanı B(3, 3) noktasıdır.\nBuna göre, toplamı kaçtır?",
+    "soruMetni": "(2015 KPSS GY - Soru 59)\nDik koordinat düzleminde; $A(2, 5)$ noktasına $y = ax + b$ doğrusu üzerinde bulunan noktalardan en yakın olanı $B(3, 3)$ noktasıdır.\n\nBuna göre, $a + b$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2664,7 +2664,7 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2015 KPSS GY - Soru 60)\nYukarıdaki şekilde A, B ve G noktaları doğrusaldır.\nBuna göre, BFD üçgeninin alanı kaç birimkaredir?",
+    "soruMetni": "(2015 KPSS GY - Soru 60)\nABCD dikdörtgen,\n$$|AB| = 28\\text{ birim}$$\n$$|AD| = 12\\text{ birim}$$\n$$|BG| = 4\\text{ birim}$$\n$$[BC] \\cap [DG] = \\{F\\}$$\n\nYukarıdaki şekilde A, B ve G noktaları doğrusaldır.\n\nBuna göre, BFD üçgeninin alanı kaç birimkaredir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -4214,7 +4214,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n8\nÖSYM"
+        "metin": ""
       }
     ],
     "dogruCevap": "E",

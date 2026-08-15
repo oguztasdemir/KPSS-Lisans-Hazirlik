@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 31)\n6 =\n8 =\n4\n2\n31\n31\n6 +\n8 +\n2\n4\nişleminin sonucu kaçtır?\n13",
+    "soruMetni": "(2025 KPSS GY - Soru 31)\n$$\\frac{6 - \\frac{1}{2}}{6 + \\frac{1}{2}} \\cdot \\frac{8 - \\frac{1}{4}}{8 + \\frac{1}{4}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "33"
+        "metin": "$$\\frac{13}{33}$$"
       },
       {
         "anahtar": "B",
-        "metin": "17"
+        "metin": "$$\\frac{17}{33}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{17}{39}$$"
       },
       {
         "anahtar": "D",
-        "metin": "25"
+        "metin": "$$\\frac{25}{39}$$"
       },
       {
         "anahtar": "E",
-        "metin": "31"
+        "metin": "$$\\frac{31}{39}$$"
       }
     ],
     "dogruCevap": "E",
@@ -1404,7 +1404,7 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 32)\n(0,4)2 + (0,1)3\n(0,5)2 _ 0,02\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 32)\n$$\\frac{(0,4)^2 + (0,1)^3}{(0,5)^2 - 0,02}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1416,7 +1416,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "0,5"
       },
       {
         "anahtar": "D",
@@ -1449,7 +1449,7 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 33)\n+\n3.3-2 + 4.2-1\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 33)\n$$\\frac{5^{-1} + 2 \\cdot 4^{-1}}{3 \\cdot 3^{-2} + 4 \\cdot 2^{-1}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1461,7 +1461,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "0,3"
       },
       {
         "anahtar": "D",
@@ -1494,7 +1494,7 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 34)\n10 + v18\n+ v98\n10 + v50\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 34)\n$$\\frac{10 + \\sqrt{18} + \\sqrt{98}}{10 + \\sqrt{50}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1506,15 +1506,15 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "5"
       },
       {
         "anahtar": "D",
-        "metin": "v2"
+        "metin": "$$\\sqrt{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "v5"
+        "metin": "$$\\sqrt{5}$$"
       }
     ],
     "dogruCevap": "D",
@@ -1539,7 +1539,7 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 35)\nA, B ve C rakamları için\nAB8\n16C\nCA 3\nolduğuna göre A + B + C toplamı kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 35)\nA, B ve C rakamları için\n  AB8\n- 16C\n-----\n  CA3\n\nolduğuna göre $A + B + C$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1551,7 +1551,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "13"
       },
       {
         "anahtar": "D",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 36)\na, b ve € pozitif tam sayıları için\nab + b.c\nifadesinin bir çift sayı olduğu biliniyor.\nBuna göre\na.(b + c)\nIL\na+ b + c\nIll. a.b + c\nifadelerinden hangileri her zaman çift sayıdır?",
+    "soruMetni": "(2025 KPSS GY - Soru 36)\n$a, b$ ve $c$ pozitif tam sayıları için\n$$a^b + b \\cdot c$$\nifadesinin bir çift sayı olduğu biliniyor.\n\nBuna göre\nI. $a \\cdot (b + c)$\nII. $a + b + c$\nIII. $a \\cdot b + c$\n\nifadelerinden hangileri <u>her zaman</u> çift sayıdır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "Yalnız /"
+        "metin": "Yalnız I"
       },
       {
         "anahtar": "B",
-        "metin": "Yalnız Il"
+        "metin": "Yalnız II"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "I ve II"
       },
       {
         "anahtar": "D",
-        "metin": "|ve III"
+        "metin": "I ve III"
       },
       {
         "anahtar": "E",
-        "metin": "Il ve III"
+        "metin": "II ve III"
       }
     ],
     "dogruCevap": "A",
@@ -1629,27 +1629,27 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 37)\nx, y ve 2 pozitif gerçel sayılar olmak üzere\n<y <\n<1\nX\nz\nolduğuna göre aşağıdaki sıralamalardan hangisi\ndoğrudur?",
+    "soruMetni": "(2025 KPSS GY - Soru 37)\n$x, y$ ve $z$ pozitif gerçel sayılar olmak üzere\n$$\\frac{1}{x} < y < \\frac{1}{z} < 1$$\nolduğuna göre aşağıdaki sıralamalardan hangisi doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "X < 2 < y"
+        "metin": "$x < z < y$"
       },
       {
         "anahtar": "B",
-        "metin": "Y < X < 2"
+        "metin": "$y < x < z$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$y < z < x$"
       },
       {
         "anahtar": "D",
-        "metin": "2 < X < y"
+        "metin": "$z < x < y$"
       },
       {
         "anahtar": "E",
-        "metin": "2 < y < X"
+        "metin": "$z < y < x$"
       }
     ],
     "dogruCevap": "C",
@@ -1674,27 +1674,27 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 38)\nX\nnegatif bir gerçel sayı olmak üzere\n4* _ 2*\n=\n2*\n2x\n2-x\nolduğuna göre\nkaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 38)\n$x$ negatif bir gerçel sayı olmak üzere\n$$\\frac{4^x - 2^x}{2^x - 2^{-x}} = 2^x - \\frac{1}{5}$$\nolduğuna göre $x$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "21"
+        "metin": "-1"
       },
       {
         "anahtar": "B",
-        "metin": "=2"
+        "metin": "-2"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$-\\frac{1}{2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "7"
+        "metin": "$$-\\frac{3}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "~"
+        "metin": "$$-\\frac{1}{4}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1719,7 +1719,7 @@
     "brans": "Matematik",
     "bransSoruNo": 9,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 39)\nx ve y pozitif gerçel sayıları için\nVx = vy = 2v2\nX + y + V4xy\n=\n72\neşitlikleri veriliyor.\nX\nBuna\noranı kaçtır?\ny",
+    "soruMetni": "(2025 KPSS GY - Soru 39)\n$x$ ve $y$ pozitif gerçel sayıları için\n$$\\sqrt{x} - \\sqrt{y} = 2\\sqrt{2}$$\n$$x + y + \\sqrt{4xy} = 72$$\neşitlikleri veriliyor.\n\nBuna göre $\\frac{x}{y}$ oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1727,19 +1727,19 @@
       },
       {
         "anahtar": "B",
-        "metin": "c)"
+        "metin": "6"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "8"
       },
       {
         "anahtar": "D",
-        "metin": "2v2"
+        "metin": "$$2\\sqrt{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "4v2"
+        "metin": "$$4\\sqrt{2}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 40)\nX ve y\npozitif tam sayıları için\nifadesi bir tam sayı\ny\nolmak üzere\n47 < X.y < 51\neşitsizliği saglanmaktadır.\nBuna göre x sayısının alabileceği kaç farklı değer\nvardır?",
+    "soruMetni": "(2025 KPSS GY - Soru 40)\n$x$ ve $y$ pozitif tam sayıları için $\\frac{x}{y}$ ifadesi bir tam sayı olmak üzere\n$$47 < x \\cdot y < 51$$\neşitsizliği sağlanmaktadır.\n\nBuna göre $x$ sayısının alabileceği kaç farklı değer vardır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1776,7 +1776,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "9"
       },
       {
         "anahtar": "D",
@@ -1809,7 +1809,7 @@
     "brans": "Matematik",
     "bransSoruNo": 11,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 41)\npozitif bir tam sayı olmak üzere\na2 + 18\nifadesi bir tam sayıyken\na + 121\na+1\nifadesi bir tam sayı değildir.\nBuna göre a sayısının alabileceği değerlerin\ntoplamı kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 41)\n$a$ pozitif bir tam sayı olmak üzere\n$$\\frac{a^2 + 18}{a}$$\nifadesi bir tam sayıyken\n$$\\frac{a + 121}{a + 1}$$\nifadesi bir tam sayı değildir.\n\nBuna göre $a$ sayısının alabileceği değerlerin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1821,7 +1821,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "24"
       },
       {
         "anahtar": "D",
@@ -1854,19 +1854,19 @@
     "brans": "Matematik",
     "bransSoruNo": 12,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 42)\na < b < 0 olmak üzere\n[4a\n2b| + |2a + 3b| = |b = 7al\neşitliği veriliyor.\nBuna göre\noranı kaçtır?\nb",
+    "soruMetni": "(2025 KPSS GY - Soru 42)\n$a < b < 0$ olmak üzere\n$$|4a - 2b| + |2a + 3b| = |b - 7a|$$\neşitliği veriliyor.\n\nBuna göre $\\frac{a}{b}$ oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "1"
       },
       {
         "anahtar": "D",
@@ -1899,7 +1899,7 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 43)\na bir gerçel sayı olmak üzere gerçel sayılar kümesi\nüzerinde tanımlı\nve g fonksiyonları için\ng(x) = 2x + a\n(fog)(x) = 3x = a\neşitlikleri veriliyor.\nf(1) = 9 olduğuna göre f(9) değeri kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 43)\n$a$ bir gerçel sayı olmak üzere gerçel sayılar kümesi üzerinde tanımlı $f$ ve $g$ fonksiyonları için\n$$g(x) = 2x + a$$\n$$(f \\circ g)(x) = 3x - a$$\neşitlikleri veriliyor.\n\n$f(1) = 9$ olduğuna göre $f(9)$ değeri kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1907,11 +1907,11 @@
       },
       {
         "anahtar": "B",
-        "metin": "c)"
+        "metin": "8"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "15"
       },
       {
         "anahtar": "D",
@@ -1944,7 +1944,7 @@
     "brans": "Matematik",
     "bransSoruNo": 14,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 44)\nOnlar basamağındaki rakamı 8 olan ve 15 ile\nkalansız bölünebilen en büyük üç basamaklı doğal\nsayı ile en küçük üç basamaklı doğal sayının toplamı\nkaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 44)\nOnlar basamağındaki rakamı 8 olan ve 15 ile kalansız bölünebilen en büyük üç basamaklı doğal sayı ile en küçük üç basamaklı doğal sayının toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1956,7 +1956,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "1065"
       },
       {
         "anahtar": "D",
@@ -1989,7 +1989,7 @@
     "brans": "Matematik",
     "bransSoruNo": 15,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 45)\nÜç basamaklı A2B doğal sayısının 2 katı , iki basamaklı\n2C doğal sayısının 25 katına eşittir .\nBuna göre A + B + C toplamı kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 45)\nÜç basamaklı A2B doğal sayısının 2 katı, iki basamaklı 2C doğal sayısının 25 katına eşittir.\n\nBuna göre $A + B + C$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2001,7 +2001,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "10"
       },
       {
         "anahtar": "D",
@@ -2034,7 +2034,7 @@
     "brans": "Matematik",
     "bransSoruNo": 16,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 46)\nArızalı bir zaman makinesinin bulunduğu bir filmde,\nbir kişi makinenin düğmesine bastığı anda bulunduğu\ntarihten ya tam olarak 3 yıl öncesine ya da tam olarak\nx yıl sonrasına gitmektedir Filmde bir kişi 2025 yılında\nOS\nbu düğmeye art arda 20 kez bastıktan sonra\n2030 yılında olduğunu fark etmiştir.\nBuna göre x'in alabileceği pozitif tam sayı\ndeğerlerinin toplamı kaçtır?",
+    "soruMetni": "(2025 KPSS GY - Soru 46)\nArızalı bir zaman makinesinin bulunduğu bir filmde, bir kişi makinenin düğmesine bastığı anda bulunduğu tarihten ya tam olarak 3 yıl öncesine ya da tam olarak $x$ yıl sonrasına gitmektedir. Filmde bir kişi 2025 yılında bu düğmeye art arda 20 kez bastıktan sonra 2030 yılında olduğunu fark etmiştir.\n\nBuna göre $x$’in alabileceği pozitif tam sayı değerlerinin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2046,7 +2046,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "78"
       },
       {
         "anahtar": "D",
@@ -2259,7 +2259,7 @@
     "brans": "Matematik",
     "bransSoruNo": 21,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 51)\nBütün öğrencilerin isimlerinin birbirinden farklı olduğu\nsınıfta, tüm öğrenciler isimlerini birer k#ğıda yazarak\nbir kutuya koymuştur\nBu kutudan rastgele bir k~ğıt\nçekilecek ve çekilen bu kVğıtta ismi yazan öğrenci\nhediye kazanacaktır.\nKutudan k#ğıt çekileceği gun Efe'nin doğum günü\nolduğu için Efe'nin hediyeyi kazanma olasılığını artırmak\nisteyen arkadaşları 33 kVğıda daha Efe'nin ismini yazıp\nkutuya atmıştır. Son durumda Efe'nin hediyeyi kazanma\nolasılığı, başlangıçtakinin 12 katı olmuştur.\nBuna göre bu sınıfta\nöğrenci vardır?",
+    "soruMetni": "(2025 KPSS GY - Soru 51)\nBütün öğrencilerin isimlerinin birbirinden farklı olduğu sınıfta, tüm öğrenciler isimlerini birer kâğıda yazarak bir kutuya koymuştur. Bu kutudan rastgele bir kâğıt çekilecek ve çekilen bu kâğıtta ismi yazan öğrenci hediye kazanacaktır.\nKutudan kâğıt çekileceği gün Efe’nin doğum günü olduğu için Efe’nin hediyeyi kazanma olasılığını artırmak isteyen arkadaşları 33 kâğıda daha Efe’nin ismini yazıp kutuya atmıştır. Son durumda Efe’nin hediyeyi kazanma olasılığı, başlangıçtakinin 12 katı olmuştur.\n\nBuna göre bu sınıfta kaç öğrenci vardır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2271,7 +2271,7 @@
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "22"
       },
       {
         "anahtar": "D",
@@ -2529,30 +2529,30 @@
     "brans": "Matematik",
     "bransSoruNo": 27,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 57)\nHer bir gruptaki topların numaraları toplamının aynı\nsayıya eşit olduğu ve her bir gruptaki\nsayısının\ngruptaki toplardan birinin numarasına eşit olduğu\nbiliniyor.\nBuna göre aşağıdakilerden hangisi 6 numaralı topla\naynı grupta yer alan toplardan birinin numarasıdır?\n1'den 12'ye kadar olan doğal sayılarla\nnumaralandırılmış 12\nüç gruba ayrılıyor.",
+    "soruMetni": "(2025 KPSS GY - Soru 57)\nABC üçgen, B, D, E, C doğrusal\n$$m(\\widehat{ADC}) = 70^\\circ, \\quad m(\\widehat{AEB}) = 80^\\circ, \\quad m(\\widehat{ABC}) = x$$\n$$|AE| = |EC|, \\quad |AB| = |DC|$$\n\nYukarıdaki verilere göre $x$ kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "8"
+        "metin": "25"
       },
       {
         "anahtar": "B",
-        "metin": "9"
+        "metin": "30"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "35"
       },
       {
         "anahtar": "D",
-        "metin": "11"
+        "metin": "40"
       },
       {
         "anahtar": "E",
-        "metin": "12"
+        "metin": "45"
       }
     ],
-    "dogruCevap": "B",
+    "dogruCevap": "D",
     "aciklama": {
       "netOzet": "2025 ÖSYM KPSS Lisans Genel Yetenek 57. sorunun resmi doğru cevabı B seçeneğidir.",
       "secenekDetaylari": {
@@ -2574,27 +2574,27 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 58)\nABC üçgen\nB, D, E, C doğrusal\nm(ADC) = 70'\nm(AEB) = 80\nÖsw\nm(ABC) = x\nB\nD\n70\n80\nJAEI = ECI\nABI = IDCI\nYukarıdaki verilere göre\nkaç derecedir?",
+    "soruMetni": "(2025 KPSS GY - Soru 58)\nABCD eşkenar dörtgen, D, C, E doğrusal\n$$[AE] \\cap [BD] = \\{F\\}$$\n$$|DC| = |CE|, \\quad |AB| = 10\\text{ birim}, \\quad |BF| = 4\\text{ birim}, \\quad |BE| = x$$\n\nYukarıdaki verilere göre $x$ kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "25"
+        "metin": "10"
       },
       {
         "anahtar": "B",
-        "metin": "30"
+        "metin": "12"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "14"
       },
       {
         "anahtar": "D",
-        "metin": "40"
+        "metin": "16"
       },
       {
         "anahtar": "E",
-        "metin": "45"
+        "metin": "18"
       }
     ],
     "dogruCevap": "D",
@@ -2619,30 +2619,30 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 59)\nABCD eşkenar\ndörtgen\nE\nD",
+    "soruMetni": "(2025 KPSS GY - Soru 59)\nABCD kare, KLMB kare, A, B, M doğrusal\n$$|DC| = x$$\nBoyalı ALMD dörtgeninin alanı 32 birimkare olduğuna göre $x$ kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "10"
+        "metin": "4"
       },
       {
         "anahtar": "B",
-        "metin": "12"
+        "metin": "4,5"
       },
       {
         "anahtar": "C",
-        "metin": "Edoğrusal"
+        "metin": "5"
       },
       {
         "anahtar": "D",
-        "metin": "16"
+        "metin": "5,5"
       },
       {
         "anahtar": "E",
-        "metin": "18"
+        "metin": "6"
       }
     ],
-    "dogruCevap": "D",
+    "dogruCevap": "C",
     "aciklama": {
       "netOzet": "2025 ÖSYM KPSS Lisans Genel Yetenek 59. sorunun resmi doğru cevabı D seçeneğidir.",
       "secenekDetaylari": {
@@ -2664,30 +2664,30 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GY - Soru 60)\nABCD kare\nKLMB kare\nMM A",
+    "soruMetni": "(2025 KPSS GY - Soru 60)\n$[AB]$ çaplı çember, A, F, E, B doğrusal, $AB \\perp CD$\n$$|AF| = 2\\text{ birim}, \\quad |FE| = |EB| = 4\\text{ birim}, \\quad |EK| = x$$\nŞekilde C, D ve K noktaları çemberin üzerindedir.\n\nBuna göre $x$ kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "4"
+        "metin": "$$\\sqrt{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "4,5"
+        "metin": "$$2\\sqrt{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$2\\sqrt{2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "5,5"
+        "metin": "$$3\\sqrt{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "6"
+        "metin": "$$4\\sqrt{2}$$"
       }
     ],
-    "dogruCevap": "C",
+    "dogruCevap": "D",
     "aciklama": {
       "netOzet": "2025 ÖSYM KPSS Lisans Genel Yetenek 60. sorunun resmi doğru cevabı C seçeneğidir.",
       "secenekDetaylari": {
@@ -2709,30 +2709,30 @@
     "brans": "Tarih",
     "bransSoruNo": 1,
     "konu": "Tarih (ÖSYM Çıkmış)",
-    "soruMetni": "(2025 KPSS GK - Soru 1)\n[AB] çaplı çember",
+    "soruMetni": "(2025 KPSS GK - Soru 1)\nBilge Kağan’ın Çin’de olduğu gibi ülkesinde de savunma amacıyla şehirleri surlarla çevirtmek, hisarlar yaptırmak istemesine Tonyukuk \"Bunlar olmamalı. Biz ömrünü sulu ve otlu bozkırlarda geçiren bir milletiz. Bu hayat bizi daima bir harbe hazır tutar. Göktürklerin sayısı Çinlilerin yüzde biri bile değildir. Başarılarımız yaşayış tarzımızdan ileri gelir. Kuvvetli zamanlarımızda ordular sevk eder, akınlar yaparız. Zayıf isek bozkırlara çekilir, mücadele ederiz. Eğer kale ve surlar içine kapanırsak Tang orduları bizi kuşatır, ülkemizi kolayca istila eder.\" diyerek itiraz etmiştir.\n\nBuna göre aşağıdakilerden hangisi söylenemez?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "13"
+        "metin": "Hükümdarın mutlak otoritesini kaybettiği"
       },
       {
         "anahtar": "B",
-        "metin": "2v5"
+        "metin": "Göktürklerin nüfusunun Çinlilerden az olduğu"
       },
       {
         "anahtar": "C",
-        "metin": "C seçeneği"
+        "metin": "Bilge Kağan’ın saldırılara karşı ülkesini korumak istediği"
       },
       {
         "anahtar": "D",
-        "metin": "3v2"
+        "metin": "Yaşam şekillerinin savaşa hazırlıklı olmalarında etkisinin olduğu"
       },
       {
         "anahtar": "E",
-        "metin": "4v2"
+        "metin": "Savaş koşullarını içinde bulundukları şartların belirlediği"
       }
     ],
-    "dogruCevap": "D",
+    "dogruCevap": "A",
     "aciklama": {
       "netOzet": "2025 ÖSYM KPSS Lisans Genel Kültür 1. sorunun resmi doğru cevabı D seçeneğidir.",
       "secenekDetaylari": {

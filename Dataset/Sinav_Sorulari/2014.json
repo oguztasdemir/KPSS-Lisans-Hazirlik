@@ -74,7 +74,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "hazırlığını yaptığı – önemli kısmının – tanıtılıyor\nTESTİ\nkısmına işaretleyiniz."
+        "metin": "hazırlığını yaptığı – önemli kısmının – tanıtılıyor"
       }
     ],
     "dogruCevap": "C",
@@ -164,7 +164,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V. cümlede, beklenmeyen bir sonuç dile getirilmiştir.\n2014 - KPSS / GY-CS"
+        "metin": "V. cümlede, beklenmeyen bir sonuç dile getirilmiştir."
       }
     ],
     "dogruCevap": "E",
@@ -344,7 +344,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Bana yadigârın kaldı âlemde\nKırılmış bir ney ki son yoldaşımdır!\n2014 - KPSS / GY-CS"
+        "metin": "Bana yadigârın kaldı âlemde\nKırılmış bir ney ki son yoldaşımdır!"
       }
     ],
     "dogruCevap": "A",
@@ -524,7 +524,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Cam üfleme ustaları sıcak, erimiş cam madenini\nkeser; içine borudan hava üfleyerek şekillendirir.\n2014 - KPSS / GY-CS"
+        "metin": "Cam üfleme ustaları sıcak, erimiş cam madenini\nkeser; içine borudan hava üfleyerek şekillendirir."
       }
     ],
     "dogruCevap": "E",
@@ -704,7 +704,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "İşte bu sebeple anlatıcı, anlatırken kahramanları\ntazelemelidir\n2014 - KPSS / GY-CS"
+        "metin": "İşte bu sebeple anlatıcı, anlatırken kahramanları\ntazelemelidir"
       }
     ],
     "dogruCevap": "D",
@@ -839,7 +839,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Karşılaştırmalı çalışmaların güvenilirliği artırdığına\n2014 - KPSS / GY-CS"
+        "metin": "Karşılaştırmalı çalışmaların güvenilirliği artırdığına"
       }
     ],
     "dogruCevap": "B",
@@ -1019,7 +1019,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Karşılaştırma yapılmıştır.\n2014 - KPSS / GY-CS"
+        "metin": "Karşılaştırma yapılmıştır."
       }
     ],
     "dogruCevap": "D",
@@ -1154,7 +1154,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Zırhlı araçların yaygınlaşması\n2014 - KPSS / GY-CS"
+        "metin": "Zırhlı araçların yaygınlaşması"
       }
     ],
     "dogruCevap": "C",
@@ -1334,7 +1334,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Hakan ile Cemre, farklı porsiyonlarda yemek sipariş\netmişlerdir.\n2014 - KPSS / GY-CS"
+        "metin": "Hakan ile Cemre, farklı porsiyonlarda yemek sipariş\netmişlerdir."
       }
     ],
     "dogruCevap": "A",
@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 31)\n$$\\frac{2}{\\frac{1}{3} - \\frac{1}{4}}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 31)\n$$\\frac{1 + 3^{-1} + 5^{-1}}{2^{-1} + 4^{-1} + 6^{-1}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "12"
+        "metin": "$$\\frac{92}{55}$$"
       },
       {
         "anahtar": "B",
-        "metin": "18"
+        "metin": "$$\\frac{86}{55}$$"
       },
       {
         "anahtar": "C",
-        "metin": "24"
+        "metin": "$$\\frac{84}{55}$$"
       },
       {
         "anahtar": "D",
-        "metin": "30"
+        "metin": "$$\\frac{94}{55}$$"
       },
       {
         "anahtar": "E",
-        "metin": "36"
+        "metin": "$$\\frac{96}{55}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1404,27 +1404,27 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 32)\n$$\\sqrt{0,64} + \\sqrt{0,36} - \\sqrt{0,04}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 32)\n$$\\frac{0,4 - 0,08}{1 - \\sqrt[3]{0,008}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1,2"
+        "metin": "$$\\frac{1}{5}$$"
       },
       {
         "anahtar": "B",
-        "metin": "1,4"
+        "metin": "$$\\frac{2}{5}$$"
       },
       {
         "anahtar": "C",
-        "metin": "1,6"
+        "metin": "$$\\frac{3}{5}$$"
       },
       {
         "anahtar": "D",
-        "metin": "1,8"
+        "metin": "$$\\frac{4}{5}$$"
       },
       {
         "anahtar": "E",
-        "metin": "2,0"
+        "metin": "$$1$$"
       }
     ],
     "dogruCevap": "B",
@@ -1449,27 +1449,27 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 33)\nolduğuna göre, x kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 33)\n$$(4\\sqrt{8})^{3x} = \\frac{8^x}{32}$$\n\nolduğuna göre, $x$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{3}{4}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{2}{5}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$-\\frac{1}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$-\\frac{2}{3}$$"
       }
     ],
     "dogruCevap": "E",
@@ -1494,27 +1494,27 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 34)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 34)\n$$|\\sqrt{3} - 2| + |1 - \\sqrt{2}| + |\\sqrt{3} - \\sqrt{2}|$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\sqrt{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\sqrt{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$2\\sqrt{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$1$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n9\nÖSYM"
+        "metin": "$$3$$"
       }
     ],
     "dogruCevap": "D",
@@ -1539,27 +1539,27 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 35)\nifadesinin sadeleştirilmiş biçimi aşağıdakilerden\nhangisidir?",
+    "soruMetni": "(2014 KPSS GY - Soru 35)\n$$\\frac{x-2}{x^2+x} \\cdot \\left(x - \\frac{3x^2}{x^2-4}\\right)$$\n\nifadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{x-4}{x+2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{x-1}{x+2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{x+1}{x+2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{x}{x-2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\frac{x+4}{x-2}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 36)\nGerçel sayılar kümesi üzerinde işlemi\nbiçiminde tanımlanıyor.\nBuna göre,\neşitliklerini sağlayan a ve b değerleri için farkı\nkaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 36)\nGerçel sayılar kümesi üzerinde $\\odot$ işlemi\n$$x \\odot y = x^2 + y^2$$\nbiçiminde tanımlanıyor.\n\nBuna göre,\n$$3 \\odot a = b \\odot 5$$\n$$a + b = 2$$\neşitliklerini sağlayan $a$ ve $b$ değerleri için $a - b$ farkı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$2$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$4$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$8$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "X ve Y kümelerinin simetrik farkı\nbiçiminde tanımlanır.\nBuna göre, boş kümeden ve birbirinden farklı K, L\nkümeleri için\nifadesi aşağıdakilerden hangisine eşittir?\nK\nL\nÜç basamaklı ABC doğal sayısı iki basamaklı BC doğal\nsayısının 21 katına eşittir.\nBuna göre, bu koşula uyan en büyük ABC sayısının\nrakamları toplamı kaçtır?\n15\n16\n17\n18\n19"
+        "metin": "$$\\frac{1}{4}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1629,27 +1629,27 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 37)\nX ve Y kümelerinin simetrik farkı\nbiçiminde tanımlanır.\nBuna göre, boş kümeden ve birbirinden farklı K, L\nkümeleri için\nifadesi aşağıdakilerden hangisine eşittir?",
+    "soruMetni": "(2014 KPSS GY - Soru 37)\n$X$ ve $Y$ kümelerinin simetrik farkı\n$$X \\Delta Y = (X \\setminus Y) \\cup (Y \\setminus X)$$\nbiçiminde tanımlanır.\n\nBuna göre, boş kümeden ve birbirinden farklı $K, L$ kümeleri için\n$$\\big[K \\setminus (K \\Delta L)\\big] \\cup \\big[(K \\Delta L) \\cap L\\big]$$\nifadesi aşağıdakilerden hangisine eşittir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$K$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$L$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$\\emptyset$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$K \\cap L$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$K \\cup L$"
       }
     ],
     "dogruCevap": "B",
@@ -1674,7 +1674,7 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 38)\nÜç basamaklı ABC doğal sayısı iki basamaklı BC doğal\nsayısının 21 katına eşittir.\nBuna göre, bu koşula uyan en büyük ABC sayısının\nrakamları toplamı kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 38)\nÜç basamaklı ABC doğal sayısı iki basamaklı BC doğal sayısının 21 katına eşittir.\n\nBuna göre, bu koşula uyan <u>en büyük</u> ABC sayısının rakamları toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1694,7 +1694,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "19\n2014 - KPSS / GY-CS"
+        "metin": "19"
       }
     ],
     "dogruCevap": "D",
@@ -1719,7 +1719,7 @@
     "brans": "Matematik",
     "bransSoruNo": 9,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 39)\nx ve y pozitif tam sayılar olmak üzere,\neşitliğini sağlayan x değerlerinin toplamı kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 39)\n$x$ ve $y$ pozitif tam sayılar olmak üzere,\n$$xy + 3y = 12$$\neşitliğini sağlayan $x$ değerlerinin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 40)\nolduğuna göre,\nifadesinin değeri kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 40)\n$$24^x = 5 \\text{ olduğuna göre,}$$\n$$\\frac{2^{x+2} \\cdot 3^{x+3}}{4^{1-x}}$$\n\\text{ifadesinin değeri kaçtır?}",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1809,27 +1809,27 @@
     "brans": "Matematik",
     "bransSoruNo": 11,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 41)\neşitsizliklerini sağlayan a, b ve c gerçel sayıları için\naşağıdakilerden hangisi doğrudur?",
+    "soruMetni": "(2014 KPSS GY - Soru 41)\n$$a - b < 0$$\n$$\\frac{a}{b} < c$$\n$$bc^2 < 0$$\neşitsizliklerini sağlayan $a, b$ ve $c$ gerçel sayıları için aşağıdakilerden hangisi doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{ab}{c} < 0$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$abc < 0$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{a}{b-c} < 0$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{a+b}{c} < 0$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$ab + c < 0$$"
       }
     ],
     "dogruCevap": "D",
@@ -1854,7 +1854,7 @@
     "brans": "Matematik",
     "bransSoruNo": 12,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 42)\na, b gerçel sayılar ve\nolduğuna göre, kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 42)\n$a, b$ gerçel sayılar ve\n$$f(x) = \\frac{ax + b}{2}$$\n$$f(0) = 2$$\n$$f(f(0)) = 6$$\nolduğuna göre, $f(8)$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1874,7 +1874,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "18\n2014 - KPSS / GY-CS"
+        "metin": "18"
       }
     ],
     "dogruCevap": "E",
@@ -1899,7 +1899,7 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 43)\nBir pazarcı elindeki patateslerin ’ünü 4 kilogramı\n3 TL’den, kalanları ise 3 kilogramı 2 TL’den satıp toplam\n500 TL elde ediyor.\nBuna göre, pazarcı kaç kilogram patates satmıştır?",
+    "soruMetni": "(2014 KPSS GY - Soru 43)\nBir pazarcı elindeki patateslerin $$\\frac{1}{3}$$'ünü 4 kilogramı 3 TL'den, kalanları ise 3 kilogramı 2 TL'den satıp toplam 500 TL elde ediyor.\n\nBuna göre, pazarcı kaç kilogram patates satmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2054,7 +2054,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "42\n2014 - KPSS / GY-CS"
+        "metin": "42"
       }
     ],
     "dogruCevap": "B",
@@ -2234,7 +2234,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "15\n2014 - KPSS / GY-CS"
+        "metin": "15"
       }
     ],
     "dogruCevap": "D",
@@ -2304,27 +2304,27 @@
     "brans": "Matematik",
     "bransSoruNo": 22,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 52)\nHilesiz bir zar 3 defa atıldığında zarın üst yüzüne\ngelen sayıların toplamının 16 olma olasılığı kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 52)\nHilesiz bir zar 3 defa atıldığında zarın üst yüzüne gelen sayıların toplamının 16 olma olasılığı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{9}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{1}{12}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{1}{18}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{1}{24}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Bir çocuk kırmızı, mavi ve beyaz renkli özdeş küpler\nkullanarak aşağıda tarif edilen biçimde bir yapı\noluşturuyor.\n\n75 küpü yan yana dizerek birinci katı oluşturuyor.\nBirinci katın üzerine yan yana 73 küp koyarak\nikinci katı, ikinci katın üzerine yan yana 67 küp\nkoyarak üçüncü katı ve bundan sonraki her katta\nbir önceki katta kullandığı küp sayısından 6 tane\ndaha az küp kullanarak diğer katları oluşturuyor.\n\nBirinci katta kırmızı, ikinci katta mavi, üçüncü katta\nbeyaz küpler kullanarak üstteki diğer katlarda da\naynı renk düzenini tekrar ediyor.\nBu yapının onuncu katında kaç küp vardır?\n19\n22\n25\n28\n31\nBu çocuk mümkün olan en çok katlı yapıyı\noluşturduğuna göre,  toplam kaç mavi renkli küp\nkullanmıştır?\n181\n183\n185\n187\n189"
+        "metin": "$$\\frac{1}{36}$$"
       }
     ],
     "dogruCevap": "E",
@@ -2349,7 +2349,7 @@
     "brans": "Matematik",
     "bransSoruNo": 23,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 53)\n- 54. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\nBir çocuk kırmızı, mavi ve beyaz renkli özdeş küpler\nkullanarak aşağıda tarif edilen biçimde bir yapı\noluşturuyor.\n 75 küpü yan yana dizerek birinci katı oluşturuyor.\nBirinci katın üzerine yan yana 73 küp koyarak\nikinci katı, ikinci katın üzerine yan yana 67 küp\nkoyarak üçüncü katı ve bundan sonraki her katta\nbir önceki katta kullandığı küp sayısından 6 tane\ndaha az küp kullanarak diğer katları oluşturuyor.\n Birinci katta kırmızı, ikinci katta mavi, üçüncü katta\nbeyaz küpler kullanarak üstteki diğer katlarda da\naynı renk düzenini tekrar ediyor.\n53. Bu yapının onuncu katında kaç küp vardır?",
+    "soruMetni": "(2014 KPSS GY - Soru 53)\n53. - 54. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBir çocuk kırmızı, mavi ve beyaz renkli özdeş küpler kullanarak aşağıda tarif edilen biçimde bir yapı oluşturuyor:\n• 75 küpü yan yana dizerek birinci katı oluşturuyor. Birinci katın üzerine yan yana 73 küp koyarak ikinci katı, ikinci katın üzerine yan yana 67 küp koyarak üçüncü katı ve bundan sonraki her katta bir önceki katta kullandığı küp sayısından 6 tane daha az küp kullanarak diğer katları oluşturuyor.\n• Birinci katta kırmızı, ikinci katta mavi, üçüncü katta beyaz küpler kullanarak üstteki diğer katlarda da aynı renk düzenini tekrar ediyor.\n\nBu yapının onuncu katında kaç küp vardır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2394,7 +2394,7 @@
     "brans": "Matematik",
     "bransSoruNo": 24,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 54)\nBu çocuk mümkün olan en çok katlı yapıyı\noluşturduğuna göre, toplam kaç mavi renkli küp\nkullanmıştır?",
+    "soruMetni": "(2014 KPSS GY - Soru 54)\n53. - 54. soruları bilgilere göre cevaplayınız.\n\nBu çocuk mümkün olan en çok katlı yapıyı oluşturduğuna göre, toplam kaç mavi renkli küp kullanmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2414,7 +2414,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "189\n2014 - KPSS / GY-CS"
+        "metin": "189"
       }
     ],
     "dogruCevap": "C",
@@ -2439,7 +2439,7 @@
     "brans": "Matematik",
     "bransSoruNo": 25,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 55)\nBu okul arazisinde yeşil alan için ayrılan bölge, oyun\nalanı için ayrılan bölgeden 720 daha büyük\nolduğuna göre, spor alanı için ayrılan bölge kaç\ndir?",
+    "soruMetni": "(2014 KPSS GY - Soru 55)\n55. - 56. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBir okul arazisinin alan dağılımı daire grafiğinde gösterilmiştir:\n• Yeşil Alan: 135°\n• Oyun Alanı: 90°\n• Spor Alanı: 70°\n• Binalar: 65°\n\nBu okul arazisinde yeşil alan için ayrılan bölge, oyun alanı için ayrılan bölgeden $720\\text{ m}^2$ daha büyük olduğuna göre, spor alanı için ayrılan bölge kaç $\\text{m}^2$ dir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2484,7 +2484,7 @@
     "brans": "Matematik",
     "bransSoruNo": 26,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 56)\nSpor alanının ’u ve oyun alanının ’i\nkullanılarak kapalı spor salonu binası yapıldığında;\nbinaların toplam alanı, okul arazisinin yüzde kaçını\noluşturur?",
+    "soruMetni": "(2014 KPSS GY - Soru 56)\n55. - 56. soruları bilgilere göre cevaplayınız.\n\nSpor alanının $$\\frac{1}{10}$$'u ve oyun alanının $$\\frac{2}{5}$$'i kullanılarak kapalı spor salonu binası yapıldığında; binaların toplam alanı, okul arazisinin yüzde kaçını oluşturur?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2574,27 +2574,27 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 58)\nABCD bir dikdörtgen\nYukarıdaki verilere göre, oranı kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 58)\nABCD bir dikdörtgen,\n$$2|DE| = |EC|$$\n$$[AE] \\perp [EB]$$\n$$[AF] \\perp [FC]$$\n\nYukarıdaki verilere göre, $$\\frac{|EB|}{|FC|}$$ oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{3}{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{4\\sqrt{2}}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{5}{4}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\sqrt{5}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n15\nÖSYM"
+        "metin": "$$\\sqrt{6}$$"
       }
     ],
     "dogruCevap": "A",
@@ -2619,27 +2619,27 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 59)\nKenar uzunluğu 1 birim olan yedi tane düzgün altıgen\nşekildeki gibi birleştiriliyor. A, B, C, D, E ve F\nnoktalarından geçen çember çiziliyor.\nBuna göre, boyalı alanların toplamı kaç birim\nkaredir?",
+    "soruMetni": "(2014 KPSS GY - Soru 59)\nKenar uzunluğu 1 birim olan yedi tane düzgün altıgen şekildeki gibi birleştiriliyor. A, B, C, D, E ve F noktalarından geçen çember çiziliyor.\n\nBuna göre, boyalı alanların toplamı kaç birim karedir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$2\\pi - \\frac{\\sqrt{3}}{4}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$2\\pi - \\frac{3\\sqrt{3}}{4}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\pi - \\frac{3\\sqrt{3}}{4}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$2\\pi - \\frac{\\sqrt{3}}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\pi - \\frac{\\sqrt{3}}{2}$$"
       }
     ],
     "dogruCevap": "B",
@@ -2664,27 +2664,27 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2014 KPSS GY - Soru 60)\nDik koordinat düzleminde verilen ve doğruları\nnoktasında kesişmektedir.\ndoğrusu x-eksenini noktasında kestiğine\ngöre, toplamı kaçtır?",
+    "soruMetni": "(2014 KPSS GY - Soru 60)\nDik koordinat düzleminde verilen $d_1$ ve $d_2$ doğruları $A(a, 6)$ noktasında kesişmektedir.\n$d_2$ doğrusu eksenleri $(2, 0)$ ve $(0, -2)$ noktalarında kesmektedir ($x$ ekseniyle $135^\\circ$ açı).\n$d_1$ doğrusu $x$-eksenini $B(b, 0)$ noktasında kestiğine göre, $a + b$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "-5"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "-4"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "-3"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$-\\frac{9}{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "GENEL YETENEK TESTİ BİTTİ.\nGENEL KÜLTÜR TESTİNE GEÇİNİZ.\n16\nÖSYM"
+        "metin": "$$-\\frac{7}{2}$$"
       }
     ],
     "dogruCevap": "A",
@@ -2819,7 +2819,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Karakoyunlu\nTESTİ\nkısmına işaretleyiniz."
+        "metin": "Karakoyunlu"
       }
     ],
     "dogruCevap": "C",
@@ -5114,7 +5114,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n14\nÖSYM"
+        "metin": ""
       }
     ],
     "dogruCevap": "D",

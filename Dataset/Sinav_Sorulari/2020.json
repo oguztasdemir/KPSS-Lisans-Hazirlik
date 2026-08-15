@@ -9,7 +9,7 @@
     "brans": "Türkçe",
     "bransSoruNo": 1,
     "konu": "Türkçe (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 1)\n2020-KPSS/GY-PS GENEL YETENEK",
+    "soruMetni": "(2020 KPSS GY - Soru 1)\n GENEL YETENEK",
     "secenekler": [
       {
         "anahtar": "A",
@@ -119,7 +119,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Stephen King’in kendi çocukluğunu anlattığı maceradram türündeki The Body adlı romanının sinemaya\nStand By Me adıyla uyarlanması, onun korku romanı\ntüründeki eserlerinin diğer yazarlarınkinden farklı\nolduğuna işaret etmektedir.\n2020-KPSS/GY-PS"
+        "metin": "Stephen King’in kendi çocukluğunu anlattığı maceradram türündeki The Body adlı romanının sinemaya\nStand By Me adıyla uyarlanması, onun korku romanı\ntüründeki eserlerinin diğer yazarlarınkinden farklı\nolduğuna işaret etmektedir."
       }
     ],
     "dogruCevap": "D",
@@ -299,7 +299,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Ünlü türemesi\n2020-KPSS/GY-PS"
+        "metin": "Ünlü türemesi"
       }
     ],
     "dogruCevap": "D",
@@ -479,7 +479,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V\n2020-KPSS/GY-PS"
+        "metin": "V"
       }
     ],
     "dogruCevap": "C",
@@ -659,7 +659,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "III ve V\n2020-KPSS/GY-PS"
+        "metin": "III ve V"
       }
     ],
     "dogruCevap": "A",
@@ -749,7 +749,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Algılama, neden-sonuç üretme ve depolama işlevlerini\nüstlenir.\n2020-KPSS/GY-PS"
+        "metin": "Algılama, neden-sonuç üretme ve depolama işlevlerini\nüstlenir."
       }
     ],
     "dogruCevap": "C",
@@ -839,7 +839,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Kişi, kendi sevgisinin karşısındakinden daha güçlü\nolduğu inancındadır.\n2020-KPSS/GY-PS"
+        "metin": "Kişi, kendi sevgisinin karşısındakinden daha güçlü\nolduğu inancındadır."
       }
     ],
     "dogruCevap": "D",
@@ -929,7 +929,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Müzelerdeki önemli eserleri taklit ederek bu eserlerin\nulaşılabilir olduklarını göstermiştir.\n2020-KPSS/GY-PS"
+        "metin": "Müzelerdeki önemli eserleri taklit ederek bu eserlerin\nulaşılabilir olduklarını göstermiştir."
       }
     ],
     "dogruCevap": "A",
@@ -1019,7 +1019,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Sosyal alanda insan eylemlerinin hem belirleyicisi hem\nsonucu olması\n2020-KPSS/GY-PS"
+        "metin": "Sosyal alanda insan eylemlerinin hem belirleyicisi hem\nsonucu olması"
       }
     ],
     "dogruCevap": "E",
@@ -1154,7 +1154,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Maddi değerinin belirlenmesinde ticari unsurların\nrolüne\n2020-KPSS/GY-PS"
+        "metin": "Maddi değerinin belirlenmesinde ticari unsurların\nrolüne"
       }
     ],
     "dogruCevap": "C",
@@ -1334,7 +1334,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Caner ve Emin’in şikâyetlerinin aynı olduğunun\n2020-KPSS/GY-PS"
+        "metin": "Caner ve Emin’in şikâyetlerinin aynı olduğunun"
       }
     ],
     "dogruCevap": "E",
@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 31)\n$$\\frac{1 - \\frac{1}{2}}{\\frac{1}{3} + \\frac{1}{6}}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 31)\n$$\\frac{1}{\\left(8 - \\frac{37}{8}\\right)} \\cdot \\frac{9}{2}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1/2"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "1"
+        "metin": "$$\\frac{2}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3/2"
+        "metin": "$$\\frac{4}{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "2"
+        "metin": "$$\\frac{5}{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "3"
+        "metin": "$$\\frac{7}{3}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1404,7 +1404,7 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 32)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 32)\n$$\\frac{12^8 - 24^6}{48^4}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1449,27 +1449,27 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 33)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 33)\n$$\\frac{\\sqrt{40} - \\sqrt{14,4}}{\\sqrt{1,6}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
-      },
-      {
-        "anahtar": "B",
         "metin": "2"
       },
       {
-        "anahtar": "C",
+        "anahtar": "B",
         "metin": "3"
       },
       {
-        "anahtar": "D",
+        "anahtar": "C",
         "metin": "4"
       },
       {
-        "anahtar": "E",
+        "anahtar": "D",
         "metin": "5"
+      },
+      {
+        "anahtar": "E",
+        "metin": "6"
       }
     ],
     "dogruCevap": "A",
@@ -1494,7 +1494,7 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 34)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 34)\n$$\\frac{5 \\cdot 5! - 4 \\cdot 4!}{3 \\cdot 3! - 2 \\cdot 2!}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1514,7 +1514,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "44\n2020-KPSS/GY-PS"
+        "metin": "44"
       }
     ],
     "dogruCevap": "C",
@@ -1539,7 +1539,7 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 35)\nolduğuna göre, çarpımı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 35)\n  AAA5\n   4BB\n+   C3\n------\n  6104\n\nolduğuna göre, $A \\cdot B \\cdot C$ çarpımı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 36)\na pozitif bir tam sayı olmak üzere,\nifadesi bir tek doğal sayıya eşittir.\nBuna göre, bu koşulu sağlayan a değerlerinin\ntoplamı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 36)\n$a$ pozitif bir tam sayı olmak üzere,\n$$\\frac{6a + 18}{a}$$\nifadesi bir tek doğal sayıya eşittir.\n\nBuna göre, bu koşulu sağlayan $a$ değerlerinin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "20"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "22"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "24"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "26"
       },
       {
         "anahtar": "E",
-        "metin": "olduğuna göre, aşağıdaki sıralamalardan hangisi\ndoğrudur?\nx gerçel sayısı için\nolduğuna göre, \nifadesinin alabileceği tam\nsayı değerlerinin toplamı kaçtır?\n27\n29\n31\n33\n35"
+        "metin": "28"
       }
     ],
     "dogruCevap": "D",
@@ -1629,27 +1629,27 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 37)\nolduğuna göre, aşağıdaki sıralamalardan hangisi\ndoğrudur?",
+    "soruMetni": "(2020 KPSS GY - Soru 37)\n$$a = 3^8$$\n$$b = 4^7$$\n$$c = 5^6$$\nolduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$a < b < c$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$a < c < b$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$b < c < a$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$c < a < b$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$c < b < a$"
       }
     ],
     "dogruCevap": "B",
@@ -1674,7 +1674,7 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 38)\nx gerçel sayısı için\nolduğuna göre, ifadesinin alabileceği tam\nsayı değerlerinin toplamı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 38)\n$x$ gerçel sayısı için\n$$1 < |2x - 7| < 5$$\nolduğuna göre, $1 - 3x$ ifadesinin alabileceği tam sayı değerlerinin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1694,10 +1694,10 @@
       },
       {
         "anahtar": "E",
-        "metin": "35\n2020-KPSS/GY-PS"
+        "metin": "35"
       }
     ],
-    "dogruCevap": "B",
+    "dogruCevap": "E",
     "aciklama": {
       "netOzet": "2020 ÖSYM KPSS Lisans Genel Yetenek 38. sorunun resmi doğru cevabı B seçeneğidir.",
       "secenekDetaylari": {
@@ -1719,7 +1719,7 @@
     "brans": "Matematik",
     "bransSoruNo": 9,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 39)\nx ve y gerçel sayıları için\nolduğuna göre, toplamı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 39)\n$x$ ve $y$ gerçel sayıları için\n$$2^x = 4^y$$\n$$2^{x+1} + 4^{y+1} = 96$$\nolduğuna göre, $x + y$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 40)\nBirbirinden farklı pozitif x ve y gerçel sayıları için\nolduğuna göre, çarpımı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 40)\nBirbirinden farklı pozitif $x$ ve $y$ gerçel sayıları için\n$$\\frac{x^2 - y^2}{\\sqrt{x} - \\sqrt{y}} = 40$$\n$$x + y = 10$$\nolduğuna göre, $x \\cdot y$ çarpımı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1809,27 +1809,27 @@
     "brans": "Matematik",
     "bransSoruNo": 11,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 41)\nx bir tam sayı olmak üzere,\neşitsizliğini sağlayan x değerlerinin toplamı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 41)\n$x$ bir tam sayı olmak üzere,\n$$\\frac{1}{3} < \\frac{|x| - x}{32} < \\frac{1}{2}$$\neşitsizliğini sağlayan $x$ değerlerinin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "-11"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "-13"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "-15"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "-17"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "-19"
       }
     ],
     "dogruCevap": "B",
@@ -1854,7 +1854,7 @@
     "brans": "Matematik",
     "bransSoruNo": 12,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 42)\nx bir tam sayı olmak üzere,\nifadesi bir asal sayıya eşittir.\nBuna göre, x’in alabileceği değerlerin toplamı\nkaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 42)\n$x$ bir tam sayı olmak üzere,\n$$|2x^2 - 5x - 7|$$\nifadesi bir asal sayıya eşittir.\n\nBuna göre, $x$'in alabileceği değerlerin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1874,7 +1874,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "10\n2020-KPSS/GY-PS"
+        "metin": "10"
       }
     ],
     "dogruCevap": "A",
@@ -1899,27 +1899,27 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 43)\nGerçel sayılar kümesi üzerinde bir f fonksiyonu\nbiçiminde tanımlanıyor.\nolduğuna göre, a gerçel sayısı\nkaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 43)\nGerçel sayılar kümesi üzerinde bir $f$ fonksiyonu\n$$f(x) = 3x - 4$$\nbiçiminde tanımlanıyor.\n$$(f \\circ f)(a) = 5 \\cdot f(a)$$\nolduğuna göre, $a$ gerçel sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{2}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{3}{4}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{4}{5}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\frac{5}{6}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1944,7 +1944,7 @@
     "brans": "Matematik",
     "bransSoruNo": 14,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 44)\nKolonya satılan bir dükkânda, bir hafta boyunca satılan\nlimon, lavanta ve gül kolonyalarından bazılarının\nmiktarları aşağıdaki dairesel grafikte gösterilmiştir.\nBuna göre, yukarıdaki grafikte gül kolonyasına\nkarşılık gelen daire diliminin merkez açısının ölçüsü\nkaç derecedir?",
+    "soruMetni": "(2020 KPSS GY - Soru 44)\nKolonya satılan bir dükkânda, bir hafta boyunca satılan limon, lavanta ve gül kolonyalarından bazılarının miktarları dairesel grafikte gösterilmiştir:\n• Lavanta: 40 litre ($120^\\circ$)\n• Limon: 56 litre\n• Gül: (kalan açı)\n\nBuna göre, grafikte gül kolonyasına karşılık gelen daire diliminin merkez açısının ölçüsü kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2054,7 +2054,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "112\n2020-KPSS/GY-PS"
+        "metin": "112"
       }
     ],
     "dogruCevap": "E",
@@ -2234,7 +2234,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "37\n2020-KPSS/GY-PS"
+        "metin": "37"
       }
     ],
     "dogruCevap": "A",
@@ -2259,27 +2259,27 @@
     "brans": "Matematik",
     "bransSoruNo": 21,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 51)\nBir öğretmen, yapacağı final sınavını anlattığı\n10 konudan rastgele 2’sini seçerek hazırlayacağını\nsınıfına söylemiştir. Bu sınıftaki öğrencilerden biri olan\nFigen, yeterli zamanı olmadığından bu 10 konudan\n7’sine çalışmıştır.\nFigen, sınava girmeden önce arkadaşlarına en büyük\nkorkusunun sınavdaki tüm soruların çalışmadığı\nyerlerden gelmesi olduğunu söylemiştir.\nBuna göre, Figen’in korktuğunun başına gelmesi\nolasılığı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 51)\nBir öğretmen, yapacağı final sınavını anlattığı 10 konudan rastgele 2’sini seçerek hazırlayacağını sınıfına söylemiştir. Bu sınıftaki öğrencilerden biri olan Figen, yeterli zamanı olmadığından bu 10 konudan 7’sine çalışmıştır.\nFigen, sınava girmeden önce arkadaşlarına en büyük korkusunun sınavdaki tüm soruların çalışmadığı yerlerden gelmesi olduğunu söylemiştir.\n\nBuna göre, Figen’in korktuğunun başına gelmesi olasılığı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{1}{5}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{1}{9}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{1}{10}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Bir torbada 1’den 35’e kadar olan doğal sayılarla\nnumaralandırılmış 35 top bulunmaktadır. Bu torbadan,\nçekilen top tekrar torbaya atılmamak şartıyla, 6 top\nçekiliyor. Çekilen topların numaraları, numaralar\narasında boşluk kalmayacak şekilde topların çekiliş\nsırasına göre bir kâğıda yan yana yazılıyor.\nÖrneğin çekilen 6 top sırasıyla 5, 12, 23, 32, 18 ve 34\nnumaralı toplar ise kâğıda 51223321834 sayısı\nyazılıyor.\nToplar çekildikten sonra kâğıda 252332252 sayısı\nyazıldığına göre, çekilen topların numaraları toplamı\nkaçtır?\n80\n84\n88\n92\n96\nToplar çekildikten sonra kâğıda 12222253AB2 sayısı\nyazılıyor.\nolduğuna göre, \nçarpımı kaçtır?\n0\n7\n12\n15\n16"
+        "metin": "$$\\frac{1}{15}$$"
       }
     ],
     "dogruCevap": "E",
@@ -2304,7 +2304,7 @@
     "brans": "Matematik",
     "bransSoruNo": 22,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 52)\n- 53. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\nBir torbada 1’den 35’e kadar olan doğal sayılarla\nnumaralandırılmış 35 top bulunmaktadır. Bu torbadan,\nçekilen top tekrar torbaya atılmamak şartıyla, 6 top\nçekiliyor. Çekilen topların numaraları, numaralar\narasında boşluk kalmayacak şekilde topların çekiliş\nsırasına göre bir kâğıda yan yana yazılıyor.\nÖrneğin çekilen 6 top sırasıyla 5, 12, 23, 32, 18 ve 34\nnumaralı toplar ise kâğıda 51223321834 sayısı\nyazılıyor.\n52. Toplar çekildikten sonra kâğıda 252332252 sayısı\nyazıldığına göre, çekilen topların numaraları toplamı\nkaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 52)\n52. - 53. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBir torbada 1’den 35’e kadar olan doğal sayılarla numaralandırılmış 35 top bulunmaktadır. Bu torbadan, çekilen top tekrar torbaya atılmamak şartıyla, 6 top çekiliyor. Çekilen topların numaraları, numaralar arasında boşluk kalmayacak şekilde topların çekiliş sırasına göre bir kâğıda yan yana yazılıyor.\nÖrneğin çekilen 6 top sırasıyla 5, 12, 23, 32, 18 ve 34 numaralı toplar ise kâğıda 51223321834 sayısı yazılıyor.\n\nToplar çekildikten sonra kâğıda 252332252 sayısı yazıldığına göre, çekilen topların numaraları toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2349,7 +2349,7 @@
     "brans": "Matematik",
     "bransSoruNo": 23,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 53)\nToplar çekildikten sonra kâğıda 12222253AB2 sayısı\nyazılıyor.\nolduğuna göre, çarpımı kaçtır?",
+    "soruMetni": "(2020 KPSS GY - Soru 53)\n52. - 53. soruları bilgilere göre cevaplayınız.\n\nToplar çekildikten sonra kâğıda 12222253AB2 sayısı yazılıyor.\n$A + B = 8$ olduğuna göre, $A \\cdot B$ çarpımı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2369,7 +2369,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "16\n2020-KPSS/GY-PS"
+        "metin": "16"
       }
     ],
     "dogruCevap": "D",
@@ -2529,7 +2529,7 @@
     "brans": "Matematik",
     "bransSoruNo": 27,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 57)\nŞekilde verilen D, E ve F noktaları ABC üçgeninin\nkenarları üzerindedir.\nBuna göre, x kaç derecedir?",
+    "soruMetni": "(2020 KPSS GY - Soru 57)\nABC dik üçgen, $AB \\perp AC$\n$$|BD| = |FD|$$\n$$|CD| = |CE|$$\n$$m(\\widehat{FDE}) = 27^\\circ$$\n$$m(\\widehat{ECD}) = x$$\n\nŞekilde verilen D, E ve F noktaları ABC üçgeninin kenarları üzerindedir.\n\nBuna göre, $x$ kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2574,27 +2574,27 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 58)\nYukarıdaki verilere göre, x kaç birimdir?",
+    "soruMetni": "(2020 KPSS GY - Soru 58)\nABCD kare, ALMC eşkenar dörtgen\nA, K, B, L doğrusal\n$$BC \\cap KM = \\{N\\}$$\n$$|AK| = |KB|$$\n$$|BN| = 3\\text{ birim}$$\n$$|CN| = x$$\n\nYukarıdaki verilere göre, $x$ kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$3\\sqrt{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$4\\sqrt{2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$5\\sqrt{2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$6\\sqrt{2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Şekilde verilen altıgenin iç açılarının ölçüsü birbirine\neşittir.\nBuna göre, altıgenin alanı kaç birimkaredir?\nŞekilde verilen C, D ve E noktaları çemberin\nüzerindedir.\nBuna göre, x kaç derecedir?\n10\n15\n20\n25\n30"
+        "metin": "$$7\\sqrt{2}$$"
       }
     ],
     "dogruCevap": "D",
@@ -2619,27 +2619,27 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 59)\nŞekilde verilen altıgenin iç açılarının ölçüsü birbirine\neşittir.\nBuna göre, altıgenin alanı kaç birimkaredir?",
+    "soruMetni": "(2020 KPSS GY - Soru 59)\nABCDEF altıgen\n$$|AB| = 6\\text{ birim}, \\quad |BC| = 2\\text{ birim}$$\n$$|CD| = 6\\text{ birim}, \\quad |DE| = 2\\text{ birim}$$\n$$|EF| = 6\\text{ birim}, \\quad |FA| = 2\\text{ birim}$$\n\nŞekilde verilen altıgenin iç açılarının ölçüsü birbirine eşittir.\n\nBuna göre, altıgenin alanı kaç birimkaredir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$21\\sqrt{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$22\\sqrt{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$23\\sqrt{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$24\\sqrt{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$25\\sqrt{3}$$"
       }
     ],
     "dogruCevap": "B",
@@ -2664,7 +2664,7 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2020 KPSS GY - Soru 60)\nŞekilde verilen C, D ve E noktaları çemberin\nüzerindedir.\nBuna göre, x kaç derecedir?",
+    "soruMetni": "(2020 KPSS GY - Soru 60)\n$[AB]$ çaplı çember,\n$$[DE] \\parallel [BC]$$\n$$m(\\widehat{ABD}) = 20^\\circ$$\n$$m(\\widehat{CBA}) = 30^\\circ$$\n$$m(\\widehat{DBE}) = x$$\n\nŞekilde verilen C, D ve E noktaları çemberin üzerindedir.\n\nBuna göre, $x$ kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",

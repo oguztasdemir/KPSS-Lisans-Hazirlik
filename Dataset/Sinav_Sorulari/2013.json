@@ -9,7 +9,7 @@
     "brans": "Türkçe",
     "bransSoruNo": 1,
     "konu": "Türkçe (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 1)\n2013 - KPSS / GY - CS GENEL YETENEK",
+    "soruMetni": "(2013 KPSS GY - Soru 1)\n GENEL YETENEK",
     "secenekler": [
       {
         "anahtar": "A",
@@ -74,7 +74,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "benimsediğini – eğiliminden\nTESTİ"
+        "metin": "benimsediğini – eğiliminden"
       }
     ],
     "dogruCevap": "B",
@@ -119,7 +119,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V\n2013 - KPSS / GY - CS"
+        "metin": "V"
       }
     ],
     "dogruCevap": "C",
@@ -299,7 +299,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V. cümlede, soruna ilişkin bir ayrıntı dile getirilmiştir.\n2013 - KPSS / GY - CS"
+        "metin": "V. cümlede, soruna ilişkin bir ayrıntı dile getirilmiştir."
       }
     ],
     "dogruCevap": "E",
@@ -479,7 +479,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V. sözcük, birleşik fiildir.\n2013 - KPSS / GY - CS"
+        "metin": "V. sözcük, birleşik fiildir."
       }
     ],
     "dogruCevap": "D",
@@ -659,7 +659,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Sıcaklığın, canlıların yaşam koşullarına etkisi\n2013 - KPSS / GY - CS"
+        "metin": "Sıcaklığın, canlıların yaşam koşullarına etkisi"
       }
     ],
     "dogruCevap": "C",
@@ -794,7 +794,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Tanık göstermeye başvurulmuştur.\n2013 - KPSS / GY - CS"
+        "metin": "Tanık göstermeye başvurulmuştur."
       }
     ],
     "dogruCevap": "E",
@@ -974,7 +974,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "VI\n2013 - KPSS / GY - CS"
+        "metin": "VI"
       }
     ],
     "dogruCevap": "B",
@@ -1064,7 +1064,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "VI ve VII\n2013 - KPSS / GY - CS"
+        "metin": "VI ve VII"
       }
     ],
     "dogruCevap": "E",
@@ -1199,7 +1199,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "VII\n2013 - KPSS / GY - CS"
+        "metin": "VII"
       }
     ],
     "dogruCevap": "E",
@@ -1334,7 +1334,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Zafer’in C vitamin değeri yüksekse Hasan ve Zafer’in\ntüm vitamin değerleri aynıdır.\n2013 - KPSS / GY - CS"
+        "metin": "Zafer’in C vitamin değeri yüksekse Hasan ve Zafer’in\ntüm vitamin değerleri aynıdır."
       }
     ],
     "dogruCevap": "D",
@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 31)\n$$\\frac{3 - \\frac{1}{2}}{1 + \\frac{1}{4}} \\cdot \\frac{2}{5}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 31)\n$$\\frac{3 \\cdot \\left(2 - \\frac{5}{6}\\right)}{4 \\cdot \\left(2 - \\frac{7}{8}\\right)}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1/2"
+        "metin": "$$\\frac{7}{11}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2/3"
+        "metin": "$$\\frac{9}{11}$$"
       },
       {
         "anahtar": "C",
-        "metin": "4/5"
+        "metin": "$$\\frac{7}{9}$$"
       },
       {
         "anahtar": "D",
-        "metin": "1"
+        "metin": "$$\\frac{10}{9}$$"
       },
       {
         "anahtar": "E",
-        "metin": "2"
+        "metin": "$$\\frac{13}{9}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1404,27 +1404,27 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 32)\n$$\\frac{\\sqrt{48} - \\sqrt{12}}{\\sqrt{27}}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 32)\n$$\\frac{1 + 10 + 100 + 1000}{0,001 + 0,01 + 0,1 + 1}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1/3"
+        "metin": "$$10^7$$"
       },
       {
         "anahtar": "B",
-        "metin": "2/3"
+        "metin": "$$10^6$$"
       },
       {
         "anahtar": "C",
-        "metin": "1/2"
+        "metin": "$$10^5$$"
       },
       {
         "anahtar": "D",
-        "metin": "1"
+        "metin": "$$10^4$$"
       },
       {
         "anahtar": "E",
-        "metin": "2"
+        "metin": "$$10^3$$"
       }
     ],
     "dogruCevap": "E",
@@ -1449,27 +1449,27 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 33)\n$$2^{x+1} + 2^{x+2} = 24$$\n\nolduğuna göre, x kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 33)\n$$\\frac{2^5 + 2^6 + 2^7 + 2^8}{2^{-5} + 2^{-6} + 2^{-7} + 2^{-8}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$2^7$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$2^{11}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$2^{13}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$2^{-9}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$2^{-12}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1494,27 +1494,27 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 34)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 34)\n$$\\frac{(4!)^2 + (3!)^2}{(4!)^2 - (3!)^2}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{19}{15}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{17}{15}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{13}{15}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{19}{12}$$"
       },
       {
         "anahtar": "E",
-        "metin": "2013 - KPSS / GY - CS"
+        "metin": "$$\\frac{13}{12}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1539,27 +1539,27 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 35)\neşitliğini sağlayan x değerlerinin toplamı kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 35)\n$$\\big| 3 - |x - 2| \\big| = 3$$\n\neşitliğini sağlayan $x$ değerlerinin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "B)\nC)\nE)\nD)\n1\n2\n3\nİki gerçel sayının çarpımı, bu sayılardan birine 2 eklenip\ndiğerinden 2 çıkarılmasıyla elde edilen sayıların\nçarpımından 6 fazladır.\nBuna göre, sayı doğrusu üzerinde bu iki sayı\narasındaki uzaklık kaçtır?\nA)"
+        "metin": "6"
       },
       {
         "anahtar": "B",
-        "metin": "2"
-      },
-      {
-        "anahtar": "C",
-        "metin": "3"
-      },
-      {
-        "anahtar": "D",
         "metin": "4"
       },
       {
+        "anahtar": "C",
+        "metin": "2"
+      },
+      {
+        "anahtar": "D",
+        "metin": "-8"
+      },
+      {
         "anahtar": "E",
-        "metin": "5\n4\n3\n2\n1"
+        "metin": "-10"
       }
     ],
     "dogruCevap": "A",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 36)\nifadesinin sadeleştirilmiş biçimi aşağıdakilerden\nhangisidir?",
+    "soruMetni": "(2013 KPSS GY - Soru 36)\n$$\\frac{a^4 - ab^3}{a^2 + ab + b^2} \\cdot \\frac{(a+b)^2}{a^4 - b^4}$$\n\nifadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "B)\nC)\nE)\nD)\n1\n2\n3\nİki gerçel sayının çarpımı, bu sayılardan birine 2 eklenip\ndiğerinden 2 çıkarılmasıyla elde edilen sayıların\nçarpımından 6 fazladır.\nBuna göre, sayı doğrusu üzerinde bu iki sayı\narasındaki uzaklık kaçtır?\nA)"
+        "metin": "$$\\frac{a-b}{(a+b)^2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{a-1}{(a+b)^2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{b(a-b)}{a^2+b^2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{a(a+b)}{a^2+b^2}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5\n4\n3\n2\n1"
+        "metin": "$$\\frac{a^2+b}{a^2+b^2}$$"
       }
     ],
     "dogruCevap": "D",
@@ -1629,15 +1629,15 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 37)\nPozitif gerçel sayılar kümesi üzerinde ve işlemleri\nbiçiminde tanımlanıyor.\nolduğuna göre, a kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 37)\nPozitif gerçel sayılar kümesi üzerinde $\\square$ ve $\\Delta$ işlemleri\n$$x \\ \\square \\ y = x \\cdot y + x$$\n$$x \\ \\Delta \\ y = \\frac{x}{y} + y$$\nbiçiminde tanımlanıyor.\n\n$$a \\ \\square \\ (a \\ \\Delta \\ 2) = 8$$\n\nolduğuna göre, $a$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{2}{3}$$"
       },
       {
         "anahtar": "C",
@@ -1674,7 +1674,7 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 38)\nİki gerçel sayının çarpımı, bu sayılardan birine 2 eklenip\ndiğerinden 2 çıkarılmasıyla elde edilen sayıların\nçarpımından 6 fazladır.\nBuna göre, sayı doğrusu üzerinde bu iki sayı\narasındaki uzaklık kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 38)\nİki gerçel sayının çarpımı, bu sayılardan birine 2 eklenip diğerinden 2 çıkarılmasıyla elde edilen sayıların çarpımından 6 fazladır.\n\nBuna göre, sayı doğrusu üzerinde bu iki sayı arasındaki uzaklık kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1694,7 +1694,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "1\n2013 - KPSS / GY - CS"
+        "metin": "1"
       }
     ],
     "dogruCevap": "E",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 40)\nx, y, z gerçel sayıları için\neşitsizliği veriliyor.\nBuna göre,\nI.\nII.\nIII.\nönermelerinden hangileri doğrudur?",
+    "soruMetni": "(2013 KPSS GY - Soru 40)\n$x, y, z$ gerçel sayıları için\n$$x y^3 z^5 > 0$$\neşitsizliği veriliyor.\n\nBuna göre,\nI. $x > 0 \\text{ ve } y < 0 \\text{ ise } z > 0$\nII. $x < 0 \\text{ ve } z < 0 \\text{ ise } y > 0$\nIII. $y > 0 \\text{ ve } z < 0 \\text{ ise } x < 0$\n\nönermelerinden hangileri doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1809,27 +1809,27 @@
     "brans": "Matematik",
     "bransSoruNo": 11,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 41)\nolduğuna göre, x kaçtır?",
+    "soruMetni": "(2013 KPSS GY - Soru 41)\n$$\\frac{1}{2 + \\sqrt{3}} + \\frac{1}{\\sqrt{3} + \\sqrt{2}} + \\frac{x}{\\sqrt{2} + 1} = 2$$\n\nolduğuna göre, $x$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "B)\nC)\nD)\nE)\nYatağan’da termik santral\nBursa’da otomotiv endüstrisi\nGiresun’da kâğıt endüstrisi\nKeçiborlu’da kükürt işletmesi\nAfyonkarahisar’da mermer işletmeciliği\nKaradeniz’in kıyı kesiminde yer alan Trabzon ve\nSamsun’un etki alanlarının geniş olmasında;\nI.\niklim özellikleri,\nII. nüfus özellikleri,\nIII. fonksiyonel özellikler,\nIV. yüz ölçümü\ngibi etmenlerden hangileri daha fazla etkilidir?\nA)"
+        "metin": "$$1 + \\sqrt{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "C)\nE)\nD)\nI ve II\nI ve III\nII ve III\nII ve IV\nIII ve IV\nDış ticaret açığı, dış satımın dış alıma göre daha az\nolması durumunda gerçekleşir.\nAşağıdakilerden hangisi, Türkiye’de dış ticaret\naçığının azaltılmasına yönelik önlemler arasında\nyer almaz?\nA)\nB)"
+        "metin": "$$1 + 2\\sqrt{2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$2 + \\sqrt{2}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$2 + \\sqrt{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "AR-GE çalışmalarının artırılması\nSanayi üretim payının ve niteliğinin artırılması\nDış pazarların ihtiyacına yönelik ürünlerin üretilmesi\nUluslararası ticaret anlaşmalarının artırılması\nMillî gelirin yükseltilmesi"
+        "metin": "$$3\\sqrt{2}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1874,7 +1874,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "11\n2013 - KPSS / GY - CS"
+        "metin": "11"
       }
     ],
     "dogruCevap": "E",
@@ -1944,7 +1944,7 @@
     "brans": "Matematik",
     "bransSoruNo": 14,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 44)\nX ve Y sıvılarından oluşan bir karışımın bulunduğu bir\nkaptan, sadece X sıvısını hacim kaybı olmadan\nayrıştırarak başka bir kaba aktaran bir düzenek\nkuruluyor. Bu düzenek sabit hızla 2 dakikada 10 mililitre\nX sıvısını ayrıştırıyor. Hacimce ’i Y sıvısı olan bu\nkarışımdaki X sıvısı 1 saatte tamamen ayrıştırılarak\ndiğer kaba aktarılıyor.\nBuna göre, karışımdaki Y sıvısı miktarı kaç\nmililitredir?",
+    "soruMetni": "(2013 KPSS GY - Soru 44)\nX ve Y sıvılarından oluşan bir karışımın bulunduğu bir kaptan, sadece X sıvısını hacim kaybı olmadan ayrıştırarak başka bir kaba aktaran bir düzenek kuruluyor. Bu düzenek sabit hızla 2 dakikada 10 mililitre X sıvısını ayrıştırıyor. Hacimce $$\\frac{3}{5}$$'i Y sıvısı olan bu karışımdaki X sıvısı 1 saatte tamamen ayrıştırılarak diğer kaba aktarılıyor.\n\nBuna göre, karışımdaki Y sıvısı miktarı kaç mililitredir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1964,7 +1964,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "360\n2013 - KPSS / GY - CS"
+        "metin": "360"
       }
     ],
     "dogruCevap": "B",
@@ -1989,7 +1989,7 @@
     "brans": "Matematik",
     "bransSoruNo": 15,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 45)\nÜç saat süren bir yarışta, bir otomobilin her bir saatlik\nzaman diliminde tamamladığı tur sayıları aşağıdaki\ngrafikte verilmiştir.\nBu otomobil, yarışın son bir saatinde sabit hızla\nilerlediğine göre, yarışın başlangıcından 135 dakika\nsonra toplam kaç tur tamamlamıştır?",
+    "soruMetni": "(2013 KPSS GY - Soru 45)\nÜç saat süren bir yarışta, bir otomobilin her bir saatlik zaman diliminde tamamladığı tur sayıları aşağıdaki grafikte verilmiştir:\n• 1. saat: 40 tur\n• 2. saat: 70 tur\n• 3. saat: 60 tur\n\nBu otomobil, yarışın son bir saatinde sabit hızla ilerlediğine göre, yarışın başlangıcından 135 dakika sonra toplam kaç tur tamamlamıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2079,7 +2079,7 @@
     "brans": "Matematik",
     "bransSoruNo": 17,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 47)\nAşağıda A, B, C, D ve E şehirlerinden geçen yol hattı\ngösterilmiş ve bu yol hattına göre şehirler arasındaki\nbazı uzaklıklar kilometre olarak tabloda verilmiştir.\nD ile E şehirleri arasındaki uzaklık, A ile C şehirleri\narasındaki uzaklığın 2 katından 20 km eksiktir.\nBuna göre, A ile E şehirleri arasındaki uzaklık kaç\nkm’dir?",
+    "soruMetni": "(2013 KPSS GY - Soru 47)\nAşağıda A, B, C, D ve E şehirlerinden sırasıyla geçen doğrusal yol hattı gösterilmiş ve bu yol hattına göre şehirler arasındaki bazı uzaklıklar kilometre olarak tabloda verilmiştir:\n• B ile D arasındaki uzaklık: 130 km\n• C ile E arasındaki uzaklık: 170 km\n\nD ile E şehirleri arasındaki uzaklık, A ile C şehirleri arasındaki uzaklığın 2 katından 20 km eksiktir.\n\nBuna göre, A ile E şehirleri arasındaki uzaklık kaç km’dir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2099,7 +2099,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "250\n2013 - KPSS / GY - CS"
+        "metin": "250"
       }
     ],
     "dogruCevap": "A",
@@ -2189,7 +2189,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "130\n2013 - KPSS / GY - CS"
+        "metin": "130"
       }
     ],
     "dogruCevap": "C",
@@ -2214,7 +2214,7 @@
     "brans": "Matematik",
     "bransSoruNo": 20,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 50)\n- 52. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\nBir oyun parkındaki heyecan treninde, 1’den 50’ye kadar\nnumaralanmış ve yan yatma özelliğine sahip koltuklar\nbulunuyor. Bu trenin parkurdaki birinci turunda sadece\n1 numaralı koltuk yan yatıyor. İkinci turda numarası\n2’nin tam katı olan tüm koltuklar yan yatıyor. Üçüncü\nturda numarası 3’ün tam katı olan tüm koltuklar yan\nyatıyor. Tren bu biçimde devam ederek 20. tur sonunda\nyolcularını indiriyor. Her bir tur sonunda ise yan yatan\nkoltuklar normal konumlarına geri geliyor.\n50. Buna göre, 20. tur sonunda kaç koltuk sadece bir\nkez yan yatmıştır?",
+    "soruMetni": "(2013 KPSS GY - Soru 50)\n50. - 52. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBir oyun parkındaki heyecan treninde, 1’den 50’ye kadar numaralanmış ve yan yatma özelliğine sahip koltuklar bulunuyor. Bu trenin parkurdaki birinci turunda sadece 1 numaralı koltuk yan yatıyor. İkinci turda numarası 2’nin tam katı olan tüm koltuklar yan yatıyor. Üçüncü turda numarası 3’ün tam katı olan tüm koltuklar yan yatıyor. Tren bu biçimde devam ederek 20. tur sonunda yolcularını indiriyor. Her bir tur sonunda ise yan yatan koltuklar normal konumlarına geri geliyor.\n\nBuna göre, 20. tur sonunda kaç koltuk sadece bir kez yan yatmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2259,7 +2259,7 @@
     "brans": "Matematik",
     "bransSoruNo": 21,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 51)\nBuna göre, 18 ve 24 numaralı koltuklar kaç turda\naynı anda yan yatmıştır?",
+    "soruMetni": "(2013 KPSS GY - Soru 51)\n50. - 52. soruları bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBuna göre, 18 ve 24 numaralı koltuklar kaç turda aynı anda yan yatmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2304,7 +2304,7 @@
     "brans": "Matematik",
     "bransSoruNo": 22,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 52)\nAşağıda numarası verilmiş olan koltuklardan\nhangisi, 20. tur sonunda, sayıca diğerlerinden daha\nfazla yan yatmıştır?",
+    "soruMetni": "(2013 KPSS GY - Soru 52)\n50. - 52. soruları bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nAşağıda numarası verilmiş olan koltuklardan hangisi, 20. tur sonunda, sayıca diğerlerinden daha fazla yan yatmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2324,7 +2324,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "30\n2013 - KPSS / GY - CS"
+        "metin": "30"
       }
     ],
     "dogruCevap": "E",
@@ -2349,7 +2349,7 @@
     "brans": "Matematik",
     "bransSoruNo": 23,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 53)\n- 55. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\nÖzdeş oksijen tüpleri kullanan Cihan ve Levent isimli\ndalgıçların denizde bulundukları derinliğin zamana göre\ndeğişimi ve oksijen tüplerinin doluluk yüzdelerinin\nzamana göre değişimi aşağıdaki doğrusal grafiklerde\nverilmiştir.\n53. Levent, 15 metre derinlikte iken oksijen tüpünün\nyüzde kaçını kullanmıştır?",
+    "soruMetni": "(2013 KPSS GY - Soru 53)\n53. - 55. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nÖzdeş oksijen tüpleri kullanan Cihan ve Levent isimli dalgıçların denizde bulundukları derinliğin zamana göre değişimi ve oksijen tüplerinin doluluk yüzdelerinin zamana göre değişimi grafiklerde verilmiştir:\n• Derinlik: Cihan 5. dakikada 10 m'ye inip 10. dakikada yüzeye çıkıyor. Levent 5. dakikada 15 m'ye inip 7. dakikada yüzeye çıkıyor.\n• Doluluk: Cihan 10 dakikada %100'den %50'ye iniyor. Levent 7 dakikada %100'den %72'ye iniyor.\n\nLevent, 15 metre derinlikte iken oksijen tüpünün yüzde kaçını kullanmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2394,7 +2394,7 @@
     "brans": "Matematik",
     "bransSoruNo": 24,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 54)\n4. dakika sonunda Levent, Cihan'a göre kaç metre\ndaha derindedir?",
+    "soruMetni": "(2013 KPSS GY - Soru 54)\n53. - 55. soruları bilgilere göre cevaplayınız.\n\n4. dakika sonunda Levent, Cihan'a göre kaç metre daha derindedir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2439,7 +2439,7 @@
     "brans": "Matematik",
     "bransSoruNo": 25,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 55)\nBuna göre,\nI. Levent’in dalış hızı çıkış hızından büyüktür.\nII. Cihan, Levent’ten daha çok oksijen tüketmektedir.\nIII.Cihan ile Levent’in dalış hızları arasındaki fark\n1 m/dk’dır.\nifadelerinden hangileri doğrudur?",
+    "soruMetni": "(2013 KPSS GY - Soru 55)\n53. - 55. soruları bilgilere göre cevaplayınız.\n\nBuna göre,\nI. Levent’in dalış hızı çıkış hızından büyüktür.\nII. Cihan, Levent’ten daha çok oksijen tüketmektedir.\nIII. Cihan ile Levent’in dalış hızları arasındaki fark 1 m/dk’dır.\n\nifadelerinden hangileri doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2459,7 +2459,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "I ve III\n2013 - KPSS / GY - CS"
+        "metin": "I ve III"
       }
     ],
     "dogruCevap": "C",
@@ -2574,27 +2574,27 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 58)\nYukarıdaki verilere göre, x kaç birimdir?",
+    "soruMetni": "(2013 KPSS GY - Soru 58)\nABC bir üçgen,\n$$m(\\widehat{ACB}) = 45^\\circ$$\n$$m(\\widehat{BAC}) = 60^\\circ$$\n$$|AB| = 3\\sqrt{2}\\text{ birim}$$\n$$|BC| = x$$\n\nYukarıdaki verilere göre, $x$ kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$3\\sqrt{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$2\\sqrt{2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$2\\sqrt{6}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{2\\sqrt{3}}{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\frac{5\\sqrt{2}}{3}$$"
       }
     ],
     "dogruCevap": "A",
@@ -2619,7 +2619,7 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 59)\nKenar uzunlukları 2 cm ve 3 cm olan ABCD\ndikdörtgeninde\nA noktasının B noktasına göre simetriği alınarak\nnoktası\nB noktasının C noktasına göre simetriği alınarak\nnoktası\nC noktasının D noktasına göre simetriği alınarak\nnoktası\nD noktasının A noktasına göre simetriği alınarak\nnoktası\nelde ediliyor.\nnoktalarının birleştirilmesiyle\ndörtgeni oluşturuluyor.\nBuna göre, dörtgeninin alanı kaç dir?",
+    "soruMetni": "(2013 KPSS GY - Soru 59)\nKenar uzunlukları 2 cm ve 3 cm olan ABCD dikdörtgeninde\n• A noktasının B noktasına göre simetriği alınarak $A'$ noktası\n• B noktasının C noktasına göre simetriği alınarak $B'$ noktası\n• C noktasının D noktasına göre simetriği alınarak $C'$ noktası\n• D noktasının A noktasına göre simetriği alınarak $D'$ noktası\nelde ediliyor.\n\n$A', B', C'$ ve $D'$ noktalarının birleştirilmesiyle $A'B'C'D'$ dörtgeni oluşturuluyor.\n\nBuna göre, $A'B'C'D'$ dörtgeninin alanı kaç $\\text{cm}^2$ dir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2664,7 +2664,7 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2013 KPSS GY - Soru 60)\nABCDE düzgün beşgen\nO noktası, beşgenin köşelerinden geçen bir\nçemberin merkezi olduğuna göre, x kaç derecedir?",
+    "soruMetni": "(2013 KPSS GY - Soru 60)\nABCDE düzgün beşgen,\n$$m(\\widehat{BOD}) = x$$\n\nO noktası, beşgenin köşelerinden geçen bir çemberin merkezi olduğuna göre, $x$ kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2819,7 +2819,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Sökmenliler\nTESTİ\nkısmına işaretleyiniz."
+        "metin": "Sökmenliler"
       }
     ],
     "dogruCevap": "B",

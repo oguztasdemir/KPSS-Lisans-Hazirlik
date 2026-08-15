@@ -9,7 +9,7 @@
     "brans": "Türkçe",
     "bransSoruNo": 1,
     "konu": "Türkçe (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 1)\n2019-KPSS/GY-PS GENEL YETENEK",
+    "soruMetni": "(2019 KPSS GY - Soru 1)\n GENEL YETENEK",
     "secenekler": [
       {
         "anahtar": "A",
@@ -164,7 +164,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Beğenilme ve dikkat çekme kaygısı\n2019-KPSS/GY-PS"
+        "metin": "Beğenilme ve dikkat çekme kaygısı"
       }
     ],
     "dogruCevap": "C",
@@ -344,7 +344,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "V\n2019-KPSS/GY-PS"
+        "metin": "V"
       }
     ],
     "dogruCevap": "B",
@@ -524,7 +524,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Örneklendirme\n2019-KPSS/GY-PS"
+        "metin": "Örneklendirme"
       }
     ],
     "dogruCevap": "C",
@@ -704,7 +704,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Yazarın ürettiği kurgusal kimliklerin birbiriyle uyumlu\nolması, okur tarafından benimsenmesini de sağlıyordu\n2019-KPSS/GY-PS"
+        "metin": "Yazarın ürettiği kurgusal kimliklerin birbiriyle uyumlu\nolması, okur tarafından benimsenmesini de sağlıyordu"
       }
     ],
     "dogruCevap": "C",
@@ -794,7 +794,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Tam bir başarı gösterememesinin nedeni maymun\niştahlı olmasıdır.\n2019-KPSS/GY-PS"
+        "metin": "Tam bir başarı gösterememesinin nedeni maymun\niştahlı olmasıdır."
       }
     ],
     "dogruCevap": "C",
@@ -929,7 +929,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Eserlerinin çokluğuna\n2019-KPSS/GY-PS"
+        "metin": "Eserlerinin çokluğuna"
       }
     ],
     "dogruCevap": "D",
@@ -1019,7 +1019,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Budizm’e göre Nirvana’ya ulaşmak ve yaşamın kısır\ndöngüsünü kırmak için duygularınızın kontrolünü ele\nalıp varoluş nedeninizin bilincine varmanız şarttır.\n2019-KPSS/GY-PS"
+        "metin": "Budizm’e göre Nirvana’ya ulaşmak ve yaşamın kısır\ndöngüsünü kırmak için duygularınızın kontrolünü ele\nalıp varoluş nedeninizin bilincine varmanız şarttır."
       }
     ],
     "dogruCevap": "C",
@@ -1154,7 +1154,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Kimi okur ve yazarların bilgi üretimine katkıda\nbulunmadan salt tüketici bir rol benimsemeleri\n2019-KPSS/GY-PS"
+        "metin": "Kimi okur ve yazarların bilgi üretimine katkıda\nbulunmadan salt tüketici bir rol benimsemeleri"
       }
     ],
     "dogruCevap": "B",
@@ -1334,7 +1334,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Ali, ikinci koşuyu birinci sırada tamamlamıştır.\n2019-KPSS/GY-PS"
+        "metin": "Ali, ikinci koşuyu birinci sırada tamamlamıştır."
       }
     ],
     "dogruCevap": "C",
@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 31)\n$$\\frac{0,2 \\cdot 0,3}{0,06} + \\frac{0,4}{0,02}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 31)\n$$\\frac{\\left(1 + \\frac{2}{3}\\right) \\cdot \\left(2 + \\frac{3}{4}\\right)}{\\left(2 - \\frac{3}{4}\\right) \\cdot \\left(7 - \\frac{8}{9}\\right)}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "11"
+        "metin": "$$\\frac{3}{5}$$"
       },
       {
         "anahtar": "B",
-        "metin": "15"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "21"
+        "metin": "$$\\frac{4}{7}$$"
       },
       {
         "anahtar": "D",
-        "metin": "25"
+        "metin": "$$\\frac{5}{6}$$"
       },
       {
         "anahtar": "E",
-        "metin": "30"
+        "metin": "$$\\frac{7}{8}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1404,7 +1404,7 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 32)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 32)\n$$\\frac{(0,4)^2 + (0,6)^2}{(0,7)^2 - (0,6)^2}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1449,27 +1449,27 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 33)\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 33)\n$$\\frac{\\sqrt{5} + \\sqrt{3}}{\\sqrt{5} - \\sqrt{3}} - \\sqrt{15}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\sqrt{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\sqrt{5}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "2"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "3"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "4"
       }
     ],
     "dogruCevap": "E",
@@ -1494,7 +1494,7 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 34)\nA ve B birer rakam olmak üzere,\nolduğuna göre, toplamı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 34)\nA ve B birer rakam olmak üzere,\n  ABA\n- 19B\n-----\n   BB\n\nolduğuna göre, $A + B$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1514,7 +1514,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "10\n2019-KPSS/GY-PS"
+        "metin": "10"
       }
     ],
     "dogruCevap": "C",
@@ -1539,27 +1539,27 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 35)\na, b ve c gerçel sayıları için\nolduğuna göre, aşağıdaki sıralamalardan hangisi\ndoğrudur?",
+    "soruMetni": "(2019 KPSS GY - Soru 35)\n$a, b$ ve $c$ gerçel sayıları için\n$$a \\cdot b^2 < 0 < a + c < 2a - b$$\n\nolduğuna göre, aşağıdaki sıralamalardan hangisi doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$b < a < c$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$a < b < c$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$a < c < b$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$b < c < a$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$c < a < b$"
       }
     ],
     "dogruCevap": "A",
@@ -1584,7 +1584,7 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 36)\na, b ve c tam sayıları için\nifadesi bir tek sayıdır.\nBuna göre,\nI.\nII.\nIII.\nifadelerinden hangileri her zaman bir çift sayıdır?",
+    "soruMetni": "(2019 KPSS GY - Soru 36)\n$a, b$ ve $c$ tam sayıları için\n$$(a + 2b) \\cdot (b - 3c)$$\nifadesi bir tek sayıdır.\n\nBuna göre,\nI. $a \\cdot b$\nII. $b \\cdot c$\nIII. $c \\cdot a$\n\nifadelerinden hangileri <u>her zaman</u> bir çift sayıdır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1629,27 +1629,27 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 37)\nx ve y gerçel sayıları için\nolduğuna göre, oranı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 37)\n$x$ ve $y$ gerçel sayıları için\n$$\\frac{x}{x + y} - \\frac{x - y}{x} = -4$$\n\nolduğuna göre, $\\frac{x}{y}$ oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$-\\frac{1}{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$-\\frac{1}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$-\\frac{1}{4}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$-\\frac{1}{5}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$-\\frac{1}{6}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1674,7 +1674,7 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 38)\na, b ve c tam sayıları için\neşitliği sağlandığına göre, toplamı\nkaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 38)\n$a, b$ ve $c$ tam sayıları için\n$$(12)^2 \\cdot (0,04)^{-2} = 2^a \\cdot 3^b \\cdot 5^c$$\n\neşitliği sağlandığına göre, $a + b + c$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1694,10 +1694,10 @@
       },
       {
         "anahtar": "E",
-        "metin": "11\n2019-KPSS/GY-PS"
+        "metin": "11"
       }
     ],
-    "dogruCevap": "A",
+    "dogruCevap": "D",
     "aciklama": {
       "netOzet": "2019 ÖSYM KPSS Lisans Genel Yetenek 38. sorunun resmi doğru cevabı A seçeneğidir.",
       "secenekDetaylari": {
@@ -1719,7 +1719,7 @@
     "brans": "Matematik",
     "bransSoruNo": 9,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 39)\na, b ve c pozitif tam sayıları için\neşitlikleri veriliyor.\nBuna göre, c sayısının alabileceği farklı değerlerin\ntoplamı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 39)\n$a, b$ ve $c$ pozitif tam sayıları için\n$$a \\cdot b = 8$$\n$$|a - b| = 2$$\n$$|b - c| = 6$$\neşitlikleri veriliyor.\n\nBuna göre, $c$ sayısının alabileceği farklı değerlerin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 40)\nTam sayılar kümesi üzerinde işlemleri\nbiçiminde tanımlanıyor.\nBuna göre, işleminin sonucu kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 40)\nTam sayılar kümesi üzerinde $\\square$ ve $\\bigstar$ işlemleri\n$$a \\mathbin{\\square} b = a \\cdot b + a - b$$\n$$a \\mathbin{\\bigstar} b = 3 \\cdot (a \\mathbin{\\square} b) - 1$$\nbiçiminde tanımlanıyor.\n\nBuna göre, $1 \\mathbin{\\bigstar} 3$ işleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1809,7 +1809,7 @@
     "brans": "Matematik",
     "bransSoruNo": 11,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 41)\nTam sayılar kümesi üzerinde f fonksiyonu\nbiçiminde tanımlanıyor.\nBuna göre,\neşitliğini sağlayan en küçük n pozitif tam sayısı\nkaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 41)\nTam sayılar kümesi üzerinde $f$ fonksiyonu\n$$f(x) = \\begin{cases} 3x + 1, & x \\text{ tek ise} \\\\ \\frac{x}{2}, & x \\text{ çift ise} \\end{cases}$$\nbiçiminde tanımlanıyor.\n\nBuna göre,\n$$(\\underbrace{f \\circ f \\circ \\dots \\circ f}_{n\\text{ tane } f})(6) = 1$$\neşitliğini sağlayan <u>en küçük</u> $n$ pozitif tam sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1854,7 +1854,7 @@
     "brans": "Matematik",
     "bransSoruNo": 12,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 42)\nAAA üç basamaklı bir doğal sayı ve n bir pozitif tam\nsayı olmak üzere,\neşitliğini sağlayan n sayısının rakamları toplamı\nkaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 42)\n$AAA$ üç basamaklı bir doğal sayı ve $n$ bir pozitif tam sayı olmak üzere,\n$$1 + 2 + 3 + \\dots + n = AAA$$\neşitliğini sağlayan $n$ sayısının rakamları toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1874,7 +1874,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "13\n2019-KPSS/GY-PS"
+        "metin": "13"
       }
     ],
     "dogruCevap": "C",
@@ -1899,7 +1899,7 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 43)\nAAB üç basamaklı doğal sayısı 5’e, ABA üç basamaklı\ndoğal sayısı 11’e tam bölünebilmektedir.\nBuna göre, toplamı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 43)\nAAB üç basamaklı doğal sayısı 5’e, ABA üç basamaklı doğal sayısı 11’e tam bölünebilmektedir.\n\nBuna göre, $A + B$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1989,7 +1989,7 @@
     "brans": "Matematik",
     "bransSoruNo": 15,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 45)\nBir okulda düzenlenen yıl sonu gösterisi için tüm\nöğrencilere gösteri kıyafeti alınmıştır. Bir erkek öğrenci\niçin alınan kıyafetin fiyatı, bir kız öğrenci için alınan\nkıyafetin fiyatının ’i kadardır. Alınan kıyafetler için\ntoplam 5740 TL ödenmiştir.\nKız öğrencilerin sayısı, erkek öğrencilerin sayısının\n2 katı olduğuna göre, kız öğrencilerin kıyafetleri için\ntoplam kaç TL ödenmiştir?",
+    "soruMetni": "(2019 KPSS GY - Soru 45)\nBir okulda düzenlenen yıl sonu gösterisi için tüm öğrencilere gösteri kıyafeti alınmıştır. Bir erkek öğrenci için alınan kıyafetin fiyatı, bir kız öğrenci için alınan kıyafetin fiyatının $\\frac{4}{5}$'i kadardır. Alınan kıyafetler için toplam 5740 TL ödenmiştir.\n\nKız öğrencilerin sayısı, erkek öğrencilerin sayısının 2 katı olduğuna göre, kız öğrencilerin kıyafetleri için toplam kaç TL ödenmiştir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2054,7 +2054,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "13\n2019-KPSS/GY-PS"
+        "metin": "13"
       }
     ],
     "dogruCevap": "A",
@@ -2079,27 +2079,27 @@
     "brans": "Matematik",
     "bransSoruNo": 17,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 47)\nA kentinden B kentine her saat başında 1 otobüs seferi\ndüzenleyen bir seyahat firmasına ait otobüsler, bu iki\nkent arasındaki yolu saatte 80 kilometre sabit hızla\nalmaktadır. B kentinden A kentine saatte 120 kilometre\nsabit hızla giden bir otomobil, A kentinden B kentine\ngiden bu firmaya ait iki otobüsle karşılaşmıştır.\nOtomobil ilk otobüsle saat 13.00’te karşılaştığına\ngöre, ikinci otobüsle saat kaçta karşılaşmıştır?",
+    "soruMetni": "(2019 KPSS GY - Soru 47)\nA kentinden B kentine her saat başında 1 otobüs seferi düzenleyen bir seyahat firmasına ait otobüsler, bu iki kent arasındaki yolu saatte 80 kilometre sabit hızla almaktadır. B kentinden A kentine saatte 120 kilometre sabit hızla giden bir otomobil, A kentinden B kentine giden bu firmaya ait iki otobüsle karşılaşmıştır.\n\nOtomobil ilk otobüsle saat 13.00’te karşılaştığına göre, ikinci otobüsle saat kaçta karşılaşmıştır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "13.18"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "13.24"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "13.30"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "13.36"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "13.42"
       }
     ],
     "dogruCevap": "B",
@@ -2189,7 +2189,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "I ve III\n2019-KPSS/GY-PS"
+        "metin": "I ve III"
       }
     ],
     "dogruCevap": "D",
@@ -2214,7 +2214,7 @@
     "brans": "Matematik",
     "bransSoruNo": 20,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 50)\nElemanları doğal sayılardan oluşan bir kümenin\nbirbirinden farklı her iki elemanı arasındaki farkın mutlak\ndeğeri, o kümenin bir elemanı ise bu kümeye “farklı\nküme” denir.\nBuna göre,\nkümesinin en az iki elemanlı alt kümelerinden kaç\ntanesi farklı kümedir?",
+    "soruMetni": "(2019 KPSS GY - Soru 50)\nElemanları doğal sayılardan oluşan bir kümenin birbirinden farklı her iki elemanı arasındaki farkın mutlak değeri, o kümenin bir elemanı ise bu kümeye “farklı küme” denir.\n\nBuna göre,\n$$A = \\{2, 4, 6, 8, 10\\}$$\nkümesinin <u>en az</u> iki elemanlı alt kümelerinden kaç tanesi farklı kümedir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2259,27 +2259,27 @@
     "brans": "Matematik",
     "bransSoruNo": 21,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 51)\nBir restoranda çalışan garson; 5 kişilik bir gruptan\n1 sade, 2 orta şekerli ve 2 şekerli kahve siparişi almıştır.\nBu garson; siparişleri doğru bir şekilde hazırlamış ancak\nbu gruptaki kişilerin, şeker oranları farklı kahveler\nistediğini unutup kahveleri bu gruba rastgele dağıtmıştır.\nBuna göre, bu gruptaki tüm kişilerin sipariş\nverdikleri kahveleri almış olma olasılığı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 51)\nBir restoranda çalışan garson; 5 kişilik bir gruptan 1 sade, 2 orta şekerli ve 2 şekerli kahve siparişi almıştır.\nBu garson; siparişleri doğru bir şekilde hazırlamış ancak bu gruptaki kişilerin, şeker oranları farklı kahveler istediğini unutup kahveleri bu gruba rastgele dağıtmıştır.\n\nBuna göre, bu gruptaki tüm kişilerin sipariş verdikleri kahveleri almış olma olasılığı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{20}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{1}{30}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{1}{40}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{1}{50}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n15"
+        "metin": "$$\\frac{1}{60}$$"
       }
     ],
     "dogruCevap": "B",
@@ -2304,7 +2304,7 @@
     "brans": "Matematik",
     "bransSoruNo": 22,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 52)\n- 53. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\nBir pastanede üretilen kurabiye, simit ve poğaça\nürünlerinin birim satış fiyatları 1. grafikte verilmiştir.\nBelirli bir günde bu pastanede üretilen bu üç ürünün\nbaşlangıçtaki üretim sayılarının dağılımı 2. grafikte\nverilmiştir.\n52. Başlangıçta üretilen bu ürünlerin tamamının satışından\n184 TL gelir elde edilmiştir.\nBuna göre, başlangıçta üretilen poğaça sayısı\nkaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 52)\n52. - 53. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\nBir pastanede üretilen kurabiye, simit ve poğaça ürünlerinin birim satış fiyatları 1. grafikte verilmiştir:\n• Kurabiye: 1 TL\n• Simit: 1,25 TL\n• Poğaça: 1,5 TL\n\nBelirli bir günde üretilen bu üç ürünün başlangıçtaki üretim sayılarının dağılımı 2. dairesel grafikte verilmiştir:\n• Kurabiye: 80°\n• Simit: 160°\n• Poğaça: 120°\n\nBaşlangıçta üretilen bu ürünlerin tamamının satışından 184 TL gelir elde edilmiştir.\n\nBuna göre, başlangıçta üretilen poğaça sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2349,7 +2349,7 @@
     "brans": "Matematik",
     "bransSoruNo": 23,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 53)\nBu gün içinde, belirli sayıda daha simit üretildikten sonra\ntüm simitlerin satışından elde edilen gelir, başlangıçta\nüretilen kurabiye ve poğaçaların satışından elde edilen\ngelirin toplamına eşittir.\nBuna göre, başlangıçta üretilen simitlerin sayısının\nsonradan üretilen simitlerin sayısına oranı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 53)\n52. - 53. soruları bilgilere göre cevaplayınız.\n\nBu gün içinde, belirli sayıda daha simit üretildikten sonra tüm simitlerin satışından elde edilen gelir, başlangıçta üretilen kurabiye ve poğaçaların satışından elde edilen gelirin toplamına eşittir.\n\nBuna göre, başlangıçta üretilen simitlerin sayısının sonradan üretilen simitlerin sayısına oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2365,11 +2365,11 @@
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{10}{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n16"
+        "metin": "$$\\frac{11}{5}$$"
       }
     ],
     "dogruCevap": "D",
@@ -2394,7 +2394,7 @@
     "brans": "Matematik",
     "bransSoruNo": 24,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 54)\n- 56. soruları aşağıdaki bilgilere göre\nbirbirinden bağımsız olarak cevaplayınız.\n9 daireden oluşan aşağıdaki şekilde, birbirine teğet iki\ndaireye komşu daireler denir.\n2’den 10’a kadar olan tam sayılar bu dairelere her bir\ndairede farklı bir sayı olacak biçimde aşağıdaki kurala\ngöre yazılacaktır.\nBir daireye yazılan sayı komşu olduğu dairelerdeki\nsayılardan hiçbirinin tam katı olmayacaktır.\nÖrnek:\n54.\nYukarıdaki şekle göre, toplamı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 54)\n54. - 56. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.\n\n9 daireden oluşan şekilde, birbirine teğet iki daireye komşu daireler denir. 2’den 10’a kadar olan tam sayılar bu dairelere her bir dairede farklı bir sayı olacak biçimde yerleştiriliyor.\nKural: Bir daireye yazılan sayı komşu olduğu dairelerdeki sayılardan hiçbirinin tam katı olmayacaktır.\n\nŞekilde;\nÜst sıra: [boş, 4, boş]\nOrta sıra: [x, 9, y]\nAlt sıra: [3, 5, 2]\n\nYukarıdaki şekle göre, $x + y$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2439,27 +2439,27 @@
     "brans": "Matematik",
     "bransSoruNo": 25,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 55)\nYukarıdaki şekle göre, a kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 55)\n54. - 56. soruları bilgilere göre cevaplayınız.\n\nŞekilde;\nÜst sıra: [boş, boş, boş]\nOrta sıra: [a, 3, 2]\nAlt sıra: [6, boş, 5]\n\nYukarıdaki şekle göre, $a$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
-      },
-      {
-        "anahtar": "B",
-        "metin": "2"
-      },
-      {
-        "anahtar": "C",
-        "metin": "3"
-      },
-      {
-        "anahtar": "D",
         "metin": "4"
       },
       {
+        "anahtar": "B",
+        "metin": "7"
+      },
+      {
+        "anahtar": "C",
+        "metin": "8"
+      },
+      {
+        "anahtar": "D",
+        "metin": "9"
+      },
+      {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "10"
       }
     ],
     "dogruCevap": "E",
@@ -2484,7 +2484,7 @@
     "brans": "Matematik",
     "bransSoruNo": 26,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 56)\nYukarıdaki şekle göre, b’nin alabileceği farklı\ndeğerlerin toplamı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 56)\n54. - 56. soruları bilgilere göre cevaplayınız.\n\nŞekilde;\nÜst sıra: [boş, 4, boş]\nOrta sıra: [boş, b, boş]\nAlt sıra: [2, boş, boş]\n\nYukarıdaki şekle göre, $b$’nin alabileceği farklı değerlerin toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2529,7 +2529,7 @@
     "brans": "Matematik",
     "bransSoruNo": 27,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 57)\nYukarıdaki verilere göre, x kaç derecedir?",
+    "soruMetni": "(2019 KPSS GY - Soru 57)\nABC ikizkenar üçgen,\n$$|CA| = |CB|$$\n$$|AB| = |AD|$$\n$$m(\\widehat{ACB}) = 52^\\circ$$\n$$m(\\widehat{CAD}) = x$$\n\nYukarıdaki verilere göre, $x$ kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2552,7 +2552,7 @@
         "metin": "18"
       }
     ],
-    "dogruCevap": "D",
+    "dogruCevap": "B",
     "aciklama": {
       "netOzet": "2019 ÖSYM KPSS Lisans Genel Yetenek 57. sorunun resmi doğru cevabı D seçeneğidir.",
       "secenekDetaylari": {
@@ -2574,7 +2574,7 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 58)\nB, C ve F noktaları doğrusal ve ABCD dikdörtgeninin\nalanı 48 birimkaredir.\nBuna göre, BEFH karesinin alanı kaç birimkaredir?",
+    "soruMetni": "(2019 KPSS GY - Soru 58)\nABCD dikdörtgen, BEFH kare\n$$DC \\cap HF = \\{K\\}$$\n$$|KF| = |KH|$$\n$$|KD| = 3|KC|$$\n\nB, C ve F noktaları doğrusal ve ABCD dikdörtgeninin alanı 48 birimkaredir.\n\nBuna göre, BEFH karesinin alanı kaç birimkaredir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2619,7 +2619,7 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 59)\nŞekilde, N ve M noktaları O merkezli çeyrek çemberin\nüzerindedir.\nBuna göre, x kaç birimdir?",
+    "soruMetni": "(2019 KPSS GY - Soru 59)\nKLMN dikdörtgen,\n$$K \\in [OP]$$\n$$|OK| = 30\\text{ birim}$$\n$$|OR| = 40\\text{ birim}$$\n$$|LR| = x$$\n\nŞekilde, N ve M noktaları O merkezli çeyrek çemberin üzerindedir.\n\nBuna göre, $x$ kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2664,7 +2664,7 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2019 KPSS GY - Soru 60)\nDik koordinat düzleminde noktasının\ndoğrusuna göre simetriği olan nokta ile\nnoktasının doğrusuna göre simetriği olan nokta\naynı noktadır.\nBuna göre, farkı kaçtır?",
+    "soruMetni": "(2019 KPSS GY - Soru 60)\nDik koordinat düzleminde $A(2, a)$ noktasının $y = -x$ doğrusuna göre simetriği olan nokta ile $B(-1, b)$ noktasının $y = 1$ doğrusuna göre simetriği olan nokta aynı noktadır.\n\nBuna göre, $b - a$ farkı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -5069,7 +5069,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n16"
+        "metin": ""
       }
     ],
     "dogruCevap": "D",

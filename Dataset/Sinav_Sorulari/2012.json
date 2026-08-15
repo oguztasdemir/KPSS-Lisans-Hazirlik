@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 31)\n$$\\frac{1}{\\sqrt{2}+1} - \\frac{1}{\\sqrt{2}-1}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 31)\n$$2^{-6}(2^3 + 2^4 + 2^5)$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "-2"
+        "metin": "$$\\frac{3}{4}$$"
       },
       {
         "anahtar": "B",
-        "metin": "-1"
+        "metin": "$$\\frac{5}{4}$$"
       },
       {
         "anahtar": "C",
-        "metin": "0"
+        "metin": "$$\\frac{5}{8}$$"
       },
       {
         "anahtar": "D",
-        "metin": "1"
+        "metin": "$$\\frac{7}{8}$$"
       },
       {
         "anahtar": "E",
-        "metin": "2"
+        "metin": "$$\\frac{9}{16}$$"
       }
     ],
     "dogruCevap": "D",
@@ -1404,27 +1404,27 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 32)\n$$\\frac{1 - \\frac{1}{3} + \\frac{1}{4}}{\\frac{1}{2} - \\frac{1}{3} + 1}$$\n\nişleminin sonucu kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 32)\n$$\\left(1 + \\frac{1}{15}\\right)\\left(\\frac{5}{8} - \\frac{3}{4} + \\frac{1}{2}\\right)$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "11/14"
+        "metin": "$$\\frac{4}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "13/14"
+        "metin": "$$\\frac{2}{5}$$"
       },
       {
         "anahtar": "C",
-        "metin": "15/14"
+        "metin": "$$\\frac{3}{5}$$"
       },
       {
         "anahtar": "D",
-        "metin": "11/7"
+        "metin": "$$\\frac{7}{6}$$"
       },
       {
         "anahtar": "E",
-        "metin": "13/7"
+        "metin": "$$\\frac{11}{6}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1449,27 +1449,27 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 33)\n$$\\frac{6! - 4!}{4!} = 4^x \\cdot 3^y \\cdot 5^z$$\n\neşitliğini sağlayan x, y ve z pozitif tam sayıları için x + y + z toplamı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 33)\n$$\\frac{\\sqrt{0,4 - 0,04}}{\\sqrt{0,9 - 0,09}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "3"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "4"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "5"
+        "metin": "$$\\frac{2}{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "6"
+        "metin": "$$\\frac{2}{9}$$"
       },
       {
         "anahtar": "E",
-        "metin": "7"
+        "metin": "$$\\frac{4}{9}$$"
       }
     ],
     "dogruCevap": "C",
@@ -1494,27 +1494,27 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 34)\na, b ve c gerçel sayıları için\na < b < 0 < c\nolduğuna göre, aşağıdakilerden hangisi her zaman doğrudur?",
+    "soruMetni": "(2012 KPSS GY - Soru 34)\n$$\\frac{7 \\cdot 7! - 6!}{5 \\cdot 5! - 4!}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "a + c > 0"
+        "metin": "$$84$$"
       },
       {
         "anahtar": "B",
-        "metin": "b + c < 0"
+        "metin": "$$80$$"
       },
       {
         "anahtar": "C",
-        "metin": "a · b < c"
+        "metin": "$$72$$"
       },
       {
         "anahtar": "D",
-        "metin": "a · c > b · c"
+        "metin": "$$64$$"
       },
       {
         "anahtar": "E",
-        "metin": "a · b > b · c"
+        "metin": "$$60$$"
       }
     ],
     "dogruCevap": "E",
@@ -1539,27 +1539,27 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 35)\n$$|x - 2| + |2x - 4| = 9$$\n\ndenklemini sağlayan x gerçel sayılarının toplamı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 35)\n$$\\frac{6(\\sqrt{3} - 1)}{3 - \\sqrt{3}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "4"
+        "metin": "$$2\\sqrt{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "5"
+        "metin": "$$4\\sqrt{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "6"
+        "metin": "$$6\\sqrt{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "7"
+        "metin": "$$\\sqrt{6}$$"
       },
       {
         "anahtar": "E",
-        "metin": "8"
+        "metin": "$$3\\sqrt{6}$$"
       }
     ],
     "dogruCevap": "A",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 36)\nSayı doğrusu üzerinde, 2 noktasına eşit uzaklıkta olan iki farklı sayının çarpımı 3/4 olduğuna göre, bu sayılardan büyük olanı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 36)\nSayı doğrusu üzerinde, 2 noktasına eşit uzaklıkta olan iki farklı sayının çarpımı $$\\frac{32}{9}$$ olduğuna göre, büyük sayı küçük sayıdan kaç fazladır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "5/2"
+        "metin": "$$\\frac{1}{3}$$"
       },
       {
         "anahtar": "B",
-        "metin": "7/2"
+        "metin": "$$\\frac{4}{3}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3/4"
+        "metin": "$$\\frac{4}{5}$$"
       },
       {
         "anahtar": "D",
-        "metin": "5/4"
+        "metin": "$$\\frac{6}{5}$$"
       },
       {
         "anahtar": "E",
-        "metin": "7/4"
+        "metin": "$$\\frac{6}{7}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1629,27 +1629,27 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 37)\nÜç basamaklı ABC sayısı iki basamaklı AB sayısından 419 fazladır.\n\nBuna göre, A + B + C toplamı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 37)\n$x$ ve $y$ gerçel sayıları\n$$0 < y < 1$$\n$$|x| < y$$\neşitsizliklerini sağladığına göre,\n\nI. $x > 0$\nII. $x \\cdot y < 1$\nIII. $x^2 < y^2$\n\nifadelerinden hangileri <u>her zaman</u> doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "11"
+        "metin": "Yalnız I"
       },
       {
         "anahtar": "B",
-        "metin": "12"
+        "metin": "Yalnız II"
       },
       {
         "anahtar": "C",
-        "metin": "13"
+        "metin": "Yalnız III"
       },
       {
         "anahtar": "D",
-        "metin": "14"
+        "metin": "I ve II"
       },
       {
         "anahtar": "E",
-        "metin": "15"
+        "metin": "II ve III"
       }
     ],
     "dogruCevap": "E",
@@ -1674,7 +1674,7 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 38)\nZ tam sayılar kümesi olmak üzere,\nA = {x ∈ Z : -3 ≤ x ≤ 4}\nB = {x ∈ Z : 0 < x < 6}\nkümeleri veriliyor.\n\nBuna göre, A \\ B fark kümesinin eleman sayısı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 38)\n$\\mathbb{Z}$ tam sayılar kümesi olmak üzere,\n$$A = \\{x \\in \\mathbb{Z} : x^2 < 2\\}$$\n$$B = \\{x \\in \\mathbb{Z} : x^2 < 18\\}$$\nkümeleri veriliyor.\n\nBuna göre, $B \\setminus A$ fark kümesinin eleman sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1719,7 +1719,7 @@
     "brans": "Matematik",
     "bransSoruNo": 9,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 39)\nolduğuna göre, ifadesinin değeri kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 39)\n$$(x + y + 2)(x + y - 2) = 2xy$$\n\nolduğuna göre, $x^2 + y^2$ ifadesinin değeri kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1764,7 +1764,7 @@
     "brans": "Matematik",
     "bransSoruNo": 10,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 40)\nx, y ve z ardışık çift doğal sayıları\nkoşullarını sağlamaktadır.\nBuna göre, toplamı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 40)\n$x, y$ ve $z$ <u>ardışık çift</u> doğal sayıları\n$$x < y < z$$\n$$2 \\cdot y = 5(z - x)$$\nkoşullarını sağlamaktadır.\n\nBuna göre, $x + y + z$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1809,7 +1809,7 @@
     "brans": "Matematik",
     "bransSoruNo": 11,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 41)\nolduğuna göre, çarpımı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 41)\n$$2^{x-1} = a$$\n$$3^{x+1} = b$$\n$$6^x = 18$$\n\nolduğuna göre, $a \\cdot b$ çarpımı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -1854,27 +1854,27 @@
     "brans": "Matematik",
     "bransSoruNo": 12,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 42)\nGerçel sayılar kümesi üzerinde bir f fonksiyonu\nf(x) = 2x + 1\nbiçiminde tanımlanıyor.\n\nBuna göre, f(f(x)) = 15 eşitliğini sağlayan x değeri kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 42)\nGerçel sayılar kümesi üzerinde bir $f$ fonksiyonu\n$$f\\left(\\frac{x}{2}\\right) = \\frac{x^2}{4} + x + 1$$\nbiçiminde tanımlanıyor.\n\nBuna göre, $f(a) = 0$ eşitliğini sağlayan $a$ değeri kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{1}{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{3}{2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$-\\frac{1}{4}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$-1$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$-3$$"
       }
     ],
     "dogruCevap": "D",
@@ -1899,27 +1899,27 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 43)\nAhmet x yılında, Mehmet ise y yılında doğmuştur.\n\nAhmet’in yaşı Mehmet’in yaşının 2 katı olduğuna göre, bu iki kişinin yaşları toplamının x ve y türünden eşiti aşağıdakilerden hangisidir?",
+    "soruMetni": "(2012 KPSS GY - Soru 43)\nAhmet $x$ yılında, Mehmet ise $y$ yılında doğmuştur.\n\nAhmet’in yaşı Mehmet’in yaşının 2 katı olduğuna göre, bu iki kişinin yaşları toplamının $x$ ve $y$ türünden ifadesi aşağıdakilerden hangisidir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "2(y - x)"
+        "metin": "$x - y$"
       },
       {
         "anahtar": "B",
-        "metin": "3(y - x)"
+        "metin": "$y - x$"
       },
       {
         "anahtar": "C",
-        "metin": "4(y - x)"
+        "metin": "$2(y - x)$"
       },
       {
         "anahtar": "D",
-        "metin": "3(x - y)"
+        "metin": "$3(y - x)$"
       },
       {
         "anahtar": "E",
-        "metin": "2(x - y)"
+        "metin": "$4(x - y)$"
       }
     ],
     "dogruCevap": "D",
@@ -2124,7 +2124,7 @@
     "brans": "Matematik",
     "bransSoruNo": 18,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 48)\nBir sinyalizasyon sisteminde; A lambası ,\nB lambası ve C lambası dakikalık aralıklarla\nyanmaktadır.\nBu üç lamba, birlikte yandıktan kaç dakika sonra ilk\nkez tekrar birlikte yanar?",
+    "soruMetni": "(2012 KPSS GY - Soru 48)\nBir sinyalizasyon sisteminde; A lambası $$\\frac{1}{2}$$, B lambası $$\\frac{2}{3}$$ ve C lambası $$\\frac{3}{5}$$ dakikalık aralıklarla yanmaktadır.\n\nBu üç lamba, birlikte yandıktan kaç dakika sonra ilk kez tekrar birlikte yanar?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2259,27 +2259,27 @@
     "brans": "Matematik",
     "bransSoruNo": 21,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 51)\nBir çiçekçi, içerisinde güllerin ve lalelerin bulunduğu 2 tane buket düzenlemiştir. 1. buketteki gül sayısı lale sayısının 2 katı, 2. buketteki gül sayısı ise lale sayısının 3 katıdır.\n\nBu iki bukette toplam 30 gül ve 12 lale bulunduğuna göre, 1. bukette toplam kaç çiçek vardır?",
+    "soruMetni": "(2012 KPSS GY - Soru 51)\nBir çiçekçi, içerisinde güllerin ve lalelerin bulunduğu 2 tane buket düzenlemiştir. Bu buketlerdeki çiçek sayıları ile ilgili aşağıdakiler bilinmektedir:\n\n• 1. buketteki güllerin sayısı, lalelerin sayısının 2 katıdır.\n• 2. buketteki güllerin sayısı, lalelerin sayısının 3 katıdır.\n• 1. buketteki lalelerin sayısı, 2. buketteki lalelerin sayısının 2 katıdır.\n\nBu iki bukette toplam 30 çiçek bulunduğuna göre, 2. buketteki çiçek sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "15"
+        "metin": "9"
       },
       {
         "anahtar": "B",
-        "metin": "18"
+        "metin": "12"
       },
       {
         "anahtar": "C",
-        "metin": "21"
+        "metin": "15"
       },
       {
         "anahtar": "D",
-        "metin": "24"
+        "metin": "18"
       },
       {
         "anahtar": "E",
-        "metin": "27"
+        "metin": "21"
       }
     ],
     "dogruCevap": "B",
@@ -2394,7 +2394,7 @@
     "brans": "Matematik",
     "bransSoruNo": 24,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 54)\nAşağıdaki doğrusal grafikte, bir bakkalın elinde bulunan\n45 l ’ n in tamamıyla alabileceği toz ve küp şeker\nı\nmiktarları arasındaki ilişki verilmiştir.\nBuna göre bu bakkal, küp şekerin kilogramını kaç\nTL ’den almaktadır?",
+    "soruMetni": "(2012 KPSS GY - Soru 54)\nAşağıdaki doğrusal grafikte, bir bakkalın elinde bulunan 45 TL’nin tamamıyla alabileceği toz ve küp şeker miktarları arasındaki ilişki verilmiştir:\n\n• Sadece toz şeker alırsa: 20 kg toz şeker (0 kg küp şeker)\n• Birlikte alırsa: 12 kg toz şeker ve 6 kg küp şeker\n\nBuna göre bu bakkal, küp şekerin kilogramını kaç TL’den almaktadır?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2439,7 +2439,7 @@
     "brans": "Matematik",
     "bransSoruNo": 25,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 55)\nO merkezli çaplı\nyarım çember\nM merkezli çaplı\nyarım çember\nŞekildeki O ve M merkezli yarım çemberler arasında\nkalan boyalı bölgenin alanı birim karedir.\nBuna göre, bu iki yarım çemberin yarıçapları toplamı\nkaç birimdir?",
+    "soruMetni": "(2012 KPSS GY - Soru 55)\nO merkezli [AB] çaplı yarım çember\nM merkezli [CB] çaplı yarım çember\n|AC| = 6 birim\n\nŞekildeki O ve M merkezli yarım çemberler arasında kalan boyalı bölgenin alanı $33\\pi$ birimkaredir.\n\nBuna göre, bu iki yarım çemberin yarıçapları toplamı kaç birimdir?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2484,27 +2484,27 @@
     "brans": "Matematik",
     "bransSoruNo": 26,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 56)\nABCD bir kare, [AC] ve [BD] köşegenler.\nE noktası [AD] kenarı üzerinde ve |AE| = 2 cm, |ED| = 4 cm'dir.\n\nBuna göre, ABE üçgeninin alanının ABCD karesinin alanına oranı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 56)\nABCD bir yamuk,\n$$DC \\parallel AB$$\n$$DA \\parallel CE$$\n$$|DF| = |FA|$$\n$$|AG| = |GE| = |EB|$$\n\nYukarıdaki verilere göre, $$\\frac{A(AGF)}{A(ABCD)}$$ oranı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1/3"
+        "metin": "$$\\frac{1}{6}$$"
       },
       {
         "anahtar": "B",
-        "metin": "1/4"
+        "metin": "$$\\frac{1}{8}$$"
       },
       {
         "anahtar": "C",
-        "metin": "1/5"
+        "metin": "$$\\frac{1}{9}$$"
       },
       {
         "anahtar": "D",
-        "metin": "1/6"
+        "metin": "$$\\frac{1}{10}$$"
       },
       {
         "anahtar": "E",
-        "metin": "1/8"
+        "metin": "$$\\frac{1}{12}$$"
       }
     ],
     "dogruCevap": "D",
@@ -2529,27 +2529,27 @@
     "brans": "Matematik",
     "bransSoruNo": 27,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 57)\nŞekildeki ABC dik üçgeninde [AD] kenarortaydır.\n|AB| = 6 cm, |AC| = 8 cm olduğuna göre, |AD| uzunluğu kaç cm’dir?",
+    "soruMetni": "(2012 KPSS GY - Soru 57)\nABC bir dik üçgen,\n$$m(\\widehat{BCA}) = 30^\\circ$$\n$$BA \\perp AC$$\n$$ED \\perp BC$$\n$$|AE| = |EF|$$\n$$|ED| = 3\\text{ cm}$$\n\nŞekildeki ABC dik üçgeninde [AF] kenarortaydır.\n\nBuna göre, $|BD|$ uzunluğu kaç cm’dir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "3"
+        "metin": "$$3$$"
       },
       {
         "anahtar": "B",
-        "metin": "4"
+        "metin": "$$5$$"
       },
       {
         "anahtar": "C",
-        "metin": "5"
+        "metin": "$$6$$"
       },
       {
         "anahtar": "D",
-        "metin": "6"
+        "metin": "$$2\\sqrt{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "7"
+        "metin": "$$3\\sqrt{3}$$"
       }
     ],
     "dogruCevap": "E",
@@ -2574,7 +2574,7 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 58)\n58. – 60. soruları aşağıdaki bilgilere göre cevaplayınız.\n\nA, B, C ve D sınıfları bulunan bir anaokulundaki toplam 100 öğrencinin sınıflara göre dağılımı dairesel grafikte gösterilmiştir. A sınıfındaki öğrenci sayısı 30, B sınıfındaki öğrenci sayısı 25, C sınıfındaki öğrenci sayısı 20 ve D sınıfındaki öğrenci sayısı 25'tir.\n\nBu anaokuluna 10 yeni öğrenci katılmış ve her sınıfa en az bir öğrenci dağıtılmıştır.\n\nSon durumda D sınıfındaki öğrenci sayısı 2004 yılına göre nasıl değişmiştir?",
+    "soruMetni": "(2012 KPSS GY - Soru 58)\n58. – 60. soruları aşağıdaki bilgilere göre cevaplayınız.\n\nA, B, C ve D sınıfları bulunan bir anaokulunda, 2010 ve 2011 yıllarındaki öğrenci sayıları ile ilgili bazı bilgiler verilmiştir:\n\n• Bu anaokulunda 2010 ve 2011 yıllarındaki toplam öğrenci sayısı değişmemiştir.\n• 2010 yılında B sınıfındaki öğrenci sayısı, toplam öğrenci sayısının altıda biridir.\n• 2011 yılında sınıflardaki öğrenci sayılarının 2010 yılındakine göre değişim tablosu aşağıda verilmiştir:\n\n| Sınıf | A | B | C | D |\n| :---: | :---: | :---: | :---: | :---: |\n| Öğrenci Değişimi | -10 | +5 | -5 | +10 |\n\n• 2011 yılındaki öğrencilerin sınıflara göre dağılımının daire grafiğindeki merkez açıları: D: 120°, C: 60°, B: 75°, A: 105°\n\n2011 yılında A ve B sınıflarındaki toplam öğrenci sayısının 2010 yılına göre değişimiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
     "secenekler": [
       {
         "anahtar": "A",
@@ -2619,27 +2619,27 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 59)\n58. – 60. soruları aşağıdaki bilgilere göre cevaplayınız.\n\nA, B, C ve D sınıfları bulunan bir anaokulundaki toplam 100 öğrencinin sınıflara göre dağılımı dairesel grafikte gösterilmiştir. A sınıfındaki öğrenci sayısı 30, B sınıfındaki öğrenci sayısı 25, C sınıfındaki öğrenci sayısı 20 ve D sınıfındaki öğrenci sayısı 25'tir.\n\nBu anaokulunda yeni gelen 10 öğrencinin dağıtılmasından sonra A sınıfındaki öğrenci sayısı tüm öğrencilerin % 32'si olduğuna göre, A sınıfına sonradan kaç öğrenci katılmıştır?",
+    "soruMetni": "(2012 KPSS GY - Soru 59)\n58. – 60. soruları aşağıdaki bilgilere göre cevaplayınız.\n\nA, B, C ve D sınıfları bulunan bir anaokulunda, 2010 ve 2011 yıllarındaki öğrenci sayıları ile ilgili bazı bilgiler verilmiştir:\n\n• Bu anaokulunda 2010 ve 2011 yıllarındaki toplam öğrenci sayısı değişmemiştir.\n• 2010 yılında B sınıfındaki öğrenci sayısı, toplam öğrenci sayısının altıda biridir.\n• 2011 yılında sınıflardaki öğrenci sayılarının 2010 yılındakine göre değişim tablosu aşağıda verilmiştir:\n\n| Sınıf | A | B | C | D |\n| :---: | :---: | :---: | :---: | :---: |\n| Öğrenci Değişimi | -10 | +5 | -5 | +10 |\n\n• 2011 yılındaki öğrencilerin sınıflara göre dağılımının daire grafiğindeki merkez açıları: D: 120°, C: 60°, B: 75°, A: 105°\n\n2010 yılında C sınıfındaki öğrenci sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "2"
+        "metin": "25"
       },
       {
         "anahtar": "B",
-        "metin": "3"
+        "metin": "30"
       },
       {
         "anahtar": "C",
-        "metin": "4"
+        "metin": "35"
       },
       {
         "anahtar": "D",
-        "metin": "5"
+        "metin": "40"
       },
       {
         "anahtar": "E",
-        "metin": "6"
+        "metin": "45"
       }
     ],
     "dogruCevap": "A",
@@ -2664,27 +2664,27 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2012 KPSS GY - Soru 60)\n58. – 60. soruları aşağıdaki bilgilere göre cevaplayınız.\n\nA, B, C ve D sınıfları bulunan bir anaokulundaki toplam 100 öğrencinin sınıflara göre dağılımı dairesel grafikte gösterilmiştir. A sınıfındaki öğrenci sayısı 30, B sınıfındaki öğrenci sayısı 25, C sınıfındaki öğrenci sayısı 20 ve D sınıfındaki öğrenci sayısı 25'tir.\n\nSon durumda C sınıfındaki öğrenci sayısının başlangıçtaki toplam öğrenci sayısına oranı kaçtır?",
+    "soruMetni": "(2012 KPSS GY - Soru 60)\n58. – 60. soruları aşağıdaki bilgilere göre cevaplayınız.\n\nA, B, C ve D sınıfları bulunan bir anaokulunda, 2010 ve 2011 yıllarındaki öğrenci sayıları ile ilgili bazı bilgiler verilmiştir:\n\n• Bu anaokulunda 2010 ve 2011 yıllarındaki toplam öğrenci sayısı değişmemiştir.\n• 2010 yılında B sınıfındaki öğrenci sayısı, toplam öğrenci sayısının altıda biridir.\n• 2011 yılında sınıflardaki öğrenci sayılarının 2010 yılındakine göre değişim tablosu aşağıda verilmiştir:\n\n| Sınıf | A | B | C | D |\n| :---: | :---: | :---: | :---: | :---: |\n| Öğrenci Değişimi | -10 | +5 | -5 | +10 |\n\n• 2011 yılındaki öğrencilerin sınıflara göre dağılımının daire grafiğindeki merkez açıları: D: 120°, C: 60°, B: 75°, A: 105°\n\n2010 yılındaki öğrencilerin sınıflara göre dağılımı bir daire grafiği ile gösterildiğinde D sınıfına karşılık gelen merkez açısının ölçüsü kaç derece olur?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1/4"
+        "metin": "75"
       },
       {
         "anahtar": "B",
-        "metin": "1/5"
+        "metin": "80"
       },
       {
         "anahtar": "C",
-        "metin": "6/25"
+        "metin": "90"
       },
       {
         "anahtar": "D",
-        "metin": "7/25"
+        "metin": "105"
       },
       {
         "anahtar": "E",
-        "metin": "2/9"
+        "metin": "110"
       }
     ],
     "dogruCevap": "C",

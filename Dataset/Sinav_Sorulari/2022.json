@@ -524,7 +524,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n3"
+        "metin": ""
       }
     ],
     "dogruCevap": "D",
@@ -569,7 +569,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n3"
+        "metin": ""
       }
     ],
     "dogruCevap": "C",
@@ -1359,27 +1359,27 @@
     "brans": "Matematik",
     "bransSoruNo": 1,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 31)\nAnadolu'da jeolojik dönemler boyunca yağışlı ve nemli\niklim koşullarına bağlı olarak gür bir bitki örtüsü\ngelişmiştir. Bu bitkilerin göl ve bataklık ortamlarda\nbirikmesi sonucu zamanla zengin kömür yatakları\noluşmuştur. Bunlardan rezerv bakımından en zengin\nolanı, linyit yataklarıdır. Soma, Yatağan, Elbistan gibi\nlinyit yatakları bunlardan bazılarıdır. \nBu yataklar aşağıdaki jeolojik dönemlerin\nhangisinde oluşmuştur?\nPrekambriyen\nPaleozoyik\nMesozoyik\nTersiyer\nKuvaterner",
+    "soruMetni": "(2022 KPSS GY - Soru 31)\n$$\\frac{13}{7} \\cdot \\frac{10 - \\frac{1}{5}}{17 - \\frac{1}{10}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\frac{15}{13}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$\\frac{14}{13}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\frac{13}{7}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$\\frac{12}{7}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\frac{11}{7}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1404,27 +1404,27 @@
     "brans": "Matematik",
     "bransSoruNo": 2,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 32)\nÖSYM KPSS Lisans 2022 Soru 32",
+    "soruMetni": "(2022 KPSS GY - Soru 32)\n$$\\left(\\frac{1}{0,16}\\right) \\cdot \\left(\\frac{0,9 - 0,52}{0,67 + 0,28}\\right)$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "1,5"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "1,6"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "2"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "2,4"
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n24"
+        "metin": "2,5"
       }
     ],
     "dogruCevap": "E",
@@ -1449,27 +1449,27 @@
     "brans": "Matematik",
     "bransSoruNo": 3,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 33)\n34.\nDiğer sayfaya geçiniz.\n10",
+    "soruMetni": "(2022 KPSS GY - Soru 33)\n$$\\frac{11^4 - 41^2}{6^5 - 6^4}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
-      },
-      {
-        "anahtar": "B",
         "metin": "2"
       },
       {
-        "anahtar": "C",
+        "anahtar": "B",
         "metin": "3"
       },
       {
-        "anahtar": "D",
+        "anahtar": "C",
         "metin": "4"
       },
       {
+        "anahtar": "D",
+        "metin": "5"
+      },
+      {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n24"
+        "metin": "6"
       }
     ],
     "dogruCevap": "A",
@@ -1494,27 +1494,27 @@
     "brans": "Matematik",
     "bransSoruNo": 4,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 34)\nÖSYM KPSS Lisans 2022 Soru 34",
+    "soruMetni": "(2022 KPSS GY - Soru 34)\n$$\\frac{\\sqrt{72} - \\sqrt{24}}{4} + \\frac{2}{\\sqrt{6} - \\sqrt{2}}$$\n\nişleminin sonucu kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$\\sqrt{2}$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$2\\sqrt{2}$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$\\sqrt{3}$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$2\\sqrt{3}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$\\sqrt{6}$$"
       }
     ],
     "dogruCevap": "B",
@@ -1539,27 +1539,27 @@
     "brans": "Matematik",
     "bransSoruNo": 5,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 35)\nA, B ve C birer rakam olmak üzere, üç basamaklı\nABC doğal sayısı iki basamaklı AB doğal sayısına\nbölündüğünde kalan 4; iki basamaklı CC doğal sayısına\nbölündüğünde bölüm C, kalan B olmaktadır.\n\nBuna göre, toplamı kaçtır?",
+    "soruMetni": "(2022 KPSS GY - Soru 35)\nA, B ve C birer rakam olmak üzere, üç basamaklı ABC doğal sayısı iki basamaklı AB doğal sayısına bölündüğünde kalan 4; iki basamaklı CC doğal sayısına bölündüğünde bölüm C, kalan B olmaktadır.\n\nBuna göre, $A + B + C$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "13"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "16"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "19"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "22"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "25"
       }
     ],
     "dogruCevap": "A",
@@ -1584,27 +1584,27 @@
     "brans": "Matematik",
     "bransSoruNo": 6,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 36)\n37.\nDiğer sayfaya geçiniz.\n25",
+    "soruMetni": "(2022 KPSS GY - Soru 36)\n$a, b$ ve $c$ doğal sayıları için\n• $a$ bir çift sayıdır.\n• $a \\cdot c$ bir tek sayıdır.\n• $b + c$ bir tek sayıdır.\n\nifadelerinden üçünün de yanlış olduğu bilinmektedir.\n\nBuna göre,\nI. $(a + b) \\cdot c$\nII. $(a + c) \\cdot b$\nIII. $(b + c) \\cdot a$\n\nifadelerinden hangileri bir çift sayıdır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "Yalnız I"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "Yalnız II"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "I ve II"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "II ve III"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "I, II ve III"
       }
     ],
     "dogruCevap": "E",
@@ -1629,27 +1629,27 @@
     "brans": "Matematik",
     "bransSoruNo": 7,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 37)\n38.\nDiğer sayfaya geçiniz.\n11",
+    "soruMetni": "(2022 KPSS GY - Soru 37)\n$x, y$ ve $z$ gerçel sayıları\n$$3x + 8 = 4 + 2y = 2z - 8$$\n$$x \\cdot (z - y) = 18$$\neşitliklerini sağlamaktadır.\n\nBuna göre, $x + y + z$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "20"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "21"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "22"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "23"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "24"
       }
     ],
     "dogruCevap": "C",
@@ -1674,30 +1674,30 @@
     "brans": "Matematik",
     "bransSoruNo": 8,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 38)\nÖSYM KPSS Lisans 2022 Soru 38",
+    "soruMetni": "(2022 KPSS GY - Soru 38)\n$a$ bir pozitif gerçel sayı olmak üzere,\n$$\\frac{8^{27} + 5 \\cdot 4^{36}}{a + 5} = 256^9$$\neşitliği veriliyor.\n\nBuna göre, $a$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "$$2^7$$"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "$$2^8$$"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "$$2^9$$"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "$$2^{10}$$"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "$$2^{11}$$"
       }
     ],
-    "dogruCevap": "İPTAL",
+    "dogruCevap": "C",
     "aciklama": {
       "netOzet": "2022 ÖSYM KPSS Lisans Genel Yetenek 38. sorunun resmi doğru cevabı İPTAL seçeneğidir.",
       "secenekDetaylari": {
@@ -1899,27 +1899,27 @@
     "brans": "Matematik",
     "bransSoruNo": 13,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 43)\n44.\nSu verirken anlık olarak su ısıtabilen bir su ısıtıcısı\nnormal, ılık ve sıcak olmak üzere üç ayara sahiptir.\nNormal ayarda su verirken ısıtma yapmadığı için enerji\ntüketmeyen ısıtıcı, ılık ayarda su verirken her 1 litre su\niçin 50 birim, sıcak ayarda su verirken her 1 litre su için\n60 birim enerji tüketmektedir.\nBu ısıtıcının toplam 30 litre su verdiği ve 1380 birim\nenerji tükettiği bir günde, sıcak ayarda verdiği su miktarı\nnormal ayarda verdiği su miktarının 2 katıdır.\nBuna göre, ısıtıcı bu günde ılık ayarda kaç litre su\nvermiştir?\n10\n12\n14\n16\n18",
+    "soruMetni": "(2022 KPSS GY - Soru 43)\nÜç basamaklı 3AB, B3A ve 23B doğal sayılarından yalnızca biri 3’e, yalnızca biri 4’e ve yalnızca biri 5’e tam bölünebilmektedir.\n\nBuna göre, $A + B$ toplamı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
-      },
-      {
-        "anahtar": "B",
-        "metin": "2"
-      },
-      {
-        "anahtar": "C",
-        "metin": "3"
-      },
-      {
-        "anahtar": "D",
         "metin": "4"
       },
       {
-        "anahtar": "E",
+        "anahtar": "B",
         "metin": "5"
+      },
+      {
+        "anahtar": "C",
+        "metin": "6"
+      },
+      {
+        "anahtar": "D",
+        "metin": "7"
+      },
+      {
+        "anahtar": "E",
+        "metin": "8"
       }
     ],
     "dogruCevap": "A",
@@ -1944,27 +1944,27 @@
     "brans": "Matematik",
     "bransSoruNo": 14,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 44)\nÖSYM KPSS Lisans 2022 Soru 44",
+    "soruMetni": "(2022 KPSS GY - Soru 44)\nEda, çizgili defterinin belirli bir sayfasının en üst satırından başlayarak bir şiirin her bir kıtasını ardışık 4 satıra yazmıştır. Ardışık her iki kıta arasında 2 satır boşluk bırakan Eda, şiiri yazmayı bitirdiğinde bu sayfada 3 satırı şiirin altında olmak üzere, toplam 17 satırı boş bıraktığını görmüştür.\n\nBuna göre, bu sayfadaki toplam satır sayısı kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "49"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "48"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "45"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "42"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "41"
       }
     ],
     "dogruCevap": "A",
@@ -1989,27 +1989,27 @@
     "brans": "Matematik",
     "bransSoruNo": 15,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 45)\nSu verirken anlık olarak su ısıtabilen bir su ısıtıcısı\nnormal, ılık ve sıcak olmak üzere üç ayara sahiptir.\nNormal ayarda su verirken ısıtma yapmadığı için enerji\ntüketmeyen ısıtıcı, ılık ayarda su verirken her 1 litre su\niçin 50 birim, sıcak ayarda su verirken her 1 litre su için\n60 birim enerji tüketmektedir.\nBu ısıtıcının toplam 30 litre su verdiği ve 1380 birim\nenerji tükettiği bir günde, sıcak ayarda verdiği su miktarı\nnormal ayarda verdiği su miktarının 2 katıdır.\nBuna göre, ısıtıcı bu günde ılık ayarda kaç litre su\nvermiştir?",
+    "soruMetni": "(2022 KPSS GY - Soru 45)\nSu verirken anlık olarak su ısıtabilen bir su ısıtıcısı normal, ılık ve sıcak olmak üzere üç ayara sahiptir. Normal ayarda su verirken ısıtma yapmadığı için enerji tüketmeyen ısıtıcı, ılık ayarda su verirken her 1 litre su için 50 birim, sıcak ayarda su verirken her 1 litre su için 60 birim enerji tüketmektedir.\nBu ısıtıcının toplam 30 litre su verdiği ve 1380 birim enerji tükettiği bir günde, sıcak ayarda verdiği su miktarı normal ayarda verdiği su miktarının 2 katıdır.\n\nBuna göre, ısıtıcı bu günde ılık ayarda kaç litre su vermiştir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "10"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "12"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "14"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "16"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "18"
       }
     ],
     "dogruCevap": "E",
@@ -2034,27 +2034,27 @@
     "brans": "Matematik",
     "bransSoruNo": 16,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 46)\nDiğer sayfaya geçiniz.\n13",
+    "soruMetni": "(2022 KPSS GY - Soru 46)\nBir odanın zeminine serilen bir halı, zeminin % 60’ını kaplamaktadır. Bu odanın zeminine, % 40’ı bu halının üzerinde kalacak biçimde ikinci bir halı daha serildiğinde zeminin % 78’i halı ile kaplanmıştır.\nBu iki halı hiç çakışmayacak biçimde odanın zeminine serildiğinde zeminin halı ile kaplanmamış kısmı 3 metrekare olarak hesaplanmıştır.\n\nBuna göre, serilen ikinci halı kaç metrekaredir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "6"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "9"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "12"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "15"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "18"
       }
     ],
     "dogruCevap": "B",
@@ -2099,7 +2099,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n27"
+        "metin": ""
       }
     ],
     "dogruCevap": "D",
@@ -2144,7 +2144,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n27"
+        "metin": ""
       }
     ],
     "dogruCevap": "E",
@@ -2529,27 +2529,27 @@
     "brans": "Matematik",
     "bransSoruNo": 27,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 57)\nÖSYM KPSS Lisans 2022 Soru 57",
+    "soruMetni": "(2022 KPSS GY - Soru 57)\nABC üçgen, $E \\in [DF]$\n$$|AD| = |DB|, \\quad |AF| = |FC|, \\quad |BG| = |GH| = |HC|$$\nYukarıdaki şekilde BGED ve HCFE dörtgenlerinin alanları sırasıyla 12 ve 23 birimkaredir.\n\nBuna göre, GHE üçgeninin alanı kaç birimkaredir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "7"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "8"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "9"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "10"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "11"
       }
     ],
     "dogruCevap": "D",
@@ -2574,27 +2574,27 @@
     "brans": "Matematik",
     "bransSoruNo": 28,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 58)\nÖSYM KPSS Lisans 2022 Soru 58",
+    "soruMetni": "(2022 KPSS GY - Soru 58)\nABC dik üçgen, $$|AE| = |ED|, \\quad |CE| = |CD|$$\n$$m(\\widehat{ACB}) = 90^\\circ, \\quad m(\\widehat{CDB}) = 93^\\circ, \\quad m(\\widehat{DBC}) = x$$\n\nYukarıdaki şekilde D ve E noktaları ABC üçgeninin kenarları üzerindedir.\n\nBuna göre, $x$ kaç derecedir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "61"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "62"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "63"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "64"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "65"
       }
     ],
     "dogruCevap": "A",
@@ -2619,27 +2619,27 @@
     "brans": "Matematik",
     "bransSoruNo": 29,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 59)\nÖSYM KPSS Lisans 2022 Soru 59",
+    "soruMetni": "(2022 KPSS GY - Soru 59)\nŞekilde D merkezli BF çaplı yarım dairenin E merkezli DF çaplı çemberin dışında kalan kısmı sarıya, C merkezli AB çaplı yarım daire ise maviye boyanmıştır.\nE merkezli DF çaplı çember, AB doğru parçasına C noktasında teğettir.\n\nSarı boyalı bölgenin alanı 6 birimkare olduğuna göre, mavi boyalı bölgenin alanı kaç birimkaredir?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "12"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "14"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "15"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "16"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "18"
       }
     ],
     "dogruCevap": "D",
@@ -2664,27 +2664,27 @@
     "brans": "Matematik",
     "bransSoruNo": 30,
     "konu": "Matematik (ÖSYM Çıkmış)",
-    "soruMetni": "(2022 KPSS GY - Soru 60)\nÖSYM KPSS Lisans 2022 Soru 60",
+    "soruMetni": "(2022 KPSS GY - Soru 60)\n$k$ bir pozitif gerçel sayı olmak üzere, dik koordinat düzleminde $x + 2y = k$ doğrusunun eksenleri kestiği noktaların orta noktası, $2x + 3y = 21$ doğrusu üzerindedir.\n\nBuna göre, $k$ kaçtır?",
     "secenekler": [
       {
         "anahtar": "A",
-        "metin": "1"
+        "metin": "10"
       },
       {
         "anahtar": "B",
-        "metin": "2"
+        "metin": "12"
       },
       {
         "anahtar": "C",
-        "metin": "3"
+        "metin": "14"
       },
       {
         "anahtar": "D",
-        "metin": "4"
+        "metin": "16"
       },
       {
         "anahtar": "E",
-        "metin": "5"
+        "metin": "18"
       }
     ],
     "dogruCevap": "B",
@@ -3224,7 +3224,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n3"
+        "metin": ""
       }
     ],
     "dogruCevap": "D",
@@ -3269,7 +3269,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n3"
+        "metin": ""
       }
     ],
     "dogruCevap": "C",
@@ -4124,7 +4124,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n24"
+        "metin": ""
       }
     ],
     "dogruCevap": "E",
@@ -4169,7 +4169,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n24"
+        "metin": ""
       }
     ],
     "dogruCevap": "A",
@@ -4799,7 +4799,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n27"
+        "metin": ""
       }
     ],
     "dogruCevap": "D",
@@ -4844,7 +4844,7 @@
       },
       {
         "anahtar": "E",
-        "metin": "Diğer sayfaya geçiniz.\n27"
+        "metin": ""
       }
     ],
     "dogruCevap": "E",
