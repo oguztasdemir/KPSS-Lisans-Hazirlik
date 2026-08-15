@@ -1,0 +1,292 @@
+{
+  "baslik": "KPSS Lisans Çıkmış Sorular Master Veri Seti Özeti",
+  "aciklama": "ÖSYM tarafından 2009-2025 yılları arasında yapılmış KPSS Lisans GY-GK sınavlarının kapsamlı soru dağılımı ve istatistik raporu.",
+  "sonGuncelleme": "2026-08-15 13:22:07",
+  "surum": "2.0.0",
+  "genelIstatistikler": {
+    "toplamSoruSayisi": 1744,
+    "toplamSinavSayisi": 15,
+    "mevcutYillar": [
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "soruHavuzuDurumu": "Doğrulanmış ve Kullanıma Hazır"
+  },
+  "testGrubuToplamlari": {
+    "Genel Yetenek": 904,
+    "Genel Kültür": 840
+  },
+  "bransBazliToplamlar": {
+    "Türkçe": 454,
+    "Matematik": 450,
+    "Tarih": 420,
+    "Coğrafya": 252,
+    "Vatandaşlık": 84,
+    "Güncel Bilgiler": 84
+  },
+  "yilBazliDetayliOzet": [
+    {
+      "yil": 2009,
+      "dosyaAdi": "2009.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2010,
+      "dosyaAdi": "2010.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": [
+        "2010_GY_11"
+      ]
+    },
+    {
+      "yil": 2012,
+      "dosyaAdi": "2012.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2013,
+      "dosyaAdi": "2013.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": [
+        "2013_GY_50"
+      ]
+    },
+    {
+      "yil": 2014,
+      "dosyaAdi": "2014.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": [
+        "2014_GK_56"
+      ]
+    },
+    {
+      "yil": 2015,
+      "dosyaAdi": "2015.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2016,
+      "dosyaAdi": "2016.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": [
+        "2016_GK_33"
+      ]
+    },
+    {
+      "yil": 2017,
+      "dosyaAdi": "2017.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2019,
+      "dosyaAdi": "2019.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2020,
+      "dosyaAdi": "2020.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2021,
+      "dosyaAdi": "2021.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2022,
+      "dosyaAdi": "2022.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": [
+        "2022_GY_38"
+      ]
+    },
+    {
+      "yil": 2023,
+      "dosyaAdi": "2023.json",
+      "toplamSoru": 64,
+      "genelYetenekSoruSayisi": 64,
+      "genelKulturSoruSayisi": 0,
+      "bransDagilimi": {
+        "Türkçe": 34,
+        "Matematik": 30,
+        "Tarih": 0,
+        "Coğrafya": 0,
+        "Vatandaşlık": 0,
+        "Güncel Bilgiler": 0
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2024,
+      "dosyaAdi": "2024.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    },
+    {
+      "yil": 2025,
+      "dosyaAdi": "2025.json",
+      "toplamSoru": 120,
+      "genelYetenekSoruSayisi": 60,
+      "genelKulturSoruSayisi": 60,
+      "bransDagilimi": {
+        "Türkçe": 30,
+        "Matematik": 30,
+        "Tarih": 30,
+        "Coğrafya": 18,
+        "Vatandaşlık": 6,
+        "Güncel Bilgiler": 6
+      },
+      "iptalEdilenSorular": []
+    }
+  ]
+}
