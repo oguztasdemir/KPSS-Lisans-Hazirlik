@@ -41,7 +41,7 @@ export function renderPastExams(container, params = {}) {
     return;
   }
 
-  const years = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009];
+  const years = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009];
   const branches = [
     { name: 'Tarih', icon: '📜', color: '#f59e0b', count: '27 Soru / Sınav', desc: 'İslamiyet Öncesi, Selçuklu, Osmanlı, İnkılap Tarihi' },
     { name: 'Coğrafya', icon: '🌍', color: '#10b981', count: '18 Soru / Sınav', desc: 'Fiziki, Beşeri, Ekonomik ve Bölgesel Coğrafya' },
