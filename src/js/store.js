@@ -62,12 +62,13 @@ class Store {
   // Record an answered question
   recordAnswer(questionId, selectedKey, isCorrect, subject, topic, year, questionIndex = 0) {
     const today = new Date().toISOString().split('T')[0];
+    const normSubj = this.normalizeSubject(subject);
     
     this.answers[questionId] = {
       selected: selectedKey,
       isCorrect: isCorrect,
       timestamp: Date.now(),
-      subject: subject,
+      subject: normSubj,
       topic: topic,
       year: year
     };
@@ -114,6 +115,18 @@ class Store {
     return this.examProgress[year]?.lastIndex || 0;
   }
 
+  normalizeSubject(subj) {
+    if (!subj) return 'Genel';
+    const s = subj.trim();
+    if (s.includes('Matematik') || s.includes('Geometri')) return 'Matematik & Geometri';
+    if (s.includes('Türkçe') || s.includes('Turkce')) return 'Türkçe';
+    if (s.includes('Tarih')) return 'Tarih';
+    if (s.includes('Coğrafya') || s.includes('Cografya')) return 'Coğrafya';
+    if (s.includes('Vatandaşlık') || s.includes('Vatandaslik')) return 'Vatandaşlık';
+    if (s.includes('Güncel') || s.includes('Guncel')) return 'Güncel Bilgiler';
+    return s;
+  }
+
   // Calculate detailed stats for a specific exam year
   getExamStats(year) {
     const yearNum = parseInt(year, 10);
@@ -135,18 +148,18 @@ class Store {
 
     yearQuestions.forEach(q => {
       const ans = this.answers[q.id];
-      const subj = q.brans || q.subject;
+      const normSubj = this.normalizeSubject(q.brans || q.subject);
 
       if (ans) {
         answered++;
         if (ans.isCorrect) {
           correct++;
-          if (subj && subjectBreakdown[subj]) subjectBreakdown[subj].correct++;
+          if (normSubj && subjectBreakdown[normSubj]) subjectBreakdown[normSubj].correct++;
         } else {
           wrong++;
-          if (subj && subjectBreakdown[subj]) subjectBreakdown[subj].wrong++;
+          if (normSubj && subjectBreakdown[normSubj]) subjectBreakdown[normSubj].wrong++;
         }
-        if (subj && subjectBreakdown[subj]) subjectBreakdown[subj].answered++;
+        if (normSubj && subjectBreakdown[normSubj]) subjectBreakdown[normSubj].answered++;
       }
     });
 
@@ -279,14 +292,24 @@ class Store {
       'Güncel Bilgiler': { solved: 0, correct: 0, wrong: 0 }
     };
 
-    Object.values(this.answers).forEach(ans => {
+    // Build quick lookup map if allQuestions exists
+    const qMap = {};
+    if (this.allQuestions && this.allQuestions.length > 0) {
+      this.allQuestions.forEach(q => { if (q && q.id) qMap[q.id] = q; });
+    }
+
+    Object.entries(this.answers).forEach(([qId, ans]) => {
       if (ans.isCorrect) totalCorrect++;
       else totalWrong++;
 
-      if (ans.subject && subjectStats[ans.subject]) {
-        subjectStats[ans.subject].solved++;
-        if (ans.isCorrect) subjectStats[ans.subject].correct++;
-        else subjectStats[ans.subject].wrong++;
+      const questionObj = qMap[qId];
+      const rawSubj = ans.subject || (questionObj ? (questionObj.brans || questionObj.subject) : null);
+      const normSubj = this.normalizeSubject(rawSubj);
+
+      if (normSubj && subjectStats[normSubj]) {
+        subjectStats[normSubj].solved++;
+        if (ans.isCorrect) subjectStats[normSubj].correct++;
+        else subjectStats[normSubj].wrong++;
       }
     });
 

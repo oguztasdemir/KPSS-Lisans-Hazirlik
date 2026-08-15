@@ -5,6 +5,7 @@
 
 import { store } from './store.js';
 import { sound } from '../utils/sound.js';
+import { renderMath } from './utils/renderMath.js';
 
 export class QuizController {
   constructor(containerElement, questions, options = {}) {
@@ -245,9 +246,8 @@ export class QuizController {
           </button>
         </div>
       </div>
-    `;
-
     this.bindEvents(q, correctAnswer, subject, topic, year);
+    this.renderMath();
   }
 
   bindEvents(q, correctAnswer, subject, topic, year) {
@@ -499,5 +499,9 @@ export class QuizController {
       closeModal();
       window.location.hash = '#pastexams';
     });
+  }
+
+  renderMath() {
+    renderMath(this.container);
   }
 }
