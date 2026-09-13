@@ -142,3 +142,12 @@ Tarayıcınızda açın: `http://localhost:3000`
 ## 📄 Lisans
 
 Bu proje eğitim ve KPSS sınavına hazırlık amaçlı geliştirilmiştir. Tüm hakları saklıdır.
+
+---
+
+## ⚖️ Yasal Uyarı & Telif Hakkı Bildirimi (Disclaimer)
+
+> **Önemli Bilgilendirme:** Bu proje ve kaynak kodları **tamamen kişisel eğitim, bireysel sınava hazırlık, algoritmik analiz ve açık kaynak yazılım geliştirme** amacıyla hazırlanmıştır. 
+> - Proje içerisinde yer alan hiçbir içerik, soru veya materyal **kesinlikle ticari bir amaç taşımamakta**, herhangi bir gelir, ücret veya ticari kazanç unsuru barındırmamaktadır.
+> - Sınav formatları, soru kökleri ve ilgili tüm fikri haklar **ÖSYM (Ölçme, Seçme ve Yerleştirme Merkezi)** ve ilgili resmi kurumlara aittir. 
+> - Bu yazılım projesi, yalnızca adayların kişisel çalışma performanslarını ölçme, zayıf oldukları konuları analiz etme ve bireysel eğitim süreçlerini kolaylaştırmaya yönelik açık kaynaklı bir araçtır.
